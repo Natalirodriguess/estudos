@@ -1,2 +1,2 @@
 # estudos
-Materiais, resumos e anotações de estudos realizados 
+Conteúdos estudados
