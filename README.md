@@ -6,6 +6,7 @@ Estão sendo realizadas, leitura, pesquisa, anotações, criação de esquema e 
 
 ### Capítulo 4
 Esquema contendo os primeiros tópicos tratados no capítulo 4
-![image](https://github.com/Natalirodriguess/estudos/assets/101203099/197d58be-0150-477d-8de6-a5956d3a216d)
+![image](https://github.com/Natalirodriguess/estudos/assets/101203099/7fa03482-b12e-4bf9-b84b-6f71f07a3e0b)
+
 
 
