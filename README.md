@@ -1,7 +1,9 @@
-# Conteúdos Estudados no curso Ciência da Computação
-### Conteúdos estudados
-[1.Álgebra Binária]([/main/README.md#álgebra-binária](https://github.com/Natalirodriguess/estudos#%C3%A1lgebra-bin%C3%A1ria)https://github.com/Natalirodriguess/estudos#%C3%A1lgebra-bin%C3%A1ria)
+# Capítulos estudados para a CTFL
+### Capítulos estudados
+Está sendo realizada, leitura, pesquisa, anotações e criação de esquema para melhor fixação dos conteúdos.
 
 
 
-### Álgebra Binária
+### Capítulo 4
+![image](https://github.com/Natalirodriguess/estudos/assets/101203099/2240e11c-cd49-4f59-8dfc-27ecabc011fe)
+
