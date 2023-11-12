@@ -1,6 +1,6 @@
 # Capítulos estudados para a CTFL
 ### Capítulos estudados
-Está sendo realizada, leitura, pesquisa, anotações e criação de esquema para melhor fixação dos conteúdos.
+Estão sendo realizadas, leitura, pesquisa, anotações, criação de esquema e exemplificação para melhor fixação dos conteúdos.
 
 
 
