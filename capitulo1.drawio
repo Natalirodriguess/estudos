@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:07:29.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2O5uqc731iEISXLd1NeQ" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:19:22.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wBg_kor35sfNd_6_1LNP" version="22.1.4" type="github">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
-    <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,6 +12,11 @@
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-2" target="Rf-HTqd8Ef8qsDdukX3X-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="807.25" y="435.9000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-2" target="Rf-HTqd8Ef8qsDdukX3X-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="352.11460876464844" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-2" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
@@ -81,6 +86,55 @@
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-29" value="O que fazem?" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="752" y="405.87" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-33" value="É falso (equívoco) afirmar que" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="234" y="405.88" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-34" target="Rf-HTqd8Ef8qsDdukX3X-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-34" value="Os testes consistem apenas na execução dos testes (executar o software e verificar o resultado do teste)" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="440.88" width="127" height="182.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-33" target="Rf-HTqd8Ef8qsDdukX3X-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="243" y="337" as="sourcePoint" />
+            <mxPoint x="138" y="328" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-40" value="Os testes se concentram apenas na verificação dos objetos de teste." style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry y="243" width="127" height="182.12" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-42" target="Rf-HTqd8Ef8qsDdukX3X-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-42" value="No entanto, é verdadeiro afirmar que&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-203" y="501.94000000000005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-44" value="" style="endArrow=classic;html=1;rounded=0;fontSize=16;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-40" target="Rf-HTqd8Ef8qsDdukX3X-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3.1399999999999864" y="356.88" as="sourcePoint" />
+            <mxPoint x="-191" y="330" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-46" target="Rf-HTqd8Ef8qsDdukX3X-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-46" value="No entanto, é verdadeiro afirmar que&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-208" y="304.06000000000006" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-48" value="Os testes de software inclui também outras atividades e deve estar alinhado ao SDLC (ciclo de vida do desevolvimento de software)&amp;nbsp;" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-517" y="285.09000000000003" width="223" height="97.94" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-50" value="Os testes &lt;b&gt;verificam &lt;/b&gt;E &lt;b&gt;validam&lt;/b&gt; o software" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-463" y="496.97" width="174" height="69.94" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-52" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.019;entryY=0.641;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-50" target="Rf-HTqd8Ef8qsDdukX3X-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-122" y="670" as="sourcePoint" />
+            <mxPoint x="-72" y="620" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
