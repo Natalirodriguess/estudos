@@ -1,9 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T19:48:38.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.4" etag="XEYK3ylZ5OUQko9a6bfJ" type="github">
-  <diagram name="Página-1" id="Wj8ztN7IJlX-EeW_X8ED">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-11-25T19:50:55.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jI8LuKBGMDO-gfO-o20z" version="22.1.4" type="github">
+  <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
+    <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-2" target="Rf-HTqd8Ef8qsDdukX3X-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="490.5" y="354.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-2" value="Testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430.5" y="415.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-4" target="Rf-HTqd8Ef8qsDdukX3X-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-4" value="O que são?" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="430.5" y="321.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-6" target="Rf-HTqd8Ef8qsDdukX3X-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-6" value="Conjunto de atividades para encontrar defeitos e avaliar a qualidade dos artefatos de software" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="419" y="152.25" width="143" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-7" value="Artefatos são todos os produtos produzidos durante o processo de software que são passíveis de teste: código fonte, documentação, requisitos, protótipos,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="663.5" y="130" width="191" height="131.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
