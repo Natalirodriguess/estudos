@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:00:52.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="sWQ2VMnr8AM3LuyfbUpM" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:04:48.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UQOTF-gEkgajfQAsHO4-" version="22.1.4" type="github">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -42,6 +42,9 @@
             <mxPoint x="623.75" y="555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-20" target="Rf-HTqd8Ef8qsDdukX3X-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-20" value="Verificação" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="373" y="652" width="120" height="60" as="geometry" />
         </mxCell>
@@ -59,6 +62,17 @@
             <mxPoint x="593.25" y="623" as="sourcePoint" />
             <mxPoint x="835.75" y="699" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-24" value="Verificar se o sistema/software atende aos requisitos especificados" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="357.5" y="791" width="151" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Rf-HTqd8Ef8qsDdukX3X-27" source="Rf-HTqd8Ef8qsDdukX3X-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="665.5" y="721" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-27" value="Checar se o sistema/software atende as necessidades dos usuários e stakholders em ambiente operacional" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="572.13" y="791" width="171.75" height="131" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
