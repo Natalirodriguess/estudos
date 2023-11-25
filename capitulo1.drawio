@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:04:48.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="UQOTF-gEkgajfQAsHO4-" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:05:46.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QAJbSESqhO4xXxOPNSFN" version="22.1.4" type="github">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -9,8 +9,10 @@
             <mxPoint x="614.25" y="331.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-2" target="Rf-HTqd8Ef8qsDdukX3X-13">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-2" target="Rf-HTqd8Ef8qsDdukX3X-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="807.25" y="435.9000000000001" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-2" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="426" y="373" width="246.5" height="125.75" as="geometry" />
@@ -29,9 +31,6 @@
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-7" value="Artefatos são todos os produtos produzidos durante o processo de software que são passíveis de teste. Ex: código fonte, documentação, requisitos, protótipos,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="799.75" y="65.38" width="203.25" height="152.25" as="geometry" />
-        </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-13" value="Avaliam a qualidade do software e ajudam a reduzir o risco de falhas do software em operação" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="807.25" y="392.13" width="188.25" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-17" value="Envolvem" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="489.25" y="563" width="120" height="60" as="geometry" />
@@ -73,6 +72,15 @@
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-27" value="Checar se o sistema/software atende as necessidades dos usuários e stakholders em ambiente operacional" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="572.13" y="791" width="171.75" height="131" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-28" value="Avaliam a qualidade do software e ajudam a reduzir o risco de falhas do software em operação" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="931" y="392.13" width="188.25" height="87.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-29" target="Rf-HTqd8Ef8qsDdukX3X-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-29" value="O que fazem?" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="752" y="405.87" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
