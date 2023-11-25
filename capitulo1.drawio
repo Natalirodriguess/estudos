@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:05:46.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QAJbSESqhO4xXxOPNSFN" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:07:29.833Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2O5uqc731iEISXLd1NeQ" version="22.1.4" type="github">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-20" target="Rf-HTqd8Ef8qsDdukX3X-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-20" value="Verificação" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-20" value="&lt;b&gt;Verificação&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="373" y="652" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" target="Rf-HTqd8Ef8qsDdukX3X-20" source="Rf-HTqd8Ef8qsDdukX3X-17">
@@ -53,7 +53,7 @@
             <mxPoint x="623.75" y="682" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-22" value="Validação" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-22" value="&lt;b&gt;Validação&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="598" y="655" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=16;" edge="1" parent="1" target="Rf-HTqd8Ef8qsDdukX3X-22" source="Rf-HTqd8Ef8qsDdukX3X-17">
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-24" value="Verificar se o sistema/software atende aos requisitos especificados" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="791" width="151" height="110" as="geometry" />
+          <mxGeometry x="350.75" y="789.5" width="164.5" height="134" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Rf-HTqd8Ef8qsDdukX3X-27" source="Rf-HTqd8Ef8qsDdukX3X-22">
           <mxGeometry relative="1" as="geometry">
