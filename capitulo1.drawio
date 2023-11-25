@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:34:26.785Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="0P7r949bRELBmy0iqvBo" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:35:43.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QdgBjo03-UIphfrVX1s1" version="22.1.4" type="github">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -155,6 +155,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="968" y="648" as="sourcePoint" />
             <mxPoint x="1144" y="559" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1043" y="575" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-61" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=16;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-59" target="Rf-HTqd8Ef8qsDdukX3X-63">
@@ -163,11 +166,25 @@
             <mxPoint x="1130" y="659" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-62" target="Rf-HTqd8Ef8qsDdukX3X-64">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-62" value="Estáticos" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1128" y="521" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-63" value="Dinâmicos" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1123" y="631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-64" value="Envolve a execução do software" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1328" y="521" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="Rf-HTqd8Ef8qsDdukX3X-67" source="Rf-HTqd8Ef8qsDdukX3X-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1246" y="659" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-67" value="Não envolve a execução" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1323" y="631" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
