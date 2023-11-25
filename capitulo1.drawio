@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-25T20:35:43.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QdgBjo03-UIphfrVX1s1" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-25T20:38:07.335Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="D4X0HhPCLIUnRafO_SUf" version="22.1.4" type="github">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -169,11 +169,14 @@
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-62" target="Rf-HTqd8Ef8qsDdukX3X-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-62" value="Estáticos" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-62" value="Dinâmicos" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1128" y="521" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-63" value="Dinâmicos" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-63" value="Estáticos" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1123" y="631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-64" target="Rf-HTqd8Ef8qsDdukX3X-68">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-64" value="Envolve a execução do software" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1328" y="521" width="120" height="60" as="geometry" />
@@ -183,8 +186,17 @@
             <mxPoint x="1246" y="659" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-67" target="Rf-HTqd8Ef8qsDdukX3X-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-67" value="Não envolve a execução" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1323" y="631" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-68" value="Usam diferentes abordagens e técnicas de teste" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1523" y="518" width="129" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-70" value="Inclui revisões e análise estática" style="whiteSpace=wrap;html=1;fontSize=16;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1523" y="631" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
