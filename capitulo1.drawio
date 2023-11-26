@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:23:44.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9XQrRcI-LkTXHu-7dd6w" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-26T15:05:05.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NJ8fyaUAF0NuQ0BxJdC-" version="22.1.4" type="github" pages="3">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -324,6 +324,27 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="m6I5BsH04nm92WagLUg0-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="115" y="89" width="246.5" height="125.75" as="geometry" />
+        </mxCell>
+        <mxCell id="m6I5BsH04nm92WagLUg0-2" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Depuração&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="692" y="89" width="246.5" height="125.75" as="geometry" />
+        </mxCell>
+        <mxCell id="m6I5BsH04nm92WagLUg0-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.998;exitY=0.577;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.586;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="m6I5BsH04nm92WagLUg0-1" target="m6I5BsH04nm92WagLUg0-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="467" as="sourcePoint" />
+            <mxPoint x="608" y="417" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m6I5BsH04nm92WagLUg0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6I5BsH04nm92WagLUg0-4" target="m6I5BsH04nm92WagLUg0-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m6I5BsH04nm92WagLUg0-4" value="São atividades distintas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="479" y="121" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m6I5BsH04nm92WagLUg0-5" value="O processo de depuração depende exclusivamente do tipo de teste (estático ou dinâmico)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470.5" y="291" width="137" height="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
