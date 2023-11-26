@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T16:22:12.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wDQQSkGfkijXS3F5jL06" version="22.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-26T17:19:06.000Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="zeuaM5U8kxtWrfdOnzsl" version="22.1.4" type="github" pages="4">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -457,10 +457,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TTp3cAElSiImKl_RlQ7F" name="Subtopicos1.2e1.2.1">
-    <mxGraphModel dx="941" dy="492" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4iQR7jBapGYHtjT1idvL-1" target="PZzq9biB5rKXhA1e7sXr-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="546.25" y="308.23614501953125" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4iQR7jBapGYHtjT1idvL-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="423" y="105" width="246.5" height="125.75" as="geometry" />
         </mxCell>
@@ -520,6 +525,72 @@
         </mxCell>
         <mxCell id="PZzq9biB5rKXhA1e7sXr-17" value="Teste de documentação associada" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="948" y="341" width="78" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-19" value="Motivos da necessidade de realização de testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="486.25" y="305.99614501953124" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZzq9biB5rKXhA1e7sXr-21" target="PZzq9biB5rKXhA1e7sXr-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-21" value="O teste se apresenta como um meio econômico de detectar defeitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="171" y="458" width="123.25" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.416;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZzq9biB5rKXhA1e7sXr-19" target="PZzq9biB5rKXhA1e7sXr-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="679" y="440" as="sourcePoint" />
+            <mxPoint x="290" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-22" value="O teste fornece um meio de avaliar diretamente a qualidade de um objeto de teste em diferentes estágios do SDLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="298.38" y="454.5" width="134" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="PZzq9biB5rKXhA1e7sXr-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="543" y="366" as="sourcePoint" />
+            <mxPoint x="413.5" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZzq9biB5rKXhA1e7sXr-24" target="PZzq9biB5rKXhA1e7sXr-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-24" value="Os testes oferecem aos usuários uma representação indireta no projeto de desenvolvimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="444" y="459.5" width="130" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="PZzq9biB5rKXhA1e7sXr-24" source="PZzq9biB5rKXhA1e7sXr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="541" y="366" as="sourcePoint" />
+            <mxPoint x="537" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PZzq9biB5rKXhA1e7sXr-26" target="PZzq9biB5rKXhA1e7sXr-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-26" value="Os testadores garantem que seu entendimento sobre as necessidades dos usuários sejam considerado durante todo SDLC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="581" y="459.5" width="164" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="PZzq9biB5rKXhA1e7sXr-26" source="PZzq9biB5rKXhA1e7sXr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545" y="366" as="sourcePoint" />
+            <mxPoint x="660" y="454" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-28" value="Tais defeitos podem ser eliminados (por depuração), gerando objetos de teste de maior qualidade" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="166.88" y="580" width="131.5" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-31" value="O usuário tem representação indireta no projeto de desenvolvimento" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="594" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-33" value="Uma alternativa a isso, seria envolver um grupo representativo de usuários, gerando uma nova parte no SDLC, o que teria um alto custo." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="588" width="152" height="88.5" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-35" value="Os testes também são necessários para atender requisitos contratuais, legais ou para cumprir normas regulatórias" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="751" y="459.5" width="164" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.416;entryY=0.045;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="PZzq9biB5rKXhA1e7sXr-35" source="PZzq9biB5rKXhA1e7sXr-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="716" y="366" as="sourcePoint" />
+            <mxPoint x="830" y="454" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
