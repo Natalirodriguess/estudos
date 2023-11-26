@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T15:47:20.967Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="quNSPp9B1-Ssh9IZgwMy" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-26T15:48:44.416Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QOFUiwwPJnEMtyQvMFo_" version="22.1.4" type="github" pages="3">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -382,7 +382,7 @@
         <mxCell id="jCdOkneMm5_2HjvUuzvB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-9" target="jCdOkneMm5_2HjvUuzvB-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jCdOkneMm5_2HjvUuzvB-9" value="O processo típico de depuração consiste em:&lt;br&gt;- Reproduzir uma falha&lt;br&gt;- Diagnosticar (encontrar a causa principal&lt;br&gt;-Corrigir a causa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-9" value="O processo típico de depuração nesse caso consiste em:&lt;br&gt;- Reproduzir uma falha&lt;br&gt;- Diagnosticar (encontrar a causa principal&lt;br&gt;-Corrigir a causa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1154" y="440" width="120" height="168" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-10" value="Após depuração, temos:" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -403,20 +403,20 @@
         <mxCell id="jCdOkneMm5_2HjvUuzvB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-14" target="jCdOkneMm5_2HjvUuzvB-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jCdOkneMm5_2HjvUuzvB-14" value="Teste de confirmação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-14" value="Teste de confirmação" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1063" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-15" target="jCdOkneMm5_2HjvUuzvB-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jCdOkneMm5_2HjvUuzvB-15" value="Teste de regressão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-15" value="Teste de regressão" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1265" y="727" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-16" value="Confirma se após a correção o problema foi resolvido" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="1063" y="884" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-18" value="Verifica se a correção da falha causou falhas em outras partes do objeto de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1259" y="884" width="132" height="76" as="geometry" />
+          <mxGeometry x="1259" y="876" width="132" height="76" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.119;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jCdOkneMm5_2HjvUuzvB-21" source="m6I5BsH04nm92WagLUg0-1">
           <mxGeometry relative="1" as="geometry">
