@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:03:29.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aocvg3X0s9WMmETEAKy6" version="22.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-26T14:23:44.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="9XQrRcI-LkTXHu-7dd6w" version="22.1.4" type="github" pages="3">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -307,6 +307,23 @@
         <mxCell id="C4MdUL0Ehn570CaAsXmS-25" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Validar se o objeto de teste está completo e funciona conforme o esperado pelos stakeholders&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1321" y="512.5" width="198" height="126" as="geometry" />
         </mxCell>
+        <mxCell id="ZQrcM25R8rXdNxOu5B38-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Os objetivos de teste podem mudar dependendo do &lt;br&gt;contexto (nível de teste, SDLC e outros)&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="854" y="263" width="222" height="158" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQrcM25R8rXdNxOu5B38-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C4MdUL0Ehn570CaAsXmS-4" target="ZQrcM25R8rXdNxOu5B38-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="475" as="sourcePoint" />
+            <mxPoint x="755" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="H0qTN1i8X5vHMcVpilrv" name="Subtopico1.1.2">
+    <mxGraphModel dx="1647" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
