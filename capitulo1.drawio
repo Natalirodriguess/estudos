@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T15:41:15.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="am3CQjmqtd7FV-rd_vX9" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-26T15:45:43.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="G_Nhn-DAByQuvcHXMt01" version="22.1.4" type="github" pages="3">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -362,7 +362,7 @@
             <mxPoint x="690" y="419" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCdOkneMm5_2HjvUuzvB-2" value="&lt;b&gt;Teste dinâmico&lt;/b&gt;&amp;nbsp;&lt;br&gt;desencadeia falhas causadas por defeitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-2" value="&lt;b&gt;Teste dinâmico&amp;nbsp;&lt;/b&gt;&lt;br&gt;desencadeia falhas causadas por defeitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="391.99725952148435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jCdOkneMm5_2HjvUuzvB-5" source="m6I5BsH04nm92WagLUg0-2">
@@ -375,9 +375,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="815.25" y="577.1250305175781" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="jCdOkneMm5_2HjvUuzvB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-5" target="jCdOkneMm5_2HjvUuzvB-25">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-5" value="Encontra a causa (defeitos) dessa falha, analisa a causa e elimina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="755.25" y="383.99725952148435" width="120" height="60" as="geometry" />
@@ -438,8 +435,23 @@
         <mxCell id="jCdOkneMm5_2HjvUuzvB-21" value="&lt;b&gt;Teste estático&lt;/b&gt;&lt;br&gt;Identifica defeitos diretamente no objeto de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="84" y="391.99725952148435" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="eh3H8FwRYJMeJ7Scs5hG-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-25" target="eh3H8FwRYJMeJ7Scs5hG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jCdOkneMm5_2HjvUuzvB-25" value="Elimina o defeito encontrado" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="755.25" y="523.9972595214844" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eh3H8FwRYJMeJ7Scs5hG-3" value="Após" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="755.25" y="663.9972595214844" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eh3H8FwRYJMeJ7Scs5hG-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.888;exitY=1.001;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6I5BsH04nm92WagLUg0-2" target="jCdOkneMm5_2HjvUuzvB-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="755" y="419" as="sourcePoint" />
+            <mxPoint x="911" y="558" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="911" y="554" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
