@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T16:19:05.320Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="lrqED1nO0wo4Xnja8TAO" version="22.1.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-26T16:22:12.073Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wDQQSkGfkijXS3F5jL06" version="22.1.4" type="github" pages="4">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -485,7 +485,7 @@
         <mxCell id="PZzq9biB5rKXhA1e7sXr-3" value="ajudam a atingir os objetivos acordados, respeitando o escopo, tempo, qualidade e orçamento estabelecidos." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="946" y="123" width="131" height="86" as="geometry" />
         </mxCell>
-        <mxCell id="PZzq9biB5rKXhA1e7sXr-5" value="A contribuição dos testes para o sucesso não deve ser responsabilidade excllusiva da equipe de teste, os stakeholders também pode contribuir" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="PZzq9biB5rKXhA1e7sXr-5" value="A contribuição dos testes para o sucesso não deve ser responsabilidade exclusiva da equipe de teste, os stakeholders também podem contribuir" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="838" y="6" width="150" height="90" as="geometry" />
         </mxCell>
         <mxCell id="PZzq9biB5rKXhA1e7sXr-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2j6B1nzwrXEKi7aSE_G8-2" target="PZzq9biB5rKXhA1e7sXr-9">
