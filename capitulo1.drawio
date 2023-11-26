@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T15:05:05.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NJ8fyaUAF0NuQ0BxJdC-" version="22.1.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-26T15:38:58.946Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="mG8zrJyDJp1wBVOA3KFd" version="22.1.4" type="github" pages="3">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -324,6 +324,16 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="jCdOkneMm5_2HjvUuzvB-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="238.25" y="419.3472595214844" as="targetPoint" />
+            <mxPoint x="285" y="210" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="285" y="322" />
+              <mxPoint x="285" y="322" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m6I5BsH04nm92WagLUg0-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="115" y="89" width="246.5" height="125.75" as="geometry" />
         </mxCell>
@@ -336,14 +346,86 @@
             <mxPoint x="608" y="417" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m6I5BsH04nm92WagLUg0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="m6I5BsH04nm92WagLUg0-4" target="m6I5BsH04nm92WagLUg0-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="m6I5BsH04nm92WagLUg0-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m6I5BsH04nm92WagLUg0-4" target="m6I5BsH04nm92WagLUg0-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="539" y="291" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="m6I5BsH04nm92WagLUg0-4" value="São atividades distintas" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="479" y="121" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="m6I5BsH04nm92WagLUg0-5" value="O processo de depuração depende exclusivamente do tipo de teste (estático ou dinâmico)" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470.5" y="291" width="137" height="78" as="geometry" />
+        <mxCell id="m6I5BsH04nm92WagLUg0-8" value="O processo de depuração depende exclusivamente do tipo de teste (estático ou dinâmico)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="274" width="124" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.02;entryY=0.626;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-2" target="jCdOkneMm5_2HjvUuzvB-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="690" y="419" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-2" value="&lt;b&gt;Teste dinâmico&lt;/b&gt;&amp;nbsp;&lt;br&gt;desencadeia falhas causadas por defeitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="391.99725952148435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="jCdOkneMm5_2HjvUuzvB-5" source="m6I5BsH04nm92WagLUg0-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="812" y="419.3472595214844" as="targetPoint" />
+            <mxPoint x="812" y="212" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-5" target="jCdOkneMm5_2HjvUuzvB-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="815.25" y="577.1250305175781" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-5" value="Encontra a causa (defeitos) dessa falha, analisa a causa e elimina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="755.25" y="383.99725952148435" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-9" target="jCdOkneMm5_2HjvUuzvB-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-9" value="O processo típico de depuração consiste em:&lt;br&gt;- Reproduzir uma falha&lt;br&gt;- Diagnosticar (encontrar a causa principal&lt;br&gt;-Corrigir a causa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="440" width="120" height="168" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-10" value="Após depuração, temos:" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1154" y="649" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-10" target="jCdOkneMm5_2HjvUuzvB-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="737" y="780" as="sourcePoint" />
+            <mxPoint x="880" y="742" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-10" target="jCdOkneMm5_2HjvUuzvB-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1009" y="681" as="sourcePoint" />
+            <mxPoint x="1100" y="722" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-14" target="jCdOkneMm5_2HjvUuzvB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-14" value="Teste de confirmação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jCdOkneMm5_2HjvUuzvB-15" target="jCdOkneMm5_2HjvUuzvB-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-15" value="Teste de regressão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1265" y="727" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-16" value="Confirma se após a correção o problema foi resolvido" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="884" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-18" value="Verifica se a correção da falha causou falhas em outras partes do objeto de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1259" y="884" width="132" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.119;exitY=0.992;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="jCdOkneMm5_2HjvUuzvB-21" source="m6I5BsH04nm92WagLUg0-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="419.0972595214844" as="targetPoint" />
+            <mxPoint x="149.75" y="214.75" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jCdOkneMm5_2HjvUuzvB-21" value="&lt;b&gt;Teste estático&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="84" y="388.99725952148435" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
