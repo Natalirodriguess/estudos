@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T22:20:27.602Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TVZe-bleAjNxBPg_szSB" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-28T22:21:36.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="RjvR0CkaBgrkIlCU4LF2" version="22.1.4" type="github" pages="6">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -788,8 +788,8 @@
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Ocasiona&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627" y="267" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="js5vY7ItPjw0hTjY3Mnb-15" value="Podem ser encontrados na documentação,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="488" y="417" width="120" height="60" as="geometry" />
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-15" value="Podem ser encontrados na documentação, código fonte, especificação de requisitos, script de testes ou em artefato de suporte como um arquivo de compilação.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="414" width="137" height="133" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="706" y="417" width="120" height="60" as="geometry" />
