@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T22:23:34.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="3NnGtokhbGBLPY1pZDDf" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-28T22:35:50.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k6FQWcqI01Miv-ZvnWW6" version="22.1.4" type="github" pages="6">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -738,61 +738,94 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-1" value="O ser humano" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="24" y="239.5" width="98" height="135" as="geometry" />
+          <mxGeometry x="35" y="68.5" width="98" height="135" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-2" target="js5vY7ItPjw0hTjY3Mnb-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Erro&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="239" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-3" target="js5vY7ItPjw0hTjY3Mnb-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Defeito&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="488" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="499" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-4" target="js5vY7ItPjw0hTjY3Mnb-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Falha&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="759" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="106" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-1" target="js5vY7ItPjw0hTjY3Mnb-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="121" y="350" as="sourcePoint" />
-            <mxPoint x="171" y="300" as="targetPoint" />
+            <mxPoint x="132" y="179" as="sourcePoint" />
+            <mxPoint x="182" y="129" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Comete&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138" y="284" width="60" height="30" as="geometry" />
+          <mxGeometry x="149" y="113" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-7" value="Devido a pressão de tempo, cansaço, falta de treinamento adequado, complexidade dos produtos de trabalho" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="228" y="420" width="142" height="97" as="geometry" />
+          <mxGeometry x="239" y="249" width="142" height="97" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-2" target="js5vY7ItPjw0hTjY3Mnb-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="365" y="304.5" as="sourcePoint" />
-            <mxPoint x="505" y="307" as="targetPoint" />
+            <mxPoint x="376" y="133.5" as="sourcePoint" />
+            <mxPoint x="516" y="136" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Insere&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="284" width="60" height="30" as="geometry" />
+          <mxGeometry x="401" y="113" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-12" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-3" target="js5vY7ItPjw0hTjY3Mnb-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="614" y="306.5" as="sourcePoint" />
-            <mxPoint x="743" y="306.5" as="targetPoint" />
+            <mxPoint x="625" y="135.5" as="sourcePoint" />
+            <mxPoint x="754" y="135.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;(se executado)&lt;br&gt;Ocasiona&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="619" y="273" width="120" height="30" as="geometry" />
+          <mxGeometry x="630" y="102" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-15" target="js5vY7ItPjw0hTjY3Mnb-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-15" value="Podem ser encontrados na documentação, código fonte, especificação de requisitos, script de testes ou em artefato de suporte como um arquivo de compilação.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="479.5" y="417" width="137" height="133" as="geometry" />
+          <mxGeometry x="490.5" y="226" width="137" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="js5vY7ItPjw0hTjY3Mnb-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="759" y="417" width="120" height="60" as="geometry" />
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-17" value="Uma falha nem sempre pode ser causada por Erro e Defeito, elas podem ter origens devido a condições ambientais, como radiação e o campo magnético que causam defeito no firmware" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="757.5" y="256" width="145" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-21" value="Alguns defeitos podem resultar em falhas, outros resultarem em circunstancias específicas e outros nunca resultar" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="487.5" y="404" width="143" height="86.5" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-23" target="js5vY7ItPjw0hTjY3Mnb-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="518" y="134" width="51" height="755" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-24" target="js5vY7ItPjw0hTjY3Mnb-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-24" target="js5vY7ItPjw0hTjY3Mnb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Causa-raiz&lt;/b&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;align=center;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="483.5" y="556" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;É o motivo/origem fundamental de um problema que se corrigido, pode evitar a REcorrência do problema&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="186.5" y="551.5" width="194.5" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-28" target="js5vY7ItPjw0hTjY3Mnb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Quando ocorre uma falha ou defeito, podemos encontrar a causa-raiz desses problemas através da análise de causa-raiz&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="539.5" width="184" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="js5vY7ItPjw0hTjY3Mnb-30" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Na abordagem de causa-raiz, acredita-se que, uma vez removida a causa raiz de uma falha ou defeito, problema semelhantes serão evitados&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="649" y="663" width="266" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
