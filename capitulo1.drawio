@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-28T22:35:50.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="k6FQWcqI01Miv-ZvnWW6" version="22.1.4" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2023-11-29T00:55:42.008Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VLNKuXGoMbbjN5JTrtRm" version="22.1.4" type="github" pages="6">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -816,7 +816,7 @@
           <mxGeometry x="483.5" y="556" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;É o motivo/origem fundamental de um problema que se corrigido, pode evitar a REcorrência do problema&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="551.5" width="194.5" height="69" as="geometry" />
+          <mxGeometry x="137" y="551.5" width="194.5" height="69" as="geometry" />
         </mxCell>
         <mxCell id="js5vY7ItPjw0hTjY3Mnb-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="js5vY7ItPjw0hTjY3Mnb-28" target="js5vY7ItPjw0hTjY3Mnb-30">
           <mxGeometry relative="1" as="geometry" />
