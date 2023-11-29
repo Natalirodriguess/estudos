@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T22:30:22.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="y7_QqD-Cw9o0NlC-5LaT" version="22.1.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-11-29T23:03:06.271Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="pNKRT0WBLmojwqcHAHRf" version="22.1.5" type="github" pages="8">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="861" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -932,6 +932,109 @@
         </mxCell>
         <mxCell id="plIC8CDrAPye3yoYvU7w-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;É errôneo esperar que apenas a verificação do software garanta o sucesso do sistema, é preciso também realizar a validação, ou seja, checar se o produto está atendendo as necessidades e expectativas do usuário&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="901.75" y="523" width="203.5" height="142" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="t8btq68tBwarzi5_qCQ4" name="Subtopico1.4">
+    <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-1" target="nQMtEtmk2jBWR0WGH67z-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="552.2550000000001" y="227" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="429" y="59" width="246.5" height="125.75" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-4" target="nQMtEtmk2jBWR0WGH67z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Por mais que dependam de um contexto, existem conjuntos de atividades comuns ao se realizar testes&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="827" y="143" width="148" height="148" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-7" target="nQMtEtmk2jBWR0WGH67z-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-7" value="Esses conjuntos de atividades formam um&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="662" y="187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-9" target="nQMtEtmk2jBWR0WGH67z-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-9" target="nQMtEtmk2jBWR0WGH67z-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-9" target="nQMtEtmk2jBWR0WGH67z-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-9" value="Processo de teste" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="291" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Pode ser adaptado a uma determinada situação.&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="337" y="378" width="132" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-13" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;É no planejamento de teste que sabemos&lt;b&gt; Quais &lt;/b&gt;atividades são inseridas, &lt;b&gt;Como &lt;/b&gt;são implementadas e &lt;b&gt;Quando &lt;/b&gt;ocorrem no processo&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="370" width="186" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-15" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Aspectos Gerais&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="483" y="517" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-17" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Atividades e tarefas de teste&amp;nbsp;&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="277" y="624" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-15" target="nQMtEtmk2jBWR0WGH67z-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="466" as="sourcePoint" />
+            <mxPoint x="608" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-20" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Impacto do contexto&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="399" y="624" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="nQMtEtmk2jBWR0WGH67z-20" source="nQMtEtmk2jBWR0WGH67z-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="579" as="sourcePoint" />
+            <mxPoint x="730" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Material de teste&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="519" y="624" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="nQMtEtmk2jBWR0WGH67z-22" source="nQMtEtmk2jBWR0WGH67z-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="663" y="579" as="sourcePoint" />
+            <mxPoint x="853" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-24" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Rastreabilidade entre a base e o material de teste&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642" y="624" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="nQMtEtmk2jBWR0WGH67z-24" source="nQMtEtmk2jBWR0WGH67z-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="665" y="577" as="sourcePoint" />
+            <mxPoint x="975" y="416" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-26" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Funções de teste&lt;/font&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="765" y="622" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="nQMtEtmk2jBWR0WGH67z-26" source="nQMtEtmk2jBWR0WGH67z-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="666" y="575" as="sourcePoint" />
+            <mxPoint x="1098" y="414" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1" source="nQMtEtmk2jBWR0WGH67z-9" target="nQMtEtmk2jBWR0WGH67z-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="378" y="229" as="sourcePoint" />
+            <mxPoint x="240" y="279" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nQMtEtmk2jBWR0WGH67z-29" value="Conjunto de atividades comuns ao teste" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="145" y="245" width="157" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
