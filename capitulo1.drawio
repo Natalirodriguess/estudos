@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T18:06:43.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2RpQJYHa6kiLlzKgG6OL" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-30T18:10:46.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Qnf7QM0WYbEwTA0zS98j" version="22.1.5" type="github" pages="9">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1040,7 +1040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hsT97JGrpg3RlsCnKWzN" name="Subtopico1.4.1">
-    <mxGraphModel dx="3486" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2791" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1200,11 +1200,23 @@
         <mxCell id="MnnqCl9thvRsDREZbjbt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-13" value="Define e prioriza as condições de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="959" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-14" value="Elabora as condições de teste em Casos de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="385.99" y="959" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-17" target="MnnqCl9thvRsDREZbjbt-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-17" value="O que são condições de teste?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="959" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="1099" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
