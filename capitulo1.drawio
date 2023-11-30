@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T18:10:46.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Qnf7QM0WYbEwTA0zS98j" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-30T18:15:28.134Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="dW4sKcdpwm64uBXQT561" version="22.1.5" type="github" pages="9">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1215,8 +1215,14 @@
         <mxCell id="MnnqCl9thvRsDREZbjbt-17" value="O que são condições de teste?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-125" y="959" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-125" y="1099" width="120" height="60" as="geometry" />
+        <mxCell id="MnnqCl9thvRsDREZbjbt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-19" target="MnnqCl9thvRsDREZbjbt-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-19" value="São as diferentes situações que desejamos verificar no software para ter certeza que ele funciona corretamente" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-139.5" y="1094" width="149" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-21" value="Exe: Dado o requisito que o usuário pode fazer login, uma condição seria:&lt;br&gt;verificar&amp;nbsp;&amp;nbsp;se o sistema permite o acesso quando um usuário e senha válidos são fornecidos." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-150.25" y="1237" width="170.5" height="144" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
