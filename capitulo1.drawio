@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T22:10:26.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tj8d0VRByPUgYKR9Fa3R" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-30T22:22:19.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oMSY72LX_nkjjapvbZQY" version="22.1.5" type="github" pages="10">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1040,7 +1040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hsT97JGrpg3RlsCnKWzN" name="Subtopico1.4.1">
-    <mxGraphModel dx="2096" dy="513" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2487" dy="745" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1239,9 +1239,53 @@
         <mxCell id="MnnqCl9thvRsDREZbjbt-25" value="Criação ou aquisição dos materiais de teste (ex: dados de teste). Os &lt;b&gt;scripts de teste&lt;/b&gt; são criados (manuais e automatizados)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="586.5" y="827" width="135" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-27" value="É a atividade de &quot;rodar&quot; os testes propriamente dito de acordo com o cronograma de execução.&lt;br&gt;A execução pode ser&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="775" y="567" width="128" height="111" as="geometry" />
+        <mxCell id="MnnqCl9thvRsDREZbjbt-27" value="É a atividade de &quot;rodar&quot; os testes propriamente dito de acordo com o cronograma de execução.&lt;br&gt;A execução pode ser manual ou automatizada, de forma contínua ou sessões de testes em pares.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="762" y="565" width="154" height="157" as="geometry" />
         </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="833" y="720" as="sourcePoint" />
+            <mxPoint x="792" y="777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-33" value="Os resultados são registrados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="697" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="MnnqCl9thvRsDREZbjbt-35" source="MnnqCl9thvRsDREZbjbt-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="837" y="721" as="sourcePoint" />
+            <mxPoint x="912" y="777" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-35" value="Os resultados reais são comparados com os resultados esperados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MnnqCl9thvRsDREZbjbt-37" source="MnnqCl9thvRsDREZbjbt-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="732" as="sourcePoint" />
+            <mxPoint x="922" y="787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-37" value="As anomalias são analisadas para identificar as possíveis causas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="943" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MnnqCl9thvRsDREZbjbt-39" source="MnnqCl9thvRsDREZbjbt-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="849" y="732" as="sourcePoint" />
+            <mxPoint x="932" y="797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-39" value=". Essa análise nos permite relatar as &lt;br/&gt;anomalias com base nas falhas observadas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1063" y="758" width="123" height="64" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="tpe2Fx6MQ06hSxLWlcmU" name="Subtopico">
+    <mxGraphModel dx="1647" dy="931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
