@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T18:06:14.612Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="OWDfnT6rPwTG-uT2F-qo" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-30T18:06:43.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="2RpQJYHa6kiLlzKgG6OL" version="22.1.5" type="github" pages="9">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1040,7 +1040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hsT97JGrpg3RlsCnKWzN" name="Subtopico1.4.1">
-    <mxGraphModel dx="2288" dy="619" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3486" dy="1281" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1067,17 +1067,17 @@
         </mxCell>
         <mxCell id="7vy4hv0YVK__UpVcQ-Jg-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-8" target="7vy4hv0YVK__UpVcQ-Jg-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-81" y="540" as="targetPoint" />
+            <mxPoint x="-178" y="540" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7vy4hv0YVK__UpVcQ-Jg-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-8" target="7vy4hv0YVK__UpVcQ-Jg-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7vy4hv0YVK__UpVcQ-Jg-8" value="Planejamento de teste" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-141" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="-238" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7vy4hv0YVK__UpVcQ-Jg-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Nessa atividade (parte do processo), são definidos os objetivos do teste e selecionada a abordagem dos testes que melhor atinja os objetivos dentro das limitações do contexto geral&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="543.5" width="178" height="129" as="geometry" />
+          <mxGeometry x="-267" y="543.5" width="178" height="129" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-11" target="oyk98UINzFnYHP4EHpnA-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1086,7 +1086,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7vy4hv0YVK__UpVcQ-Jg-11" value="Monitoramento e Controle de testes" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="65" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="-32" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7vy4hv0YVK__UpVcQ-Jg-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-5" target="7vy4hv0YVK__UpVcQ-Jg-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1096,7 +1096,7 @@
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-1" target="oyk98UINzFnYHP4EHpnA-4" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="466" y="456.0344827586207" as="targetPoint" />
+            <mxPoint x="369" y="456.0344827586207" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-1" target="oyk98UINzFnYHP4EHpnA-18" edge="1">
@@ -1104,15 +1104,15 @@
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-1" target="MnnqCl9thvRsDREZbjbt-13">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="231" y="732" as="targetPoint" />
+            <mxPoint x="134" y="732" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="231" y="486" />
-              <mxPoint x="231" y="959" />
+              <mxPoint x="134" y="486" />
+              <mxPoint x="134" y="959" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-1" value="Análise de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="173" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-5" target="oyk98UINzFnYHP4EHpnA-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1127,7 +1127,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-4" value="Modelagem de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="483" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="386" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-6" target="oyk98UINzFnYHP4EHpnA-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1169,22 +1169,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-16" value="Enquanto o &lt;b&gt;monitoramento&lt;/b&gt; coleta informações das atividades e compara o progresso atual com o planejado, o &lt;b&gt;controle &lt;/b&gt;de tarefas é responsável por usar tais informações para tomar decisões/ações corretivas para alcançar os objetivos do teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="36" y="519" width="178" height="154" as="geometry" />
+          <mxGeometry x="-61" y="519" width="178" height="154" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-18" target="MnnqCl9thvRsDREZbjbt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-18" value="Nessa etapa do processo de teste, a base de dados é analisada para identificar &lt;b&gt;recursos testáveis&lt;/b&gt;. Nessa etapa, procura-se responder a pergunta &lt;b&gt;&quot;O que testar?&quot;&lt;/b&gt; em relação a critérios de cobertura mensuráveis&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="241.75" y="523" width="176.5" height="170" as="geometry" />
+          <mxGeometry x="144.75" y="523" width="176.5" height="170" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-2" value="Olhar para o software e observar quais partes testar?&amp;nbsp;&lt;br&gt;Com base nessa pergunta, encontramos critérios de cobertura mensuráveis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="717" width="150" height="100" as="geometry" />
+          <mxGeometry x="158" y="717" width="150" height="100" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-4" target="MnnqCl9thvRsDREZbjbt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-4" value="Exemplo" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="287.5" y="860" width="85" height="26" as="geometry">
+          <mxGeometry x="190.5" y="860" width="85" height="26" as="geometry">
             <mxRectangle x="349.5" y="860" width="1674" height="268" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1195,16 +1195,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-10" value="Nessa etapa, nos perguntamos &lt;b&gt;&quot;como testar?&quot;&lt;/b&gt; e transformamos as condições de teste da análise, em &lt;b&gt;CASOS DE TESTE&lt;/b&gt;. Identificamos os itens de cobertura. Definimos também os requisitos de dados de teste. É nessa etapa que identificamos as ferramentas ou qualquer infraestrutura necessária." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="462.62" y="526" width="160.75" height="174" as="geometry" />
+          <mxGeometry x="365.62" y="526" width="160.75" height="174" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-13" value="Define e prioriza as condições de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="172" y="959" width="120" height="60" as="geometry" />
+          <mxGeometry x="75" y="959" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-14" value="Elabora as condições de teste em Casos de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="482.99" y="959" width="120" height="60" as="geometry" />
+          <mxGeometry x="385.99" y="959" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
