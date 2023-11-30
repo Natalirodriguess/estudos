@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T22:07:06.542Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="erg-D4veGHoCu7Ap6dYt" version="22.1.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-11-30T22:10:26.969Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tj8d0VRByPUgYKR9Fa3R" version="22.1.5" type="github" pages="9">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1136,7 +1136,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-6" value="Implementação de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="594" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-5" target="oyk98UINzFnYHP4EHpnA-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1151,6 +1151,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-10" target="oyk98UINzFnYHP4EHpnA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-10" target="MnnqCl9thvRsDREZbjbt-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-10" value="Execução de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1230,11 +1233,14 @@
         <mxCell id="MnnqCl9thvRsDREZbjbt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-23" target="MnnqCl9thvRsDREZbjbt-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-23" value="Temos tudo para executar os testes?&amp;nbsp;&lt;br&gt;Nessa etapa do processo, são montados os ambientes de teste, são criados os&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; dados que preencherão e serão usados nos casos de teste&lt;br&gt;(preparação do ambiente para os testes)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="612.5" y="551" width="155" height="159" as="geometry" />
+        <mxCell id="MnnqCl9thvRsDREZbjbt-23" value="&lt;b&gt;Temos tudo para executar os testes?&amp;nbsp;&lt;/b&gt;&lt;br&gt;Nessa etapa do processo, são montados os ambientes de teste, são criados os&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; dados que preencherão e serão usados nos casos de teste&lt;br&gt;(preparação do ambiente para os testes)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="576.5" y="551" width="155" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-25" value="Criação ou aquisição dos materiais de teste (ex: dados de teste). Os scripts de teste são criados (manuais e automatizados)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="622.5" y="827" width="135" height="105.5" as="geometry" />
+        <mxCell id="MnnqCl9thvRsDREZbjbt-25" value="Criação ou aquisição dos materiais de teste (ex: dados de teste). Os &lt;b&gt;scripts de teste&lt;/b&gt; são criados (manuais e automatizados)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="586.5" y="827" width="135" height="105.5" as="geometry" />
+        </mxCell>
+        <mxCell id="MnnqCl9thvRsDREZbjbt-27" value="É a atividade de &quot;rodar&quot; os testes propriamente dito de acordo com o cronograma de execução.&lt;br&gt;A execução pode ser&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="775" y="567" width="128" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
