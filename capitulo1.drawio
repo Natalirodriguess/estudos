@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T23:22:59.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Zx5GOCHv6_UOLsOvhMF6" version="22.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-30T23:27:22.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="I26S8QCFLSU7cdwZa0bk" version="22.1.5" type="github" pages="10">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1336,6 +1336,9 @@
             <mxPoint x="561" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-13" target="OZT_ybnWilPiXoU-eNu1-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-13" value="Membros da equipe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="198" y="543" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1344,6 +1347,9 @@
             <mxPoint x="815.25" y="494" as="sourcePoint" />
             <mxPoint x="692.25" y="556" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-15" target="OZT_ybnWilPiXoU-eNu1-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-15" value="Domínio do negócio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="329" y="543" width="120" height="60" as="geometry" />
@@ -1354,6 +1360,9 @@
             <mxPoint x="829" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-17" target="OZT_ybnWilPiXoU-eNu1-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-17" value="Fatores técnicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="465" y="543" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1362,6 +1371,9 @@
             <mxPoint x="1054" y="494" as="sourcePoint" />
             <mxPoint x="931" y="556" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-19" target="OZT_ybnWilPiXoU-eNu1-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-19" value="Restrições do projeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="597" y="543" width="120" height="60" as="geometry" />
@@ -1372,6 +1384,9 @@
             <mxPoint x="1057" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-21" target="OZT_ybnWilPiXoU-eNu1-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-21" value="Fatores organizacionais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="728" y="543" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1381,6 +1396,9 @@
             <mxPoint x="1185" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-23" target="OZT_ybnWilPiXoU-eNu1-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-23" value="Ciclo de vida do desenvolvimento do software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="856" y="543" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1389,6 +1407,9 @@
             <mxPoint x="741" y="492" as="sourcePoint" />
             <mxPoint x="1246" y="553" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-25" target="OZT_ybnWilPiXoU-eNu1-56">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-25" value="Ferramentas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="984" y="543" width="120" height="60" as="geometry" />
@@ -1446,6 +1467,27 @@
         </mxCell>
         <mxCell id="OZT_ybnWilPiXoU-eNu1-43" value="Nível de detalhe da documentação de testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="1063" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-44" value="Habilidade, nível de conhecimento, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-46" value="Criticidade do objeto de teste, riscos identificados, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="329" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-48" value="Tipo de software, arquitetura do produto, tecnologia usada" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-50" value="Escopo, tempo, orçamento, recursos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="597" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-52" value="Estrutura organizacional, políticas existentes, práticas utilizadas..." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="728" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-54" value="Práticas de engenharia, métodos de desenvolvimento, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="856" y="674" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-56" value="Disponibilidade, usabilidade, conformidade, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="984" y="674" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
