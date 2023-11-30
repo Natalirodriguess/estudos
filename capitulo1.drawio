@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-30T22:22:19.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="oMSY72LX_nkjjapvbZQY" version="22.1.5" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-30T22:22:39.427Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="daGIQ4SI7ImFo3I9sGF8" version="22.1.5" type="github" pages="10">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1157,7 +1157,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-10" value="Execução de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="779" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="899" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-5" target="oyk98UINzFnYHP4EHpnA-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1166,7 +1166,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-13" value="Conclusão de&amp;nbsp; teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="946" y="426" width="120" height="60" as="geometry" />
+          <mxGeometry x="1302" y="426" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="7vy4hv0YVK__UpVcQ-Jg-5" target="oyk98UINzFnYHP4EHpnA-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1240,7 +1240,7 @@
           <mxGeometry x="586.5" y="827" width="135" height="105.5" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-27" value="É a atividade de &quot;rodar&quot; os testes propriamente dito de acordo com o cronograma de execução.&lt;br&gt;A execução pode ser manual ou automatizada, de forma contínua ou sessões de testes em pares.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="762" y="565" width="154" height="157" as="geometry" />
+          <mxGeometry x="882" y="555" width="154" height="157" as="geometry" />
         </mxCell>
         <mxCell id="MnnqCl9thvRsDREZbjbt-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
