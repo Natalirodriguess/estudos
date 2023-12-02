@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T01:58:37.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jCcp1LdP8Mhl4f6XsV7y" version="22.1.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-12-02T20:41:48.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="wAAiYDpBPz-GG8_1DKzO" version="22.1.5" type="github" pages="16">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
-    <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="azc6ls0Q0j91URVWw8cd" name="Subtopico1.1.1">
-    <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -320,7 +320,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="H0qTN1i8X5vHMcVpilrv" name="Subtopico1.1.2">
-    <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -457,7 +457,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TTp3cAElSiImKl_RlQ7F" name="Subtopicos1.2e1.2.1">
-    <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -599,7 +599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="CEBandaUn4QBAJzL-Ldq" name="Subtopico1.2.2">
-    <mxGraphModel dx="1647" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -733,7 +733,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8AbnCYKYyGjeyU3kjKjw" name="Subtopico1.2.3">
-    <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -831,7 +831,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OXhMYDY89kWDFLXhyN0X" name="Subtopico1.3">
-    <mxGraphModel dx="1647" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -937,7 +937,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="t8btq68tBwarzi5_qCQ4" name="Subtopico1.4">
-    <mxGraphModel dx="1647" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1040,7 +1040,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="hsT97JGrpg3RlsCnKWzN" name="Subtopico1.4.1">
-    <mxGraphModel dx="3522" dy="1330" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1102,7 +1102,7 @@
         <mxCell id="oyk98UINzFnYHP4EHpnA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-1" target="oyk98UINzFnYHP4EHpnA-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-1" target="MnnqCl9thvRsDREZbjbt-13">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oyk98UINzFnYHP4EHpnA-1" target="MnnqCl9thvRsDREZbjbt-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="134" y="732" as="targetPoint" />
             <Array as="points">
@@ -1123,7 +1123,7 @@
         <mxCell id="oyk98UINzFnYHP4EHpnA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-4" target="oyk98UINzFnYHP4EHpnA-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-4" target="MnnqCl9thvRsDREZbjbt-10">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-4" target="MnnqCl9thvRsDREZbjbt-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-4" value="Modelagem de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1132,7 +1132,7 @@
         <mxCell id="oyk98UINzFnYHP4EHpnA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-6" target="oyk98UINzFnYHP4EHpnA-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-6" target="MnnqCl9thvRsDREZbjbt-23">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-6" target="MnnqCl9thvRsDREZbjbt-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-6" value="Implementação de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1153,7 +1153,7 @@
         <mxCell id="oyk98UINzFnYHP4EHpnA-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-10" target="oyk98UINzFnYHP4EHpnA-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-10" target="MnnqCl9thvRsDREZbjbt-27">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-10" target="MnnqCl9thvRsDREZbjbt-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-10" value="Execução de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1165,7 +1165,7 @@
             <mxPoint x="776" y="436" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eUnupYRM_gMgjBrOgHBj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-13" target="eUnupYRM_gMgjBrOgHBj-1">
+        <mxCell id="eUnupYRM_gMgjBrOgHBj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-13" target="eUnupYRM_gMgjBrOgHBj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-13" value="Conclusão de&amp;nbsp; teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -1180,320 +1180,320 @@
         <mxCell id="oyk98UINzFnYHP4EHpnA-16" value="Enquanto o &lt;b&gt;monitoramento&lt;/b&gt; coleta informações das atividades e compara o progresso atual com o planejado, o &lt;b&gt;controle &lt;/b&gt;de tarefas é responsável por usar tais informações para tomar decisões/ações corretivas para alcançar os objetivos do teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-61" y="519" width="178" height="154" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oyk98UINzFnYHP4EHpnA-18" target="MnnqCl9thvRsDREZbjbt-2">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="oyk98UINzFnYHP4EHpnA-18" target="MnnqCl9thvRsDREZbjbt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oyk98UINzFnYHP4EHpnA-18" value="Nessa etapa do processo de teste, a base de dados é analisada para identificar &lt;b&gt;recursos testáveis&lt;/b&gt;. Nessa etapa, procura-se responder a pergunta &lt;b&gt;&quot;O que testar?&quot;&lt;/b&gt; em relação a critérios de cobertura mensuráveis&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="144.75" y="523" width="176.5" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-2" value="Olhar para o software e observar quais partes testar?&amp;nbsp;&lt;br&gt;Com base nessa pergunta, encontramos critérios de cobertura mensuráveis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-2" value="Olhar para o software e observar quais partes testar?&amp;nbsp;&lt;br&gt;Com base nessa pergunta, encontramos critérios de cobertura mensuráveis" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="158" y="717" width="150" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-4" target="MnnqCl9thvRsDREZbjbt-2">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnnqCl9thvRsDREZbjbt-4" target="MnnqCl9thvRsDREZbjbt-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-4" value="Exemplo" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" collapsed="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-4" value="Exemplo" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="190.5" y="860" width="85" height="26" as="geometry">
             <mxRectangle x="349.5" y="860" width="1674" height="268" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-7" value="&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px; color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;Análise de Teste para uma API de Envio de SMS:&lt;/p&gt;&lt;ol style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; list-style: none; margin: 1.25em 0px; padding: 0px; counter-reset: list-number 0; display: flex; flex-direction: column; color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Identificar Recursos Testáveis:&lt;/span&gt; Observamos a API e identificamos recursos como enviar SMS, verificar o status do envio, lidar com diferentes tipos de mensagens, etc.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Definir Condições de Teste:&lt;/span&gt; Para o envio de SMS, precisamos testar se a mensagem está sendo entregue corretamente, se funciona com diferentes formatos de mensagem (texto, imagem), se lida bem com números diferentes, etc.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Priorizar Condições de Teste:&lt;/span&gt; A entrega correta das mensagens é crítica, então priorizamos testar essa funcionalidade antes de outros aspectos menos cruciais.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Avaliar Riscos e Níveis de Risco:&lt;/span&gt; Pensamos sobre riscos como atrasos nas entregas ou falhas em lidar com tipos específicos de mensagens. Avaliamos como mitigar esses riscos.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Identificar Defeitos e Avaliar Testabilidade:&lt;/span&gt; Procuramos por possíveis problemas, como mensagens que não são entregues ou que chegam com a formatação errada. Também verificamos se é fácil simular diferentes situações de teste.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px 0px; color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;Em resumo, a análise de teste para uma API de envio de SMS ajuda a planejar como garantir que a API funcione conforme esperado, lide com situações variadas e minimize o risco de problemas no envio de mensagens&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="MnnqCl9thvRsDREZbjbt-4">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-7" value="&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px; color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;Análise de Teste para uma API de Envio de SMS:&lt;/p&gt;&lt;ol style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; list-style: none; margin: 1.25em 0px; padding: 0px; counter-reset: list-number 0; display: flex; flex-direction: column; color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Identificar Recursos Testáveis:&lt;/span&gt; Observamos a API e identificamos recursos como enviar SMS, verificar o status do envio, lidar com diferentes tipos de mensagens, etc.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Definir Condições de Teste:&lt;/span&gt; Para o envio de SMS, precisamos testar se a mensagem está sendo entregue corretamente, se funciona com diferentes formatos de mensagem (texto, imagem), se lida bem com números diferentes, etc.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Priorizar Condições de Teste:&lt;/span&gt; A entrega correta das mensagens é crítica, então priorizamos testar essa funcionalidade antes de outros aspectos menos cruciais.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Avaliar Riscos e Níveis de Risco:&lt;/span&gt; Pensamos sobre riscos como atrasos nas entregas ou falhas em lidar com tipos específicos de mensagens. Avaliamos como mitigar esses riscos.&lt;/p&gt;&lt;/li&gt;&lt;li style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 0px; margin-top: 0px; padding-left: 0.375em; counter-increment: list-number 1; display: block; min-height: 28px;&quot;&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 0px;&quot;&gt;&lt;span style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-weight: 600; color: var(--tw-prose-bold);&quot;&gt;Identificar Defeitos e Avaliar Testabilidade:&lt;/span&gt; Procuramos por possíveis problemas, como mensagens que não são entregues ou que chegam com a formatação errada. Também verificamos se é fácil simular diferentes situações de teste.&lt;/p&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p style=&quot;border: 0px solid rgb(217, 217, 227); box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(69,89,164,.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin: 1.25em 0px 0px; color: rgb(55, 65, 81); font-family: Söhne, ui-sans-serif, system-ui, -apple-system, &amp;quot;Segoe UI&amp;quot;, Roboto, Ubuntu, Cantarell, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; text-align: start;&quot;&gt;Em resumo, a análise de teste para uma API de envio de SMS ajuda a planejar como garantir que a API funcione conforme esperado, lide com situações variadas e minimize o risco de problemas no envio de mensagens&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="MnnqCl9thvRsDREZbjbt-4" vertex="1">
           <mxGeometry x="-6.5" y="18" width="1671" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-10" target="MnnqCl9thvRsDREZbjbt-14">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MnnqCl9thvRsDREZbjbt-10" target="MnnqCl9thvRsDREZbjbt-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-10" value="Nessa etapa, nos perguntamos &lt;b&gt;&quot;como testar?&quot;&lt;/b&gt; e transformamos as condições de teste da análise, em &lt;b&gt;CASOS DE TESTE&lt;/b&gt;. Identificamos os itens de cobertura. Definimos também os requisitos de dados de teste. É nessa etapa que identificamos as ferramentas ou qualquer infraestrutura necessária." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-10" value="Nessa etapa, nos perguntamos &lt;b&gt;&quot;como testar?&quot;&lt;/b&gt; e transformamos as condições de teste da análise, em &lt;b&gt;CASOS DE TESTE&lt;/b&gt;. Identificamos os itens de cobertura. Definimos também os requisitos de dados de teste. É nessa etapa que identificamos as ferramentas ou qualquer infraestrutura necessária." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="365.62" y="526" width="160.75" height="174" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-14">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-17">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MnnqCl9thvRsDREZbjbt-13" target="MnnqCl9thvRsDREZbjbt-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-13" value="Define e prioriza as condições de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-13" value="Define e prioriza as condições de teste" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="75" y="959" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-14" value="Elabora as condições de teste em Casos de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-14" value="Elabora as condições de teste em Casos de teste" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="385.99" y="959" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-17" target="MnnqCl9thvRsDREZbjbt-19">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MnnqCl9thvRsDREZbjbt-17" target="MnnqCl9thvRsDREZbjbt-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-17" value="O que são condições de teste?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-17" value="O que são condições de teste?" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="-125" y="959" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-19" target="MnnqCl9thvRsDREZbjbt-21">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MnnqCl9thvRsDREZbjbt-19" target="MnnqCl9thvRsDREZbjbt-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-19" value="São as diferentes situações que desejamos verificar no software para ter certeza que ele funciona corretamente" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-19" value="São as diferentes situações que desejamos verificar no software para ter certeza que ele funciona corretamente" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-139.5" y="1094" width="149" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-21" value="Exe: Dado o requisito que o usuário pode fazer login, uma condição seria:&lt;br&gt;verificar&amp;nbsp;&amp;nbsp;se o sistema permite o acesso quando um usuário e senha válidos são fornecidos." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-21" value="Exe: Dado o requisito que o usuário pode fazer login, uma condição seria:&lt;br&gt;verificar&amp;nbsp;&amp;nbsp;se o sistema permite o acesso quando um usuário e senha válidos são fornecidos." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-150.25" y="1237" width="170.5" height="144" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-23" target="MnnqCl9thvRsDREZbjbt-25">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="MnnqCl9thvRsDREZbjbt-23" target="MnnqCl9thvRsDREZbjbt-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-23" value="&lt;b&gt;Temos tudo para executar os testes?&amp;nbsp;&lt;/b&gt;&lt;br&gt;Nessa etapa do processo, são montados os ambientes de teste, são criados os&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; dados que preencherão e serão usados nos casos de teste&lt;br&gt;(preparação do ambiente para os testes)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-23" value="&lt;b&gt;Temos tudo para executar os testes?&amp;nbsp;&lt;/b&gt;&lt;br&gt;Nessa etapa do processo, são montados os ambientes de teste, são criados os&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; dados que preencherão e serão usados nos casos de teste&lt;br&gt;(preparação do ambiente para os testes)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="576.5" y="551" width="155" height="159" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-25" value="Criação ou aquisição dos materiais de teste (ex: dados de teste). Os &lt;b&gt;scripts de teste&lt;/b&gt; são criados (manuais e automatizados)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-25" value="Criação ou aquisição dos materiais de teste (ex: dados de teste). Os &lt;b&gt;scripts de teste&lt;/b&gt; são criados (manuais e automatizados)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="827" width="135" height="105.5" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-27" value="É a atividade de &quot;rodar&quot; os testes propriamente dito de acordo com o cronograma de execução.&lt;br&gt;A execução pode ser manual ou automatizada, de forma contínua ou sessões de testes em pares.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-27" value="É a atividade de &quot;rodar&quot; os testes propriamente dito de acordo com o cronograma de execução.&lt;br&gt;A execução pode ser manual ou automatizada, de forma contínua ou sessões de testes em pares.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="882" y="555" width="154" height="157" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-33">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-33" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="833" y="720" as="sourcePoint" />
             <mxPoint x="792" y="777" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-33" value="Os resultados são registrados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-33" value="Os resultados são registrados" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="697" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="MnnqCl9thvRsDREZbjbt-35" source="MnnqCl9thvRsDREZbjbt-27">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="837" y="721" as="sourcePoint" />
             <mxPoint x="912" y="777" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-35" value="Os resultados reais são comparados com os resultados esperados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-35" value="Os resultados reais são comparados com os resultados esperados" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MnnqCl9thvRsDREZbjbt-37" source="MnnqCl9thvRsDREZbjbt-27">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="849" y="732" as="sourcePoint" />
             <mxPoint x="922" y="787" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-37" value="As anomalias são analisadas para identificar as possíveis causas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-37" value="As anomalias são analisadas para identificar as possíveis causas" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="943" y="760" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="MnnqCl9thvRsDREZbjbt-39" source="MnnqCl9thvRsDREZbjbt-27">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="MnnqCl9thvRsDREZbjbt-27" target="MnnqCl9thvRsDREZbjbt-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="849" y="732" as="sourcePoint" />
             <mxPoint x="932" y="797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnnqCl9thvRsDREZbjbt-39" value=". Essa análise nos permite relatar as &lt;br/&gt;anomalias com base nas falhas observadas" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="MnnqCl9thvRsDREZbjbt-39" value=". Essa análise nos permite relatar as &lt;br/&gt;anomalias com base nas falhas observadas" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1063" y="758" width="123" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="eUnupYRM_gMgjBrOgHBj-1" value="Geralmente ocorre nos marcos do projeto (ex: fim da sprint). Qualquer material de teste que possa ser útil no futuro, é arquivo. O ambiente de teste é encerrado. Um relatório é criado e comunicado aos stakeholders" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="eUnupYRM_gMgjBrOgHBj-1" value="Geralmente ocorre nos marcos do projeto (ex: fim da sprint). Qualquer material de teste que possa ser útil no futuro, é arquivo. O ambiente de teste é encerrado. Um relatório é criado e comunicado aos stakeholders" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="1221" y="526" width="158" height="141" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="tpe2Fx6MQ06hSxLWlcmU" name="Subtopico1.4.2">
-    <mxGraphModel dx="1647" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-1" target="OZT_ybnWilPiXoU-eNu1-2">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-1" target="OZT_ybnWilPiXoU-eNu1-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Contexto&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Contexto&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="429" y="5" width="246.5" height="125.75" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-2" target="OZT_ybnWilPiXoU-eNu1-4">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-2" target="OZT_ybnWilPiXoU-eNu1-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Impactam&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Impactam&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="492.25" y="165" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-4" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-4" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="429" y="262" width="246.5" height="125.75" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Através de fatores&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Através de fatores&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="486.87" y="429" width="130.75" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-4" target="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-4" target="OZT_ybnWilPiXoU-eNu1-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="553" y="486" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-9">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="558" y="390" as="sourcePoint" />
             <mxPoint x="429" y="554" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-9" target="OZT_ybnWilPiXoU-eNu1-10">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-9" target="OZT_ybnWilPiXoU-eNu1-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-9" value="Stakeholders" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-9" value="Stakeholders" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="68" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-10" value="Necessidades, expectativas, disposição para cooperar, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-10" value="Necessidades, expectativas, disposição para cooperar, etc." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="68" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-13" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="684" y="494" as="sourcePoint" />
             <mxPoint x="561" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-13" target="OZT_ybnWilPiXoU-eNu1-44">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-13" target="OZT_ybnWilPiXoU-eNu1-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-13" value="Membros da equipe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-13" value="Membros da equipe" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="198" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-15" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="815.25" y="494" as="sourcePoint" />
             <mxPoint x="692.25" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-15" target="OZT_ybnWilPiXoU-eNu1-46">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-15" target="OZT_ybnWilPiXoU-eNu1-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-15" value="Domínio do negócio" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-15" value="Domínio do negócio" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-17" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="952" y="494" as="sourcePoint" />
             <mxPoint x="829" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-17" target="OZT_ybnWilPiXoU-eNu1-48">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-17" target="OZT_ybnWilPiXoU-eNu1-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-17" value="Fatores técnicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-17" value="Fatores técnicos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-19" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1054" y="494" as="sourcePoint" />
             <mxPoint x="931" y="556" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-19" target="OZT_ybnWilPiXoU-eNu1-50">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-19" target="OZT_ybnWilPiXoU-eNu1-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-19" value="Restrições do projeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-19" value="Restrições do projeto" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="597" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-21" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="678" y="489" as="sourcePoint" />
             <mxPoint x="1057" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-21" target="OZT_ybnWilPiXoU-eNu1-52">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-21" target="OZT_ybnWilPiXoU-eNu1-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-21" value="Fatores organizacionais" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-21" value="Fatores organizacionais" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="728" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-23" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="492" as="sourcePoint" />
             <mxPoint x="1185" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-23" target="OZT_ybnWilPiXoU-eNu1-54">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-55" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-23" target="OZT_ybnWilPiXoU-eNu1-54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-23" value="Ciclo de vida do desenvolvimento do software" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-23" value="Ciclo de vida do desenvolvimento do software" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="856" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-25" source="OZT_ybnWilPiXoU-eNu1-6">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-6" target="OZT_ybnWilPiXoU-eNu1-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="741" y="492" as="sourcePoint" />
             <mxPoint x="1246" y="553" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OZT_ybnWilPiXoU-eNu1-25" target="OZT_ybnWilPiXoU-eNu1-56">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OZT_ybnWilPiXoU-eNu1-25" target="OZT_ybnWilPiXoU-eNu1-56" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-25" value="Ferramentas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-25" value="Ferramentas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="984" y="543" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-26" value="8 FATORES CITADOS" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-26" value="8 FATORES CITADOS" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;dashed=1;dashPattern=8 8;" parent="1" vertex="1">
           <mxGeometry x="851" y="377" width="82" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-28" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="520" y="256" width="118.5" height="1079" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Esses fatores contextuais impactam os testes principalmente nas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-32" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Esses fatores contextuais impactam os testes principalmente nas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="466.25" y="856" width="226" height="121" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-35">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="OZT_ybnWilPiXoU-eNu1-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="578" y="977" as="sourcePoint" />
             <mxPoint x="513" y="1116" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-35" value="Estratégia de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-35" value="Estratégia de teste" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1063" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-37" source="OZT_ybnWilPiXoU-eNu1-32">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-32" target="OZT_ybnWilPiXoU-eNu1-37" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="636" y="1054" as="sourcePoint" />
             <mxPoint x="645" y="1118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-37" value="Técnicas de testes utilizadas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-37" value="Técnicas de testes utilizadas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="386" y="1063" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-39" source="OZT_ybnWilPiXoU-eNu1-32">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-32" target="OZT_ybnWilPiXoU-eNu1-39" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="501" y="972" as="sourcePoint" />
             <mxPoint x="776.25" y="1118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-39" value="No grau de automação" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-39" value="No grau de automação" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="535" y="1063" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-41" source="OZT_ybnWilPiXoU-eNu1-32">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-32" target="OZT_ybnWilPiXoU-eNu1-41" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="577" y="971" as="sourcePoint" />
             <mxPoint x="913" y="1118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-41" value="Nível de cobertura necessário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-41" value="Nível de cobertura necessário" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="679" y="1063" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="OZT_ybnWilPiXoU-eNu1-43" source="OZT_ybnWilPiXoU-eNu1-32">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="OZT_ybnWilPiXoU-eNu1-32" target="OZT_ybnWilPiXoU-eNu1-43" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="720" y="977" as="sourcePoint" />
             <mxPoint x="1054" y="1118" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-43" value="Nível de detalhe da documentação de testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-43" value="Nível de detalhe da documentação de testes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="1063" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-44" value="Habilidade, nível de conhecimento, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-44" value="Habilidade, nível de conhecimento, etc." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="198" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-46" value="Criticidade do objeto de teste, riscos identificados, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-46" value="Criticidade do objeto de teste, riscos identificados, etc." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="329" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-48" value="Tipo de software, arquitetura do produto, tecnologia usada" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-48" value="Tipo de software, arquitetura do produto, tecnologia usada" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="465" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-50" value="Escopo, tempo, orçamento, recursos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-50" value="Escopo, tempo, orçamento, recursos" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="597" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-52" value="Estrutura organizacional, políticas existentes, práticas utilizadas..." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-52" value="Estrutura organizacional, políticas existentes, práticas utilizadas..." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="728" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-54" value="Práticas de engenharia, métodos de desenvolvimento, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-54" value="Práticas de engenharia, métodos de desenvolvimento, etc." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="856" y="674" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OZT_ybnWilPiXoU-eNu1-56" value="Disponibilidade, usabilidade, conformidade, etc." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="OZT_ybnWilPiXoU-eNu1-56" value="Disponibilidade, usabilidade, conformidade, etc." style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="984" y="674" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="gywgTZcQliuQbAwkrDeI" name="Subtopico1.4.3">
-    <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2794" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1683,84 +1683,484 @@
     </mxGraphModel>
   </diagram>
   <diagram id="m1tc4IYmg3yMYUoASSLm" name="Subtopico1.4.4">
-    <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="brCUJome2c_tuN5BONSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-2">
+        <mxCell id="brCUJome2c_tuN5BONSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Rastreabilidade&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Rastreabilidade&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="410" y="78" width="375" height="125.75" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-2" value="É importante estabelecer e manter a rastreabilidade em todo processo de teste entre os elementos da base de teste, o testware, associado a esses elementos, os resultados dos testes e os defeitos detectados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="186" width="177" height="132" as="geometry" />
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-2" target="vre0ZRb8VbF5lDdWAYjN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32" y="704" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58" y="252" />
+              <mxPoint x="58" y="600" />
+              <mxPoint x="129" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-5" value="A rastreabilidade precisa dá suporte à avaliação da cobertura, portanto, é muito útil que os critérios de cobertura sejam definidos na base do teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-2" value="É importante estabelecer e manter a rastreabilidade em todo processo de teste entre os elementos da base de teste, o testware, associado a esses elementos, os resultados dos testes e os defeitos detectados" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="134" y="186" width="175" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="brCUJome2c_tuN5BONSw-5" value="A rastreabilidade precisa dá suporte à avaliação da cobertura, portanto, é muito útil que os critérios de cobertura sejam definidos na base do teste." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="924" y="221" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-7" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5" y="357.75" as="sourcePoint" />
             <mxPoint x="691" y="423.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-7" value="A rastreabilidade avalia a cobertura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="379" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-7" value="A rastreabilidade avalia a cobertura" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="273" y="381" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-9" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5" y="357.75" as="sourcePoint" />
             <mxPoint x="862" y="420.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-9" value="Permite determinar o impacto das mudanças" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="381" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-9" value="Permite determinar o impacto das mudanças" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="383" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-11" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5" y="357.75" as="sourcePoint" />
             <mxPoint x="1029" y="423.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-11" value="Facilita auditorias de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="381" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-11" value="Facilita auditorias de teste" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="606" y="381" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-5">
+        <mxCell id="brCUJome2c_tuN5BONSw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-14" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Suas vantagens e valor&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-14" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Suas vantagens e valor&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="537.5" y="251.995" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-23" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="768" y="312" as="sourcePoint" />
             <mxPoint x="1199" y="423.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-23" value="Ajuda a atender os critérios de governança" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="379" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-23" value="Ajuda a atender os critérios de governança" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="383" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-25" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="314" as="sourcePoint" />
             <mxPoint x="518" y="425.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-25" value="Torna o processo do teste e os relatórios de conclusão mais compreensíveis, incluindo status dos elementos da base de teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-25" value="Torna o processo do teste e os relatórios de conclusão mais compreensíveis, incluindo status dos elementos da base de teste." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="381" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-27" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="766" y="314" as="sourcePoint" />
             <mxPoint x="1367" y="425.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-27" value="Fornece informações para avaliar a qualidade do produto, a capacidade do processo e o progresso do projeto em relação aos objetivos de negócio." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="949" y="381" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-27" value="Fornece informações para avaliar a qualidade do produto, a capacidade do processo e o progresso do projeto em relação aos objetivos de negócio." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="944" y="381" width="161" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vre0ZRb8VbF5lDdWAYjN-1" target="vre0ZRb8VbF5lDdWAYjN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-1" value="Elementos da base de teste são mais conceituais e representam as entidades&amp;nbsp; de teste, &lt;b&gt;definindo &lt;/b&gt;o que precisa testado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="548" width="138" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vre0ZRb8VbF5lDdWAYjN-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="58" y="591" as="sourcePoint" />
+            <mxPoint x="148" y="697" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vre0ZRb8VbF5lDdWAYjN-6" target="vre0ZRb8VbF5lDdWAYjN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-6" value="Testware é mais tangível e consiste em ferramentas e artefatos concretos &lt;b&gt;proporcionando&lt;/b&gt; &lt;b&gt;meios&lt;/b&gt; para realizar os testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="663" width="147.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-7" value="Exemplos: condições de teste, casos de teste e riscos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-9" value="Exemplos: scripts de teste dados de teste, ambiente de teste, plano de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="398.25" y="682" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="bIDZSHVBKHESa_S90zpA" name="Subtopico1.4.5">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Papéis no teste&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="78" width="375" height="125.75" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-2" target="kmhwGM4QcscvT-oFZV4k-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-2" value="&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Gerenciamento de teste&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="279.005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-1" target="kmhwGM4QcscvT-oFZV4k-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="373" as="sourcePoint" />
+            <mxPoint x="608" y="323" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-5" target="kmhwGM4QcscvT-oFZV4k-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-5" value="&lt;p style=&quot;line-height: 30%;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Testador&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="279.005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="kmhwGM4QcscvT-oFZV4k-5" source="kmhwGM4QcscvT-oFZV4k-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="616" y="203.75" as="sourcePoint" />
+            <mxPoint x="800.5" y="326.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-8" target="kmhwGM4QcscvT-oFZV4k-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-8" value="Responsabilidade geral pelo processo de teste, pela equipe de teste e pela liderança das atividades de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="423.75" y="376" width="134.5" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-10" value="Responsabilidade geral pelo aspecto de engenharia(técnico) do teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="389" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-12" target="kmhwGM4QcscvT-oFZV4k-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-12" value="&lt;p style=&quot;line-height: 100%;&quot;&gt;&lt;/p&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial; border-color: var(--border-color);&quot;&gt;Dependem do contexto do projeto e do produto e das habilidades das pessoas que ocupam esses papéis&lt;/i&gt;&lt;/div&gt;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="135" y="79.4" width="187" height="122.94" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-14" value="Atividades" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="431" y="515" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kmhwGM4QcscvT-oFZV4k-17" source="kmhwGM4QcscvT-oFZV4k-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="697" y="449" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-17" value="Atividades" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="635" y="515" width="120" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.525;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="kmhwGM4QcscvT-oFZV4k-19" source="kmhwGM4QcscvT-oFZV4k-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="695" y="562" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-19" target="kmhwGM4QcscvT-oFZV4k-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-19" value="Análise, modelagem, implementação e execução de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="609" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="kmhwGM4QcscvT-oFZV4k-21" source="kmhwGM4QcscvT-oFZV4k-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="491" y="559" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kmhwGM4QcscvT-oFZV4k-21" target="kmhwGM4QcscvT-oFZV4k-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-21" value="Planejamento, monitoramento e controle e conclusão de teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="611" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-22" value="Pode ser desempenhado por um líder de equipe&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="713" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-24" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="585" y="597" width="41.5" height="407" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-25" value="Uma pessoa pode desempenhar os dois papéis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545.75" y="839" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kmhwGM4QcscvT-oFZV4k-26" value="Um testador" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="638" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ewm-TIVY7NfxjB3SPeLQ" name="Subtopico1.5e1.5.1">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IW5Z0zwuZgLEjQ28L7_9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IW5Z0zwuZgLEjQ28L7_9-1" target="IW5Z0zwuZgLEjQ28L7_9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IW5Z0zwuZgLEjQ28L7_9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IW5Z0zwuZgLEjQ28L7_9-1" target="IW5Z0zwuZgLEjQ28L7_9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IW5Z0zwuZgLEjQ28L7_9-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;HABILIDADE&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="78" width="375" height="125.75" as="geometry" />
+        </mxCell>
+        <mxCell id="IW5Z0zwuZgLEjQ28L7_9-2" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;É a capacidade de fazer algo bem feito que provém do conhecimento, da prática e da aptidão de uma pessoa&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="67" y="44.89" width="137" height="191.97" as="geometry" />
+        </mxCell>
+        <mxCell id="IW5Z0zwuZgLEjQ28L7_9-4" value="&lt;p style=&quot;line-height: 10%;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Bons testadores devem ter algumas habilidades para fazer bem o seu trabalho, devendo ser participantes eficazes em uma equipe e ser capaz de realizar testes em diferentes níveis de independência de teste.&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="417.31" y="256" width="360.37" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IW5Z0zwuZgLEjQ28L7_9-4" target="hsb8kBrAHD0YZHyQbVln-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="554" as="sourcePoint" />
+            <mxPoint x="309" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-3" value="Conhecimento sobre testes&lt;br&gt;(para aumentar a eficácia dos testes, por exemplo, usando técnicas de teste)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="507" width="142" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hsb8kBrAHD0YZHyQbVln-5" source="IW5Z0zwuZgLEjQ28L7_9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746" y="431" as="sourcePoint" />
+            <mxPoint x="458" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-5" value="Meticulosidade, cuidado, curiosidade, atenção aos detalhes, ser metódicos (para identificar defeitos que são difíceis de achar." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="507" width="142" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hsb8kBrAHD0YZHyQbVln-7" source="IW5Z0zwuZgLEjQ28L7_9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="893" y="431" as="sourcePoint" />
+            <mxPoint x="605" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7N2Pd8HHxxlZMCr81OX--2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hsb8kBrAHD0YZHyQbVln-7" target="7N2Pd8HHxxlZMCr81OX--1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-7" value="Boas habilidade de comunicação, ser um bom ouvinte e trabalhar em equipe (para interagir de forma efetiva)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="496" y="507" width="142" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hsb8kBrAHD0YZHyQbVln-9" source="IW5Z0zwuZgLEjQ28L7_9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="888" y="428" as="sourcePoint" />
+            <mxPoint x="749" y="514" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-9" value="Pensamento analítico, pensamento crítico, criatividade (para aumentar a eficácia dos testes)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="646" y="507" width="142" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hsb8kBrAHD0YZHyQbVln-11" source="IW5Z0zwuZgLEjQ28L7_9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746" y="434" as="sourcePoint" />
+            <mxPoint x="898" y="517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-11" value="Conhecimento técnico (usando ferramentas de teste adequadas)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="507" width="142" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="hsb8kBrAHD0YZHyQbVln-13" source="IW5Z0zwuZgLEjQ28L7_9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="746" y="434" as="sourcePoint" />
+            <mxPoint x="1047" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hsb8kBrAHD0YZHyQbVln-13" value="Conhecimento do domínio (entender e se comunicar com os usuários finais e representantes de negócio)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="943" y="507" width="142" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="7N2Pd8HHxxlZMCr81OX--1" value="As informações sobre defeitos e falhas devem ser comunicadas de forma construtiva" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="502.5" y="683" width="129" height="82" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FPoGMJd3KMUbBtVeK93o" name="Subtopico1.5.2">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-1" target="1GqjPfZC7eXhow8pMYDM-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="567.5" y="348.89585876464844" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Abordagem da equipe completa (XP)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="362" y="48" width="411" height="212" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Groups.svg;fontColor=#660033;" vertex="1" parent="1">
+          <mxGeometry x="746" y="199" width="67" height="55.18" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-10" target="1GqjPfZC7eXhow8pMYDM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-10" target="1GqjPfZC7eXhow8pMYDM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-10" target="1GqjPfZC7eXhow8pMYDM-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-10" value="Parte do princípio de que qualquer membro da equipe pode fazer qualquer tarefa desde que possua a habilidade e o conhecimento necessário" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480.25" y="352" width="174.5" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-11" value="Os membros compartilham do mesmo espaço de trabalho" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-13" value="TODOS SÃO RESPONSÁVEIS PELA QUALIDADE" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="762" y="384" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-15" value="&lt;font color=&quot;#000000&quot;&gt;Melhora&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#afc2e9;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="507.5" y="524" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-15" target="1GqjPfZC7eXhow8pMYDM-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="577.5" y="707" as="sourcePoint" />
+            <mxPoint x="486" y="607" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-19" value="Dinâmica da equipe" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="334" y="596" width="134" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="1GqjPfZC7eXhow8pMYDM-21" source="1GqjPfZC7eXhow8pMYDM-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698.25" y="558" as="sourcePoint" />
+            <mxPoint x="616.25" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-21" value="Aprimora a comunicação e a colaboração" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500.75" y="596" width="133.5" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-22" value="Cria sinergia ao permitir que várias habilidades da equipe sejam aproveitadas em benefício do projeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="595" width="158" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-15" target="1GqjPfZC7eXhow8pMYDM-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="869" y="565" as="sourcePoint" />
+            <mxPoint x="697" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-25" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="566.75" y="470.75" width="20" height="610.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-26" target="1GqjPfZC7eXhow8pMYDM-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-26" value="Testadores precisam ser colaborativos com os outros membros da equipe para que os níveis de qualidade desejados sejam alcançados" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="502.75" y="799" width="148" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1GqjPfZC7eXhow8pMYDM-27" target="1GqjPfZC7eXhow8pMYDM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-27" value="Nem sempre é aplicável, por exemplo, em situações críticas para segurança, é necessário um alto nível de independência dos testes." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="57" y="124" width="201" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1GqjPfZC7eXhow8pMYDM-30" value="Isso inclui colaborar com representantes do negócio para ajudá-los a criar testes de aceite adequados." style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="513.63" y="1009" width="126.25" height="83" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9Bn1nTuEGXoWHT5wHQo1" name="Subtopico1.5.3">
+    <mxGraphModel dx="1625" dy="931" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-1" target="iLp7nYHjsXf1_8IkRhZq-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="557" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-1" target="iLp7nYHjsXf1_8IkRhZq-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Independência dos testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="377" y="20" width="360" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-4" value="Um certo grau de independência, torna o testador mais eficaz na localização de defeitos devido a diferenças entre vieses cognitivos do autor e testador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="859" y="47" width="141" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Níveis de independência&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="482.75" y="277" width="148.5" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-6" target="iLp7nYHjsXf1_8IkRhZq-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="388" as="sourcePoint" />
+            <mxPoint x="467" y="394" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-8" target="iLp7nYHjsXf1_8IkRhZq-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-8" value="Nenhuma independência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iLp7nYHjsXf1_8IkRhZq-10" source="iLp7nYHjsXf1_8IkRhZq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="567" y="352" as="sourcePoint" />
+            <mxPoint x="477" y="404" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-10" target="iLp7nYHjsXf1_8IkRhZq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-10" value="Alta independência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="582" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iLp7nYHjsXf1_8IkRhZq-12" source="iLp7nYHjsXf1_8IkRhZq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="691" y="348" as="sourcePoint" />
+            <mxPoint x="601" y="400" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-12" value="Baixa independência" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="iLp7nYHjsXf1_8IkRhZq-14" source="iLp7nYHjsXf1_8IkRhZq-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681" y="340" as="sourcePoint" />
+            <mxPoint x="601" y="402" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-14" target="iLp7nYHjsXf1_8IkRhZq-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-14" value="Independência muito alta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="393" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-15" value="Produtos de trabalhos podem ser testados pelo seu autor" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="322" y="532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="iLp7nYHjsXf1_8IkRhZq-18" source="iLp7nYHjsXf1_8IkRhZq-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="511" y="453" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-18" value="Produtos de trabalhos testados pelos colegas do autor da mesma equipe" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="532" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-19" value="Testados por testadores de fora da equipe do autor (mas da mesma organização)" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="574.5" y="530" width="135" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-21" value="Testados por testadores de fora da equipe do autor e da organização" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="716" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iLp7nYHjsXf1_8IkRhZq-23" target="iLp7nYHjsXf1_8IkRhZq-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="558" y="318" width="20" height="663.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iLp7nYHjsXf1_8IkRhZq-24" value="Na maioria dos projetos, é melhor realizar testes com diferentes níveis de independência." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499.5" y="695" width="137" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
