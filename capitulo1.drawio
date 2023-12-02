@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T01:58:37.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="jCcp1LdP8Mhl4f6XsV7y" version="22.1.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-12-02T16:59:20.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Yy1l68MrqbYuB1tlkp4g" version="22.1.5" type="github" pages="12">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
     <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1687,80 +1687,117 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="brCUJome2c_tuN5BONSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-2">
+        <mxCell id="brCUJome2c_tuN5BONSw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Rastreabilidade&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-1" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Rastreabilidade&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="410" y="78" width="375" height="125.75" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-2" value="É importante estabelecer e manter a rastreabilidade em todo processo de teste entre os elementos da base de teste, o testware, associado a esses elementos, os resultados dos testes e os defeitos detectados" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="132" y="186" width="177" height="132" as="geometry" />
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-2" target="vre0ZRb8VbF5lDdWAYjN-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="32" y="704" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58" y="252" />
+              <mxPoint x="58" y="600" />
+              <mxPoint x="129" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-5" value="A rastreabilidade precisa dá suporte à avaliação da cobertura, portanto, é muito útil que os critérios de cobertura sejam definidos na base do teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-2" value="É importante estabelecer e manter a rastreabilidade em todo processo de teste entre os elementos da base de teste, o testware, associado a esses elementos, os resultados dos testes e os defeitos detectados" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="134" y="186" width="175" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="brCUJome2c_tuN5BONSw-5" value="A rastreabilidade precisa dá suporte à avaliação da cobertura, portanto, é muito útil que os critérios de cobertura sejam definidos na base do teste." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="924" y="221" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-7" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5" y="357.75" as="sourcePoint" />
             <mxPoint x="691" y="423.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-7" value="A rastreabilidade avalia a cobertura" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="379" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-7" value="A rastreabilidade avalia a cobertura" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="273" y="381" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-9" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5" y="357.75" as="sourcePoint" />
             <mxPoint x="862" y="420.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-9" value="Permite determinar o impacto das mudanças" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="447" y="381" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-9" value="Permite determinar o impacto das mudanças" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="383" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-11" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5" y="357.75" as="sourcePoint" />
             <mxPoint x="1029" y="423.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-11" value="Facilita auditorias de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="381" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-11" value="Facilita auditorias de teste" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="606" y="381" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-5">
+        <mxCell id="brCUJome2c_tuN5BONSw-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.607;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="brCUJome2c_tuN5BONSw-1" target="brCUJome2c_tuN5BONSw-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-14" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Suas vantagens e valor&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-14" value="&lt;p style=&quot;line-height: 20%;&quot;&gt;&lt;font size=&quot;3&quot;&gt;Suas vantagens e valor&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;fontSize=47;fillColor=#e1d5e7;strokeColor=none;rounded=1;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="537.5" y="251.995" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-23" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="768" y="312" as="sourcePoint" />
             <mxPoint x="1199" y="423.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-23" value="Ajuda a atender os critérios de governança" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="781" y="379" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-23" value="Ajuda a atender os critérios de governança" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="775" y="383" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-25" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="425" y="314" as="sourcePoint" />
             <mxPoint x="518" y="425.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-25" value="Torna o processo do teste e os relatórios de conclusão mais compreensíveis, incluindo status dos elementos da base de teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="brCUJome2c_tuN5BONSw-25" value="Torna o processo do teste e os relatórios de conclusão mais compreensíveis, incluindo status dos elementos da base de teste." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="108" y="381" width="161" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="brCUJome2c_tuN5BONSw-27" source="brCUJome2c_tuN5BONSw-14">
+        <mxCell id="brCUJome2c_tuN5BONSw-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="brCUJome2c_tuN5BONSw-14" target="brCUJome2c_tuN5BONSw-27" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="766" y="314" as="sourcePoint" />
             <mxPoint x="1367" y="425.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="brCUJome2c_tuN5BONSw-27" value="Fornece informações para avaliar a qualidade do produto, a capacidade do processo e o progresso do projeto em relação aos objetivos de negócio." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="949" y="381" width="161" height="102" as="geometry" />
+        <mxCell id="brCUJome2c_tuN5BONSw-27" value="Fornece informações para avaliar a qualidade do produto, a capacidade do processo e o progresso do projeto em relação aos objetivos de negócio." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="944" y="381" width="161" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vre0ZRb8VbF5lDdWAYjN-1" target="vre0ZRb8VbF5lDdWAYjN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-1" value="Elementos da base de teste são mais conceituais e representam as entidades&amp;nbsp; de teste, &lt;b&gt;definindo &lt;/b&gt;o que precisa testado" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="548" width="138" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="vre0ZRb8VbF5lDdWAYjN-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="58" y="591" as="sourcePoint" />
+            <mxPoint x="148" y="697" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="58" y="713" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vre0ZRb8VbF5lDdWAYjN-6" target="vre0ZRb8VbF5lDdWAYjN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-6" value="Testware é mais tangível e consiste em ferramentas e artefatos concretos &lt;b&gt;proporcionando&lt;/b&gt; &lt;b&gt;meios&lt;/b&gt; para realizar os testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="157" y="663" width="147.5" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-7" value="Exemplos: condições de teste, casos de teste e riscos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="384" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vre0ZRb8VbF5lDdWAYjN-9" value="Exemplos: scripts de teste dados de teste, ambiente de teste, plano de teste" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="398.25" y="682" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
