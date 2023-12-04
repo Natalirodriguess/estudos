@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T23:36:31.584Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LC74k3F6sV2YOrszX1_3" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-04T23:41:15.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yJs20PdXzxGTaft97xOQ" version="22.1.5" type="github" pages="2">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -252,7 +252,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Modelo iterativo e incremental&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="-3" y="130" width="130" height="62" as="geometry" />
+          <mxGeometry y="154" width="130" height="62" as="geometry" />
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-28" source="pDeCSo_xeqtx8VQxJZtU-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -298,6 +298,29 @@
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-41" value="Como nesse modelo o&amp;nbsp; código executável é criado nas fases posteriores, os testes dinâmicos não podem ser realizados no início do SDLC" style="whiteSpace=wrap;html=1;align=right;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-658" y="-43" width="166.5" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-44" source="pDeCSo_xeqtx8VQxJZtU-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="194.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-44" target="pDeCSo_xeqtx8VQxJZtU-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-44" value="Como em cada iteração é entregado um protótipo funcional ou incremento de produto, a cada iteração os testes estáticos e dinâmicos podem ser realizados em todos os níveis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-231" y="133.75" width="163" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-45" value="A entrega frequente de incrementos exige feedbacks rápido e testes de regressão extensivos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="147.75" width="134" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Desenvolvimento Ágil&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="342" width="148" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-47" source="pDeCSo_xeqtx8VQxJZtU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="298" as="sourcePoint" />
+            <mxPoint x="171" y="459" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
