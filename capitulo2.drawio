@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T00:51:51.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="OenR9LWz-dd4LGmQ36WF" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T00:53:04.729Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="iGRW0FAzhftWP8oKLpJN" version="22.1.5" type="github">
   <diagram name="Página-1" id="lRviSgMVGL4Z4l4xJwu7">
-    <mxGraphModel>
+    <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="2uhSqPjALit6IwWoEEMz-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Ciclo de vida de desenvolvimento de software&amp;nbsp;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="409" y="62" width="351" height="176" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
