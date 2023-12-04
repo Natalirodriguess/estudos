@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T23:41:15.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="yJs20PdXzxGTaft97xOQ" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-04T23:45:05.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="MPuxlwVQGud5IW8pD2A_" version="22.1.5" type="github" pages="2">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -321,6 +321,14 @@
             <mxPoint x="277" y="298" as="sourcePoint" />
             <mxPoint x="171" y="459" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-50" source="pDeCSo_xeqtx8VQxJZtU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-12" y="372" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-50" value="Como supõe que mudanças podem ocorrer ao longo do projeto, a &lt;b&gt;documentação leve&lt;/b&gt; e a ampla automação de testes para facilitar o teste de regressão, são favorecidas em projetos ágeis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="321.75" width="163" height="102.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
