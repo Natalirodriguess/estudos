@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T23:16:04.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="NktcmfqWNdT0nA0I1fCk" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-04T23:26:55.059Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="X_YKDRb6NtwAuNWPOzGX" version="22.1.5" type="github" pages="2">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -157,25 +157,87 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Ciclo de vida de desenvolvimento de software (SDLC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="409" y="16" width="351" height="176" as="geometry" />
+          <mxGeometry x="351" y="16" width="351" height="176" as="geometry" />
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-2" target="pDeCSo_xeqtx8VQxJZtU-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Impactam&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="525" y="238" width="120" height="60" as="geometry" />
+          <mxGeometry x="467" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-4" target="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="556.6805725097656" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-4" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="461.75" y="342" width="246.5" height="125.75" as="geometry" />
+          <mxGeometry x="403.75" y="342" width="246.5" height="125.75" as="geometry" />
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.989;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-4" target="pDeCSo_xeqtx8VQxJZtU-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="708.25" y="339" as="sourcePoint" />
-            <mxPoint x="762.3231899597617" y="304" as="targetPoint" />
+            <mxPoint x="650.25" y="339" as="sourcePoint" />
+            <mxPoint x="704.3231899597617" y="304" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pDeCSo_xeqtx8VQxJZtU-8" value="Para serem bem sucedidos, precisam ser adaptados conforme o SDLC." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="771" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="713" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Em&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="461" y="511" width="130.75" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-12" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460.04325000000017" y="538.0000000000001" as="sourcePoint" />
+            <mxPoint x="403.32318995976175" y="686.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-12" value="O Escopo e cronograma das atividades de teste (Ex: níveis de teste e tipos de teste)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-14" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="545" as="sourcePoint" />
+            <mxPoint x="575.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-14" value="Nível de detalhamento da documentação de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-16" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="696" y="543" as="sourcePoint" />
+            <mxPoint x="745.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-16" value="A escolha das técnicas de teste e da abordagem de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-18" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="543" as="sourcePoint" />
+            <mxPoint x="924.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-18" value="A escolha das técnicas de teste e da abordagem de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="596" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-20" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702" y="543" as="sourcePoint" />
+            <mxPoint x="1100.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-20" value="A extensão da automação de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-22" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="713" y="545" as="sourcePoint" />
+            <mxPoint x="1287.3231899597617" y="690.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-22" value="O papel e responsabilidade de um testador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="906" y="594" width="164" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
