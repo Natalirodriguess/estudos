@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T01:55:06.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tXCElYoSM3JPY0MSxKOY" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-04T01:55:13.532Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="SiCYg5jeuR5ksoKNIbx0" version="22.1.5" type="github">
   <diagram name="Página-1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
         <mxCell id="2uhSqPjALit6IwWoEEMz-41" value="&lt;b&gt;Kanban, Lean IT, Scrum,&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1221" y="380" width="252" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="2uhSqPjALit6IwWoEEMz-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="2uhSqPjALit6IwWoEEMz-43">
+        <mxCell id="2uhSqPjALit6IwWoEEMz-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="2uhSqPjALit6IwWoEEMz-43" source="2uhSqPjALit6IwWoEEMz-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1160" y="287" as="sourcePoint" />
             <mxPoint x="1134" y="412.25" as="targetPoint" />
