@@ -1,9 +1,78 @@
-<mxfile host="app.diagrams.net" modified="2023-12-05T01:48:03.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.5" etag="KhVdlbWz-XZNWxIOLJjP" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-05T02:06:26.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7PDfZBPLvo8MtAf9A5P_" version="22.1.5" type="github">
   <diagram name="Página-1" id="_j-NSZvh4gomwTT8897T">
-    <mxGraphModel>
+    <mxGraphModel dx="2338" dy="1455" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-1" target="gKy02TJJ5U39QqU6iiXZ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-1" value="&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 30pt; font-family: Arial, sans-serif; color: rgb(89, 89, 89); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;Capa&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-e0634e78-7fff-da80-e82a-a1ae23e2c881&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="-107" width="206" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-4" target="gKy02TJJ5U39QqU6iiXZ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-4" value="&lt;p style=&quot;line-height: 1.2; margin-top: 0pt; margin-bottom: 0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;/p&gt;&lt;div&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 30pt; font-family: Arial, sans-serif; color: rgb(89, 89, 89); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; vertical-align: baseline;&quot;&gt;O que é ou o que são componentes&lt;/span&gt;&lt;p&gt;&lt;/p&gt;&lt;span id=&quot;docs-internal-guid-f8e9dd51-7fff-4396-dbc1-d6e7683afa7c&quot;&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="-114.5" width="343" height="161" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-6" target="gKy02TJJ5U39QqU6iiXZ-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-6" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Qual a diferença entre Componentes e Serviço&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="711" y="-129.5" width="298.5" height="191" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-8" target="gKy02TJJ5U39QqU6iiXZ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-8" target="gKy02TJJ5U39QqU6iiXZ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-8" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Como testar&amp;nbsp; componentes?&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1103" y="-87" width="310.5" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-10" target="gKy02TJJ5U39QqU6iiXZ-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1005" y="256" />
+              <mxPoint x="1005" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Componentes que fazem parte da squad&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1091.25" y="170" width="334" height="173" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-14" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Componentes passíveis de automação X Componentes que não foram automatizados&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="536" y="156" width="443.75" height="201" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-17" value="segundo syllabus e ou outros materiais" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1588.75" y="-64" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="gKy02TJJ5U39QqU6iiXZ-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="536" y="257" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="450" y="256" />
+              <mxPoint x="450" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gKy02TJJ5U39QqU6iiXZ-20" target="gKy02TJJ5U39QqU6iiXZ-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="147" y="564" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-200" y="254" />
+              <mxPoint x="-200" y="399" />
+              <mxPoint x="117" y="399" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-20" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Exemplo de componente que não foi passível de automação (Por que? E como está sendo feito para verificar o funcionamento?)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="143" width="443.75" height="222" as="geometry" />
+        </mxCell>
+        <mxCell id="gKy02TJJ5U39QqU6iiXZ-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Exemplo de componente em que o teste verificação foi passível de automação&amp;nbsp; (e como foi automatizado - código)&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="508" width="458" height="185" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
