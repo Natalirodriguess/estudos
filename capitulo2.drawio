@@ -1,26 +1,399 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T01:05:49.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ReH9vG8ilZ0cZcwSyG8q" version="22.1.5" type="github">
-  <diagram name="Página-1" id="lRviSgMVGL4Z4l4xJwu7">
+<mxfile host="app.diagrams.net" modified="2023-12-05T01:04:44.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="A9Bu7ei7jBdu-VzYAky5" version="22.1.5" type="github" pages="3">
+  <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1647" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2uhSqPjALit6IwWoEEMz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2uhSqPjALit6IwWoEEMz-1" target="2uhSqPjALit6IwWoEEMz-4">
+        <mxCell id="2uhSqPjALit6IwWoEEMz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2uhSqPjALit6IwWoEEMz-1" target="2uhSqPjALit6IwWoEEMz-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2uhSqPjALit6IwWoEEMz-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Ciclo de vida de desenvolvimento de software (SDLC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="2uhSqPjALit6IwWoEEMz-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Ciclo de vida de desenvolvimento de software (SDLC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="282" y="23" width="351" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="2uhSqPjALit6IwWoEEMz-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Um modelo SDLC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="2uhSqPjALit6IwWoEEMz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2uhSqPjALit6IwWoEEMz-4" target="2uhSqPjALit6IwWoEEMz-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="342.11460876464844" y="286.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="2uhSqPjALit6IwWoEEMz-4" target="2uhSqPjALit6IwWoEEMz-25" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="672.1146697998047" y="286.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Um modelo SDLC&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="397.5" y="268" width="120" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2uhSqPjALit6IwWoEEMz-8" value="É uma representação abstrata e de alto nível&amp;nbsp; do processo de desenvolvimento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="541" y="349" width="120" height="60" as="geometry" />
+        <mxCell id="2uhSqPjALit6IwWoEEMz-8" value="É uma representação abstrata e de alto nível&amp;nbsp; do processo de desenvolvimento de software" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="552" y="349" width="154" height="94" as="geometry" />
         </mxCell>
-        <mxCell id="2uhSqPjALit6IwWoEEMz-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uhSqPjALit6IwWoEEMz-4" target="2uhSqPjALit6IwWoEEMz-8">
+        <mxCell id="2uhSqPjALit6IwWoEEMz-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-4" target="2uhSqPjALit6IwWoEEMz-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="428" y="316" as="sourcePoint" />
             <mxPoint x="478" y="266" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-12" value="Define como as diferentes fases do desenvolvimento e os tipos de atividades realizadas nesse processo se relacionam entre si cronologicamente quanto logicamente." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="204" y="335" width="173" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-4" target="2uhSqPjALit6IwWoEEMz-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="315" as="sourcePoint" />
+            <mxPoint x="488" y="276" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-15" value="Exemplos" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="397.5" y="471" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-17" value="&lt;b&gt;Desenvolvimento sequencial&lt;/b&gt;.&amp;nbsp;&lt;br&gt;Ex: modelo em cascata, modelo em V" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="84" y="624" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-15" target="2uhSqPjALit6IwWoEEMz-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="37" y="341" as="sourcePoint" />
+            <mxPoint x="67" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-19" value="Desenvolvimento iterativo.&lt;br&gt;Ex: modelo em espiral, prototipagem" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="371" y="619" width="173" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-15" target="2uhSqPjALit6IwWoEEMz-19" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="633" y="531" as="sourcePoint" />
+            <mxPoint x="242" y="312" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-21" value="Desenvolvimento incremental.&lt;br&gt;Ex: processo&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="605" y="619" width="173" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-15" target="2uhSqPjALit6IwWoEEMz-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="641" y="538" as="sourcePoint" />
+            <mxPoint x="425" y="319" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-25" target="2uhSqPjALit6IwWoEEMz-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1045.4480438232422" y="287" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-25" value="Algumas atividades nos processos de desenvolvimento de software também podem ser descritas por métodos de desenvolvimento mais detalhados e praticas ágeis&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="696" y="258.25" width="269" height="56.5" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-27" value="Exemplos" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="270.5" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-28" value="&lt;b&gt;Desenvolvimento orientado por testes de aceite (ATDD)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1217" y="96" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-28" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1154" y="258.25" as="sourcePoint" />
+            <mxPoint x="1180" y="-6.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-33" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1165" y="355" as="sourcePoint" />
+            <mxPoint x="1204" y="68.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-33" value="&lt;b&gt;Desenvolvimento orientado pelo comportamento (BDD)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1221" y="152" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1126" y="323.5" as="sourcePoint" />
+            <mxPoint x="1190" y="115.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-35" value="&lt;b&gt;Domain driver design&amp;nbsp; (DDD)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1217" y="208" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="282.5" as="sourcePoint" />
+            <mxPoint x="1174" y="185.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-37" value="&lt;b&gt;Extreme program (XP)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1227" y="265" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-39" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1106" y="355" as="sourcePoint" />
+            <mxPoint x="1130" y="253.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-39" value="&lt;b&gt;Feature drive development (FDD)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1227" y="318" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1154" y="393" as="sourcePoint" />
+            <mxPoint x="1128" y="359.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-41" value="&lt;b&gt;Kanban, Lean IT, Scrum,&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1221" y="380" width="252" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="2uhSqPjALit6IwWoEEMz-27" target="2uhSqPjALit6IwWoEEMz-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1160" y="287" as="sourcePoint" />
+            <mxPoint x="1134" y="412.25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uhSqPjALit6IwWoEEMz-43" value="&lt;b&gt;Desenvolvimento orientado por teste (TDD)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1227" y="432.5" width="252" height="47" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="OWAZIi1sSoX5b2HP1g7s" name="Subtopico2.1.1">
+    <mxGraphModel dx="2447" dy="1297" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-1" target="pDeCSo_xeqtx8VQxJZtU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Ciclo de vida de desenvolvimento de software (SDLC)&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="351" y="16" width="351" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-2" target="pDeCSo_xeqtx8VQxJZtU-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Impactam&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="467" y="238" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-4" target="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="527" y="556.6805725097656" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-4" value="&lt;font style=&quot;font-size: 47px;&quot;&gt;Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=none;fontSize=47;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="403.75" y="342" width="246.5" height="125.75" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.989;exitY=0.081;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-4" target="pDeCSo_xeqtx8VQxJZtU-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650.25" y="339" as="sourcePoint" />
+            <mxPoint x="704.3231899597617" y="304" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-8" value="Para serem bem sucedidos, precisam ser adaptados conforme o SDLC." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="713" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-10" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Em&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="461" y="511" width="130.75" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-12" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460.04325000000017" y="538.0000000000001" as="sourcePoint" />
+            <mxPoint x="403.32318995976175" y="686.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-12" value="O Escopo e cronograma das atividades de teste (Ex: níveis de teste e tipos de teste)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-14" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="698" y="545" as="sourcePoint" />
+            <mxPoint x="575.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-14" value="Nível de detalhamento da documentação de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-16" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="696" y="543" as="sourcePoint" />
+            <mxPoint x="745.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-16" value="A escolha das técnicas de teste e da abordagem de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-18" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="705" y="543" as="sourcePoint" />
+            <mxPoint x="924.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-18" value="A escolha das técnicas de teste e da abordagem de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="558" y="596" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-20" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="702" y="543" as="sourcePoint" />
+            <mxPoint x="1100.3231899597617" y="688.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-20" value="A extensão da automação de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="729" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-22" source="pDeCSo_xeqtx8VQxJZtU-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="713" y="545" as="sourcePoint" />
+            <mxPoint x="1287.3231899597617" y="690.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-22" value="O papel e responsabilidade de um testador" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="906" y="594" width="164" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-26" target="pDeCSo_xeqtx8VQxJZtU-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Modelo Sequencial&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-3" y="-33" width="130" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-1" target="pDeCSo_xeqtx8VQxJZtU-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="176" y="211" as="sourcePoint" />
+            <mxPoint x="241" y="166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Modelo iterativo e incremental&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry y="154" width="130" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-28" source="pDeCSo_xeqtx8VQxJZtU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="203" as="sourcePoint" />
+            <mxPoint x="245" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-30" value="Nas fases iniciais, os testadores normalmente participam das seguintes atividades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-207" y="-40.5" width="136" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-30" target="pDeCSo_xeqtx8VQxJZtU-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-197" y="8" as="sourcePoint" />
+            <mxPoint x="-311" y="6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-34" value="Revisões de requisitos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="34" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-207" y="-2" as="sourcePoint" />
+            <mxPoint x="-311" y="-47" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-37" value="Análise de testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="-16" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-39" source="pDeCSo_xeqtx8VQxJZtU-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-197" y="-1" as="sourcePoint" />
+            <mxPoint x="-311" y="-98" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-39" value="Projeto de testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-385" y="-67" width="89" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-40" target="pDeCSo_xeqtx8VQxJZtU-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="-447" y="-85.5" width="51" height="167" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-41" value="Como nesse modelo o&amp;nbsp; código executável é criado nas fases posteriores, os testes dinâmicos não podem ser realizados no início do SDLC" style="whiteSpace=wrap;html=1;align=right;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-658" y="-43" width="166.5" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-44" source="pDeCSo_xeqtx8VQxJZtU-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3" y="194.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-44" target="pDeCSo_xeqtx8VQxJZtU-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-44" value="Como em cada iteração é entregado um protótipo funcional ou incremento de produto, a cada iteração os testes estáticos e dinâmicos podem ser realizados em todos os níveis" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-231" y="133.75" width="163" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-45" value="A entrega frequente de incrementos exige feedbacks rápido e testes de regressão extensivos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-445" y="147.75" width="134" height="74.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-47" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Desenvolvimento Ágil&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-12" y="342" width="148" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-47" source="pDeCSo_xeqtx8VQxJZtU-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="277" y="298" as="sourcePoint" />
+            <mxPoint x="171" y="459" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="pDeCSo_xeqtx8VQxJZtU-50" source="pDeCSo_xeqtx8VQxJZtU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-12" y="372" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pDeCSo_xeqtx8VQxJZtU-50" target="pDeCSo_xeqtx8VQxJZtU-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-50" value="Como supõe que mudanças podem ocorrer ao longo do projeto, a &lt;b&gt;documentação leve&lt;/b&gt; e a ampla automação de testes para facilitar o teste de regressão, são favorecidas em projetos ágeis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-234" y="321.75" width="163" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="pDeCSo_xeqtx8VQxJZtU-51" value="A maior parte dos testes manuais tendem a ser feitas por técnicas de teste baseadas na&lt;b&gt; experiência&lt;/b&gt; que não exigem análise e projeto de teste prévio extensivo." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-520" y="328.5" width="217.5" height="89" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ow_Ap02Mmwz1ZQOo2832" name="Subtopico2.1.2">
+    <mxGraphModel dx="1647" dy="1724" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4xPgTym0uy1COqajJcjv-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xPgTym0uy1COqajJcjv-1" target="4xPgTym0uy1COqajJcjv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="4xPgTym0uy1COqajJcjv-1" target="4xPgTym0uy1COqajJcjv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Boas práticas de teste&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-786" width="330" height="103" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;São independentes do SDLC escolhido e incluem&lt;/font&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="489.25" y="-612" width="191.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4xPgTym0uy1COqajJcjv-2" target="4xPgTym0uy1COqajJcjv-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="558" y="-363" as="sourcePoint" />
+            <mxPoint x="465" y="-423" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-5" value="Para cada atividade de &lt;b&gt;desenvolvimento&lt;/b&gt; de software, há uma atividade de &lt;b&gt;teste &lt;/b&gt;correspondente, de modo que todas as atividades de desenvolvimento estejam sujeitam ao controle de qualidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="109" y="-413" width="241" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-6" value="São três boas práticas citada no syllabus" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="892" y="-764.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4xPgTym0uy1COqajJcjv-9" source="4xPgTym0uy1COqajJcjv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829" y="-524" as="sourcePoint" />
+            <mxPoint x="709" y="-425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-9" value="&lt;b&gt;Diferentes níveis &lt;/b&gt;de teste têm &lt;b&gt;objetivos &lt;/b&gt;de teste &lt;b&gt;específicos &lt;/b&gt;e &lt;b&gt;diferentes&lt;/b&gt;, o que permite que os testes sejam adequadamente abrangentes, evitando redundância" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="-412" width="241" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="4xPgTym0uy1COqajJcjv-11" source="4xPgTym0uy1COqajJcjv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="829" y="-522" as="sourcePoint" />
+            <mxPoint x="953" y="-425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xPgTym0uy1COqajJcjv-11" value="A análise e a modelagem do teste para um determinado nível de teste começam durante a fase de desenvolvimento correspondente do SDLC, para que o teste possa aderir ao princípio do teste antecipado." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="603" y="-412" width="241" height="122" as="geometry" />
+        </mxCell>
+        <mxCell id="aZthI20SdPZmj2drnppr-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="aZthI20SdPZmj2drnppr-2" source="4xPgTym0uy1COqajJcjv-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="832" y="-523" as="sourcePoint" />
+            <mxPoint x="1200" y="-426" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aZthI20SdPZmj2drnppr-2" value="Os testadores estão envolvidos na revisão dos produtos de trabalho, assim que os rascunhos dessa documentação estiverem disponíveis, de modo que esse teste antecipado e a detecção de defeitos passam a apoiar a estratégia de teste shift-left" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="-413" width="241" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
