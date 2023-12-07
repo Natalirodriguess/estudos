@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-07T01:15:52.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="TSpYyUl48WRt9aR01nHl" version="22.1.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-07T01:26:06.858Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="tWD0jvcLtPMJ5QsTB-bq" version="22.1.5" type="github" pages="4">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1032" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -399,7 +399,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7BJ6L7nF8Z0X__2qfpdp" name="Subtopico2.1.3">
-    <mxGraphModel dx="1032" dy="1377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2124" dy="1377" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,10 +428,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-5" value="ATDD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="-591" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ud636p5tOAt89pVcciKR-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ud636p5tOAt89pVcciKR-6" target="Ud636p5tOAt89pVcciKR-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="135" y="-598" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-6" value="TDD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="521" y="-593" width="120" height="60" as="geometry" />
@@ -440,16 +437,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-7" value="BDD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="713" y="-593" width="120" height="60" as="geometry" />
+          <mxGeometry x="964" y="-613" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-8" value="&lt;div&gt;Direciona a codificação por meio de casos de teste (em vez de um projeto de software extenso)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="10" y="-486" width="227" height="63" as="geometry" />
+          <mxGeometry x="-36" y="-486" width="227" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="Ud636p5tOAt89pVcciKR-10" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="521" y="-453" width="120" height="60" as="geometry" />
+        <mxCell id="Ud636p5tOAt89pVcciKR-10" value="Deriva testes de critérios de aceite como parte do processo de desenho do sistema" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="514" y="-457" width="134" height="68" as="geometry" />
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-12" value="" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="713" y="-453" width="120" height="60" as="geometry" />
+          <mxGeometry x="964" y="-457" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-14" value="Essas abordagens implementam o princípio dos testes antecipados e seguem a abordagem shift-left" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2" y="-765.5" width="151" height="95" as="geometry" />
@@ -461,12 +458,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Vui5EEZoHwY-jhYeUK25-2" value="Os testes são escritos primeiro, depois o código é escrito para satisfazer os testes e, em seguida, os teste e o código são refatorados." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="244" y="-486" width="227" height="63" as="geometry" />
+          <mxGeometry x="197" y="-489" width="227" height="63" as="geometry" />
         </mxCell>
         <mxCell id="Vui5EEZoHwY-jhYeUK25-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.457;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="Vui5EEZoHwY-jhYeUK25-2" source="Ud636p5tOAt89pVcciKR-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="422" y="-560" as="sourcePoint" />
             <mxPoint x="804" y="-570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vui5EEZoHwY-jhYeUK25-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ud636p5tOAt89pVcciKR-6" target="Ud636p5tOAt89pVcciKR-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="564" y="-505" as="sourcePoint" />
+            <mxPoint x="614" y="-555" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
