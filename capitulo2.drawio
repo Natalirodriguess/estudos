@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T17:34:58.714Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AOmuKeUpYYFwINexJLNB" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-09T17:36:38.957Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="QpgOHajGdFWZmV1hnaTy" version="22.1.7" type="github" pages="4">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1032" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -442,8 +442,8 @@
         <mxCell id="Ud636p5tOAt89pVcciKR-10" value="Deriva testes de critérios de aceite como parte do processo de desenho do sistema" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="447" y="-489" width="134" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="Ud636p5tOAt89pVcciKR-12" value="Expressa o comportamento desejado de um aplicativo com casos de testes escritos em uma forma simples" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="829" y="-484.5" width="136" height="76.5" as="geometry" />
+        <mxCell id="Ud636p5tOAt89pVcciKR-12" value="Expressa o comportamento desejado de um aplicativo com casos de testes escritos em uma forma simples de linguagem natural, que é fácil de entender pelos stalkeholders - geralmente usando o formato (DADO,QUANDO, ENTÃO)" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="815" y="-491" width="193" height="136" as="geometry" />
         </mxCell>
         <mxCell id="Ud636p5tOAt89pVcciKR-14" value="Essas abordagens implementam o princípio dos testes antecipados e seguem a abordagem shift-left" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="2" y="-765.5" width="151" height="95" as="geometry" />
