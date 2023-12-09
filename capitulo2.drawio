@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T17:37:43.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="gdUF23kUoeuFSBTIpwnt" version="22.1.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-12-09T17:40:28.304Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="AGWibB8tAV9OQnL7PvXa" version="22.1.7" type="github" pages="5">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1032" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -493,6 +493,14 @@
             <mxPoint x="932" y="-566" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BBzzdYtcvdRp0ktdVoUM" name="Subtopico2.1.4">
+    <mxGraphModel dx="1032" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
