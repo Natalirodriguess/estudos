@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T01:18:33.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="DtDYg7ChU-lBe9RDW6Tp" version="22.1.7" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2023-12-11T01:19:31.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="od1TPlEOC2CvkKe9Vi8T" version="22.1.7" type="github" pages="5">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1032" dy="550" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -497,15 +497,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BBzzdYtcvdRp0ktdVoUM" name="Subtopico2.1.4">
-    <mxGraphModel dx="1588" dy="1673" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="897" dy="1305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t_JKfK-8hF0zqQKOGx1X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="t_JKfK-8hF0zqQKOGx1X-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="t_JKfK-8hF0zqQKOGx1X-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;DevOps e Testes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="351" y="-794" width="432" height="127" as="geometry" />
         </mxCell>
-        <mxCell id="t_JKfK-8hF0zqQKOGx1X-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="-571" width="120" height="60" as="geometry" />
+        <mxCell id="t_JKfK-8hF0zqQKOGx1X-2" value="Trata-se de uma abordagem organizacional que visa criar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="507" y="-572" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
