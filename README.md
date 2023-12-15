@@ -2,7 +2,6 @@
 ### Capítulos estudados
 Estão sendo realizadas, leitura, pesquisa, anotações, criação de esquema e exemplificação para melhor fixação dos conteúdos.
 
-adicionar subtópicos
 
 ### Capítulo 4
 Esquema contendo os primeiros tópicos tratados no capítulo 4
