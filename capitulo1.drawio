@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-04T22:49:35.925Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-v7FlJKCbR0upDuW3SVu" version="22.1.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2024-03-31T17:20:35.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qjYRo_mPH-YhkLSCvd8J" version="24.2.1" type="github" pages="16">
   <diagram name="Subtopico1.1" id="Wj8ztN7IJlX-EeW_X8ED">
-    <mxGraphModel dx="2816" dy="897" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="3744" dy="1135" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,10 +31,10 @@
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" parent="1" source="Rf-HTqd8Ef8qsDdukX3X-6" target="Rf-HTqd8Ef8qsDdukX3X-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-6" value="Conjunto de atividades para encontrar defeitos e avaliar a qualidade dos artefatos de software" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-6" value="Conjunto de atividades para encontrar defeitos e avaliar a qualidade dos &lt;b&gt;artefatos &lt;/b&gt;de software" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="438.75" y="73" width="221" height="137" as="geometry" />
         </mxCell>
-        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-7" value="Artefatos são todos os produtos produzidos durante o processo de software que são passíveis de teste. Ex: código fonte, documentação, requisitos, protótipos,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="Rf-HTqd8Ef8qsDdukX3X-7" value="&lt;b&gt;Artefatos &lt;/b&gt;são todos os produtos produzidos durante o processo de software que são passíveis de teste. Ex: código fonte, documentação, requisitos, protótipos,&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="799.75" y="65.38" width="203.25" height="152.25" as="geometry" />
         </mxCell>
         <mxCell id="Rf-HTqd8Ef8qsDdukX3X-17" value="Envolvem" style="whiteSpace=wrap;html=1;rounded=1;fontSize=16;" parent="1" vertex="1">
