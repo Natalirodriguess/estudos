@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T18:59:54.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="k8BTGPC9pNskSLwz90ru" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:03:38.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vj7Fkthlt-wP8GVuTDHi" version="24.2.2" type="github" pages="9">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -995,8 +995,59 @@
         <mxCell id="VJQDs9jfK74fOtrl9yYR-21" value="&amp;nbsp;Concentra-se no teste das interfaces do sistema e de&lt;br&gt;outros sistemas e serviços externos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="257" width="120" height="73" as="geometry" />
         </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VJQDs9jfK74fOtrl9yYR-23" target="VJQDs9jfK74fOtrl9yYR-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-23" value="Concentra-se na validação e na demonstração da disposição para a&lt;br&gt;implantação, o que significa que o sistema atende às necessidades (requisitos) de negócio do&lt;br&gt;usuário." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="257" width="120" height="163" as="geometry" />
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-26" value="Principais formas de &lt;b&gt;teste de aceite&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="442" y="346" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJQDs9jfK74fOtrl9yYR-26" target="VJQDs9jfK74fOtrl9yYR-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="644" y="348" as="sourcePoint" />
+            <mxPoint x="652" y="307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJQDs9jfK74fOtrl9yYR-26" target="VJQDs9jfK74fOtrl9yYR-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="386" as="sourcePoint" />
+            <mxPoint x="655" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJQDs9jfK74fOtrl9yYR-26" target="VJQDs9jfK74fOtrl9yYR-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="386" as="sourcePoint" />
+            <mxPoint x="629" y="435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-33" value="Teste de Aceite do Usuário (UAT)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="290.5" width="97" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-34" value="&amp;nbsp;Teste de Aceite&lt;br/&gt;Operacional" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="350" width="104" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-35" value="Teste de Aceite Contratual&amp;nbsp;e Normativo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="397" width="133" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VJQDs9jfK74fOtrl9yYR-26" target="VJQDs9jfK74fOtrl9yYR-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="572" y="386" as="sourcePoint" />
+            <mxPoint x="645" y="453" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-37" value="Teste Alfa" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="444" width="104" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="VJQDs9jfK74fOtrl9yYR-39" source="VJQDs9jfK74fOtrl9yYR-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="573" y="361" as="sourcePoint" />
+            <mxPoint x="649.96" y="502" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-39" value="Teste Beta" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="667" y="482" width="104" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
