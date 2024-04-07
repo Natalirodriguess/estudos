@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T15:43:08.538Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KA7maE8BdbTMpttlxFEP" version="24.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-07T15:47:50.939Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="w-j9sqNALrauYcBkRYHZ" version="24.2.2" type="github" pages="7">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -733,6 +733,26 @@
         </mxCell>
         <mxCell id="N9PPUpp5xkBbxhUJWzxr-4" value="Treinamento, esforço e/ou custos adicionais no início do&lt;br&gt;processo, mas espera-se que economize esforços e/ou custos no final do processo." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="300" width="209" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Xp9m7qfQrXg3B2DTuHQF" name="Subtopico 2.1.6">
+    <mxGraphModel dx="1834" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iqC31zzUr1OA5JyZ4Ck6-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt; Retrospectivas e melhoria de processos &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="75" y="5" width="432" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="iqC31zzUr1OA5JyZ4Ck6-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqC31zzUr1OA5JyZ4Ck6-1" target="iqC31zzUr1OA5JyZ4Ck6-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="327" y="306" as="sourcePoint" />
+            <mxPoint x="-98" y="69" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqC31zzUr1OA5JyZ4Ck6-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-249" y="30.25" width="182" height="76.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
