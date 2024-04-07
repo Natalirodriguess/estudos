@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T21:36:14.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jPmvYOmBT-SdjbKCGYu_" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:36:37.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="M1UVOe9ZbgoK4-Vp_-0i" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1193,6 +1193,9 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-17" target="sjf2ogPqyEVSmELt5hDU-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-17" target="sjf2ogPqyEVSmELt5hDU-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-17" value="&amp;nbsp;É baseado na &lt;b&gt;estrutura&lt;/b&gt; e deriva testes da implementação ou&lt;br&gt;da estrutura &lt;b&gt;interna &lt;/b&gt;do sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="139" width="120" height="92" as="geometry" />
         </mxCell>
@@ -1290,6 +1293,9 @@
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-48" value="Muitos testes não funcionais derivam de testes funcionais." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="206" y="757.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-51" value="Por exemplo:&amp;nbsp;código, arquitetura, fluxos de trabalho e fluxos de dados" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="449" y="250" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
