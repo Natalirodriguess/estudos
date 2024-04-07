@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:19:20.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l79OWJVzHoY-G6ZxEvCS" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:27:17.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-KZLgUlafoGb53YB-Fgz" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1205,6 +1205,9 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-19" value="O principal objetivo do teste funcional é verificar a integridade&lt;br/&gt;funcional, a correção funcional e a adequação funcional" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-295" y="297" width="144" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-21" target="sjf2ogPqyEVSmELt5hDU-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-21" value="O principal objetivo&lt;br&gt;do teste não funcional é verificar as características não funcionais da qualidade do software" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="345" width="120" height="91" as="geometry" />
         </mxCell>
@@ -1213,6 +1216,74 @@
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="279" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-28" value="Caractererísticas não funcionais de qualidade:" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="492" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-28" target="sjf2ogPqyEVSmELt5hDU-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-68" y="573" as="sourcePoint" />
+            <mxPoint x="-176" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-28" target="sjf2ogPqyEVSmELt5hDU-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="562" as="sourcePoint" />
+            <mxPoint x="-47" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-32" value="Eficiência de Performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-334" y="587" width="97" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-33" value="Compatibilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="587" width="97" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sjf2ogPqyEVSmELt5hDU-35" source="sjf2ogPqyEVSmELt5hDU-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63" y="552" as="sourcePoint" />
+            <mxPoint x="56" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-35" value="Usabilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-129" y="586" width="97" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sjf2ogPqyEVSmELt5hDU-37" source="sjf2ogPqyEVSmELt5hDU-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="62" y="552" as="sourcePoint" />
+            <mxPoint x="158" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-37" value="Confiabilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="587" width="97" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="sjf2ogPqyEVSmELt5hDU-39" source="sjf2ogPqyEVSmELt5hDU-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="63" y="552" as="sourcePoint" />
+            <mxPoint x="261" y="623" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-39" value="Segurança" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="587" width="97" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-42" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-28" target="sjf2ogPqyEVSmELt5hDU-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="562" as="sourcePoint" />
+            <mxPoint x="229" y="586" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-43" value="Portabilidade" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="176" y="587" width="97" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-44" target="sjf2ogPqyEVSmELt5hDU-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-29" y="762" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-83" y="347" width="108" height="642" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-46" value="As vezesé apropriado que os testes não funcionais comecem no início do ciclo de vida. Por exemplo:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-111" y="753" width="164" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
