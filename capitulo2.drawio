@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:11:05.354Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vc2eK4AKWTToPROOj42z" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:11:49.429Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7I7SmYocNHU8k8U8dOwA" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1110,6 +1110,14 @@
         <mxCell id="1" parent="0" />
         <mxCell id="JGRPBKbHc9T-UrmBxFQn-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt; Tipos de Teste &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-148" y="-176" width="432" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="b21Ip3Ny5VU0AOYzgo_s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="b21Ip3Ny5VU0AOYzgo_s-2" source="JGRPBKbHc9T-UrmBxFQn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="297" y="-107.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b21Ip3Ny5VU0AOYzgo_s-2" value="No syllabus são abordados 4 tipos&lt;br&gt;de teste" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="349" y="-184" width="123" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
