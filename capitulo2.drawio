@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:27:17.149Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-KZLgUlafoGb53YB-Fgz" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:34:00.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TfQs-a30OspFbWKyHZeU" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1282,8 +1282,8 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-83" y="347" width="108" height="642" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-46" value="As vezesé apropriado que os testes não funcionais comecem no início do ciclo de vida. Por exemplo:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-111" y="753" width="164" height="69" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-46" value="As vezes é apropriado que os testes não funcionais comecem no início do ciclo de vida. Por exemplo:&amp;nbsp;como&lt;br/&gt;parte de revisões e testes de componentes ou testes de sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-136.5" y="753" width="215" height="69" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
