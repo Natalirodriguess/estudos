@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:14:07.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9fegj0sG7_HiLiGaVbJa" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:16:41.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-lvlTDqcFrV60Z2uzSS3" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1143,6 +1143,9 @@
             <mxPoint x="171" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-5" target="sjf2ogPqyEVSmELt5hDU-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-5" value="&lt;b&gt;Teste Funcional&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-282" y="49" width="118" height="40" as="geometry" />
         </mxCell>
@@ -1154,6 +1157,35 @@
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-8" value="&lt;b&gt;Teste Caixa-Branca&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="253" y="49" width="118" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-9" value="&amp;nbsp;Avalia as funções que um componente ou sistema deve executar. As funções são&lt;br&gt;&quot;o que&quot; o objeto de teste deve fazer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-283" y="139" width="120" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="sjf2ogPqyEVSmELt5hDU-13" source="sjf2ogPqyEVSmELt5hDU-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-41" y="97" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-7" target="sjf2ogPqyEVSmELt5hDU-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="125" as="sourcePoint" />
+            <mxPoint x="131" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="139" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-8" target="sjf2ogPqyEVSmELt5hDU-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="95" as="sourcePoint" />
+            <mxPoint x="300" y="143" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
