@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T14:58:07.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Rzd9TSelJAE7EvoqRNIy" version="24.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-07T15:02:00.635Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KpB8nw6ItJ8FpV1aDFYS" version="24.2.2" type="github" pages="6">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -647,8 +647,26 @@
             <mxPoint x="514" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bLb_fwjP562U_fPCAY7J-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="489" y="131.5" width="120" height="60" as="geometry" />
+        <mxCell id="bLb_fwjP562U_fPCAY7J-5" value="Sugere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="446" y="140.25" width="93" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bLb_fwjP562U_fPCAY7J-6" value="Que os testes devem ser feitos mais cedo (antes da implementação do código ou implementação do cód&lt;span style=&quot;background-color: initial;&quot;&gt;igo) e os testes posteriores também não devem ser negligenciados&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="681" y="110.75" width="156" height="101.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bLb_fwjP562U_fPCAY7J-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLb_fwjP562U_fPCAY7J-5" target="bLb_fwjP562U_fPCAY7J-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373" y="172" as="sourcePoint" />
+            <mxPoint x="456" y="172" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bLb_fwjP562U_fPCAY7J-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bLb_fwjP562U_fPCAY7J-1" target="bLb_fwjP562U_fPCAY7J-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="373" y="172" as="sourcePoint" />
+            <mxPoint x="147" y="309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bLb_fwjP562U_fPCAY7J-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Boas práticas&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="71.75" y="308" width="150.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
