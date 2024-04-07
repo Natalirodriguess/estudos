@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T18:10:22.274Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4FC8eKeYEHqo6tpinECT" version="24.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-07T18:18:32.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="X2YbR5P_fQjbnhJgQTJl" version="24.2.2" type="github" pages="7">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -762,6 +762,48 @@
             <mxPoint x="327" y="306" as="sourcePoint" />
             <mxPoint x="377" y="256" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqC31zzUr1OA5JyZ4Ck6-1" target="1rJq2N5FBpYBd49mnFPM-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="293" y="132" as="sourcePoint" />
+            <mxPoint x="291" y="215" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-2" value="Os participantes discutem:&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="231" y="206" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rJq2N5FBpYBd49mnFPM-2" target="1rJq2N5FBpYBd49mnFPM-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="261" y="271" as="sourcePoint" />
+            <mxPoint x="240.21428571428578" y="277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1rJq2N5FBpYBd49mnFPM-2" target="1rJq2N5FBpYBd49mnFPM-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="260" as="sourcePoint" />
+            <mxPoint x="288" y="317" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.602;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1rJq2N5FBpYBd49mnFPM-2" target="1rJq2N5FBpYBd49mnFPM-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="260" as="sourcePoint" />
+            <mxPoint x="366" y="297" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-7" value="O que foi bem-sucedido e deve ser mantido?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="284" width="133" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-9" value="O que não foi bem-sucedido e poderia ser melhorado?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224.5" y="324" width="133" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-10" value="Como incorporar as melhorias e manter os sucessos no futuro?&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="405" y="284" width="133" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="247.75" y="156.25" width="86.5" height="468.5" as="geometry" />
+        </mxCell>
+        <mxCell id="1rJq2N5FBpYBd49mnFPM-12" value="Os resultados devem ser registrados e normalmente fazem parte do relatório de conclusão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="431" width="124" height="73" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
