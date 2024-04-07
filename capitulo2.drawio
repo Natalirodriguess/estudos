@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:02:30.074Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="UIP3R1YcYMibNWc8TJz4" version="24.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:05:14.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="IHS-GbF2U_Ov0fHHytxC" version="24.2.1" type="github" pages="5">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1674" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -402,7 +402,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="7BJ6L7nF8Z0X__2qfpdp" name="Subtopico2.1.3">
-    <mxGraphModel dx="2074" dy="1538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1538" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -528,41 +528,41 @@
             <mxPoint x="894" y="-572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="LXQwhtlEbtYTNcU_sZch-5">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="LXQwhtlEbtYTNcU_sZch-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="844" y="-522" as="sourcePoint" />
             <mxPoint x="870" y="-588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-5" value="Ricos e desafios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="915" y="-629" width="120" height="60" as="geometry" />
+          <mxGeometry x="852" y="-546" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1071" y="-637" as="sourcePoint" />
-            <mxPoint x="1112" y="-668" as="targetPoint" />
+            <mxPoint x="1008" y="-554" as="sourcePoint" />
+            <mxPoint x="1049" y="-585" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1045" y="-604" as="sourcePoint" />
-            <mxPoint x="1118" y="-602" as="targetPoint" />
+            <mxPoint x="982" y="-521" as="sourcePoint" />
+            <mxPoint x="1055" y="-519" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-12">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1034" y="-601" as="sourcePoint" />
-            <mxPoint x="1116" y="-540" as="targetPoint" />
+            <mxPoint x="971" y="-518" as="sourcePoint" />
+            <mxPoint x="1066" y="-433.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-10" value="O pipeline de entrega de DevOps deve ser definido e estabelecido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130.5" y="-704" width="120" height="60" as="geometry" />
+          <mxGeometry x="1067.5" y="-621" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-11" value="As ferramentas de CI/CD devem ser introduzidas e mantidas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="-629" width="120" height="60" as="geometry" />
+          <mxGeometry x="1066" y="-546" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-12" value="A automação de testes requer recursos adicionais e pode ser difícil de estabelecer e manter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1129" y="-550" width="123" height="67" as="geometry" />
+          <mxGeometry x="1066" y="-473" width="123" height="67" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
