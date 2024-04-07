@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:08:45.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8U4jS1fPlz7LBKfJvWME" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:09:15.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="nzlfQA_3IqrLTPjSS2pR" version="24.2.2" type="github" pages="9">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1074,7 +1074,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-47" value="Objetivos do teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="101" y="779.25" width="100" height="30.5" as="geometry" />
+          <mxGeometry x="86" y="776.75" width="100" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VJQDs9jfK74fOtrl9yYR-49" source="VJQDs9jfK74fOtrl9yYR-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1083,13 +1083,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-49" value="Objeto de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="780.5" width="104" height="28" as="geometry" />
+          <mxGeometry x="-25" y="779.25" width="104" height="28" as="geometry" />
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-51" value="Base de teste" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="206.37" y="779.25" width="89" height="30.5" as="geometry" />
+          <mxGeometry x="195" y="778" width="89" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-52" value="Defeitos e falhas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="303" y="780.5" width="89" height="30.5" as="geometry" />
+          <mxGeometry x="295.37" y="776.75" width="89" height="30.5" as="geometry" />
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-54" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="VJQDs9jfK74fOtrl9yYR-55" source="VJQDs9jfK74fOtrl9yYR-41">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1098,7 +1098,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VJQDs9jfK74fOtrl9yYR-55" value="Abordagem e responsabilidades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="397" y="780.5" width="109" height="30.5" as="geometry" />
+          <mxGeometry x="396" y="775" width="109" height="30.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
