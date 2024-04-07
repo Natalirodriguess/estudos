@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T04:30:20.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3FHKKm8VRYcq7q3lqxxT" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-07T14:42:07.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="U6sv9JijhuQF5qZyRcr3" version="24.2.2" type="github" pages="6">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
-    <mxGraphModel dx="1674" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -516,116 +516,116 @@
         <mxCell id="PbG03ulvxQXlo5jRnl5V-1" value="Promovem a autonomia da equipe, o feedback rápido, cadeias de ferramentas e práticas técnicas como Integração Contínua (CI) e Entrega Contínuia (CD)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-9" y="-787.12" width="157" height="113.25" as="geometry" />
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-1" value="Benefícios que esta abordagem promove aos testes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-1" value="Benefícios que esta abordagem promove aos testes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="896" y="-940" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="t_JKfK-8hF0zqQKOGx1X-2">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="t_JKfK-8hF0zqQKOGx1X-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="844" y="-522" as="sourcePoint" />
             <mxPoint x="894" y="-572" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="LXQwhtlEbtYTNcU_sZch-5">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="LXQwhtlEbtYTNcU_sZch-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="844" y="-522" as="sourcePoint" />
             <mxPoint x="870" y="-588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-5" value="Ricos e desafios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-5" value="Ricos e desafios" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="894" y="-633" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-10">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1050" y="-641" as="sourcePoint" />
             <mxPoint x="1091" y="-672" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-11">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" target="LXQwhtlEbtYTNcU_sZch-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1024" y="-608" as="sourcePoint" />
             <mxPoint x="1097" y="-606" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-5">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1013" y="-605" as="sourcePoint" />
             <mxPoint x="1108" y="-520.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-10" value="O pipeline de entrega de DevOps deve ser definido e estabelecido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-10" value="O pipeline de entrega de DevOps deve ser definido e estabelecido" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1109.5" y="-708" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-11" value="As ferramentas de CI/CD devem ser introduzidas e mantidas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-11" value="As ferramentas de CI/CD devem ser introduzidas e mantidas" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1108" y="-633" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-12" value="A automação de testes requer recursos adicionais e pode ser difícil de estabelecer e manter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-12" value="A automação de testes requer recursos adicionais e pode ser difícil de estabelecer e manter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1108" y="-560" width="123" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="LXQwhtlEbtYTNcU_sZch-1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="t_JKfK-8hF0zqQKOGx1X-1" target="LXQwhtlEbtYTNcU_sZch-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="793" y="-720" as="sourcePoint" />
             <mxPoint x="862" y="-506" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-15">
+        <mxCell id="e7y7y8fWktUANas7-BQx-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1022" y="-913.75" as="sourcePoint" />
             <mxPoint x="1081" y="-825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-14">
+        <mxCell id="e7y7y8fWktUANas7-BQx-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-14" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1022" y="-913.75" as="sourcePoint" />
             <mxPoint x="1119" y="-852" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-16">
+        <mxCell id="e7y7y8fWktUANas7-BQx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1024" y="-913.75" as="sourcePoint" />
             <mxPoint x="1054" y="-797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-10">
+        <mxCell id="e7y7y8fWktUANas7-BQx-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-10" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1004" y="-1011.25" as="sourcePoint" />
             <mxPoint x="1031" y="-1015" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-11">
+        <mxCell id="e7y7y8fWktUANas7-BQx-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1013" y="-916" as="sourcePoint" />
             <mxPoint x="1093" y="-980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="e7y7y8fWktUANas7-BQx-13">
+        <mxCell id="e7y7y8fWktUANas7-BQx-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="e7y7y8fWktUANas7-BQx-13" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1016" y="-914" as="sourcePoint" />
             <mxPoint x="1119" y="-941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-10" value="Feedback rápido sobre a qualidade do código e se as alterações afetam negativamente o &lt;br&gt;código existente" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-10" value="Feedback rápido sobre a qualidade do código e se as alterações afetam negativamente o &lt;br&gt;código existente" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1086" y="-1107" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-11" value="O CI (Entrega contínua) promove uma abordagem shift-left nos testes, incentivando os &lt;br&gt;desenvolvedores a enviar códigos de alta qualidade acompanhados de testes de &lt;br&gt;componentes e análise estática" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-11" value="O CI (Entrega contínua) promove uma abordagem shift-left nos testes, incentivando os &lt;br&gt;desenvolvedores a enviar códigos de alta qualidade acompanhados de testes de &lt;br&gt;componentes e análise estática" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1086" y="-1043" width="469" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-13" value="Promove processos automatizados, como CI/CD, que facilitam o estabelecimento de &lt;br/&gt;ambientes de teste estáveis" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-13" value="Promove processos automatizados, como CI/CD, que facilitam o estabelecimento de &lt;br/&gt;ambientes de teste estáveis" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1086" y="-976" width="331" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-14" value="Aumenta a visão das características de qualidade não funcionais (por exemplo: performance, &lt;br/&gt;confiabilidade)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-14" value="Aumenta a visão das características de qualidade não funcionais (por exemplo: performance, &lt;br/&gt;confiabilidade)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1086" y="-911" width="331" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-15" value="A automação por meio de um pipeline de entrega reduz a necessidade de testes manuais &lt;br/&gt;repetitivos" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-15" value="A automação por meio de um pipeline de entrega reduz a necessidade de testes manuais &lt;br/&gt;repetitivos" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1089" y="-847.12" width="331" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-16" value="O risco na regressão é minimizado devido à escala e ao alcance dos testes de regressão &lt;br/&gt;automatizados" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-16" value="O risco na regressão é minimizado devido à escala e ao alcance dos testes de regressão &lt;br/&gt;automatizados" style="rounded=1;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1089" y="-784" width="331" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="8SX5kZUtk_DjhqPeOVkI" name="Página-6">
-    <mxGraphModel dx="1434" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="8SX5kZUtk_DjhqPeOVkI" name="Subtopico 2.1.5">
+    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
