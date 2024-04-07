@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:18:56.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S2WLWlW4h8YuiPZiK0RD" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:19:20.094Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l79OWJVzHoY-G6ZxEvCS" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1205,8 +1205,8 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-19" value="O principal objetivo do teste funcional é verificar a integridade&lt;br/&gt;funcional, a correção funcional e a adequação funcional" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-295" y="297" width="144" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="345" width="120" height="60" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-21" value="O principal objetivo&lt;br&gt;do teste não funcional é verificar as características não funcionais da qualidade do software" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="345" width="120" height="91" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="277" width="120" height="60" as="geometry" />
