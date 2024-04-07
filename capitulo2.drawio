@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T22:02:10.099Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_CXuoGT8fbsceixmgNil" version="24.2.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-07T22:02:59.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="L-fKgEMVkA8iIvHs8BF7" version="24.2.2" type="github" pages="12">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1403,8 +1403,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hGFH2Nypj-SjNR9mGD-d-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AcVZqn0GqObCpIOZHNFc-1" target="hGFH2Nypj-SjNR9mGD-d-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AcVZqn0GqObCpIOZHNFc-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Teste de Manutenção &lt;br/&gt; &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-148" y="-176" width="432" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="hGFH2Nypj-SjNR9mGD-d-1" value="Diferentes categorias de manutenção:" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="64.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
