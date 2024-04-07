@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:08:31.294Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ivkp8bx5KBge_bdU7bR-" version="24.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:09:39.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VHdgqrSGgw71OhCpImTo" version="24.2.1" type="github" pages="5">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1674" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -603,11 +603,11 @@
             <mxPoint x="1119" y="-941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="-1105" width="285" height="60" as="geometry" />
+        <mxCell id="e7y7y8fWktUANas7-BQx-10" value="Feedback rápido sobre a qualidade do código e se as alterações afetam negativamente o &lt;br&gt;código existente" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="-1098" width="276" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="-1026" width="290" height="60" as="geometry" />
+        <mxCell id="e7y7y8fWktUANas7-BQx-11" value="O CI (Entrega contínua) promove uma abordagem shift-left nos testes, incentivando os &lt;br&gt;desenvolvedores a enviar códigos de alta qualidade acompanhados de testes de &lt;br&gt;componentes e análise estática" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1101" y="-1026" width="469" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
