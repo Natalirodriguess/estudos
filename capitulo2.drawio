@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:09:39.164Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VHdgqrSGgw71OhCpImTo" version="24.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:15:36.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="juPTNZ7_t33z-9esAGz-" version="24.2.1" type="github" pages="5">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1674" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -570,10 +570,10 @@
         <mxCell id="e7y7y8fWktUANas7-BQx-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1022" y="-913.75" as="sourcePoint" />
-            <mxPoint x="1135" y="-898" as="targetPoint" />
+            <mxPoint x="1081" y="-825" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1022" y="-913.75" as="sourcePoint" />
             <mxPoint x="1119" y="-852" as="targetPoint" />
@@ -582,7 +582,7 @@
         <mxCell id="e7y7y8fWktUANas7-BQx-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1024" y="-913.75" as="sourcePoint" />
-            <mxPoint x="1059" y="-790" as="targetPoint" />
+            <mxPoint x="1054" y="-797" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e7y7y8fWktUANas7-BQx-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LXQwhtlEbtYTNcU_sZch-1" target="e7y7y8fWktUANas7-BQx-10">
@@ -597,17 +597,23 @@
             <mxPoint x="1093" y="-980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="e7y7y8fWktUANas7-BQx-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="e7y7y8fWktUANas7-BQx-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="e7y7y8fWktUANas7-BQx-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1016" y="-914" as="sourcePoint" />
             <mxPoint x="1119" y="-941" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="e7y7y8fWktUANas7-BQx-10" value="Feedback rápido sobre a qualidade do código e se as alterações afetam negativamente o &lt;br&gt;código existente" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="-1098" width="276" height="60" as="geometry" />
+          <mxGeometry x="1086" y="-1107" width="276" height="60" as="geometry" />
         </mxCell>
         <mxCell id="e7y7y8fWktUANas7-BQx-11" value="O CI (Entrega contínua) promove uma abordagem shift-left nos testes, incentivando os &lt;br&gt;desenvolvedores a enviar códigos de alta qualidade acompanhados de testes de &lt;br&gt;componentes e análise estática" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1101" y="-1026" width="469" height="60" as="geometry" />
+          <mxGeometry x="1086" y="-1043" width="469" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e7y7y8fWktUANas7-BQx-13" value="Promove processos automatizados, como CI/CD, que facilitam o estabelecimento de &lt;br/&gt;ambientes de teste estáveis" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1086" y="-976" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="e7y7y8fWktUANas7-BQx-14" value="Aumenta a visão das características de qualidade não funcionais (por exemplo: performance, &lt;br/&gt;confiabilidade)" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1093" y="-909" width="331" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
