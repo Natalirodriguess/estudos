@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T15:40:20.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jKYFVvlGoIXhYGdq95DU" version="24.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-07T15:41:01.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BnHug3BAPQEqmyJRyknW" version="24.2.2" type="github" pages="6">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -650,7 +650,7 @@
         <mxCell id="bLb_fwjP562U_fPCAY7J-5" value="Sugere" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="446" y="140.25" width="93" height="42.5" as="geometry" />
         </mxCell>
-        <mxCell id="bLb_fwjP562U_fPCAY7J-6" value="Que os testes devem ser feitos mais cedo (antes da implementação do código ou implementação do cód&lt;span style=&quot;background-color: initial;&quot;&gt;igo) e os testes posteriores também não devem ser negligenciados&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bLb_fwjP562U_fPCAY7J-6" value="Que os testes devem ser feitos mais cedo (antes da implementação do código ou integração dos componentes&lt;span style=&quot;background-color: initial;&quot;&gt;) e os testes posteriores também não devem ser negligenciados&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="681" y="110.75" width="156" height="101.5" as="geometry" />
         </mxCell>
         <mxCell id="bLb_fwjP562U_fPCAY7J-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bLb_fwjP562U_fPCAY7J-5" target="bLb_fwjP562U_fPCAY7J-6">
