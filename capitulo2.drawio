@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T18:59:27.425Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="52SydHlimRvnP5LBvbm2" version="24.2.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-07T18:59:54.054Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="k8BTGPC9pNskSLwz90ru" version="24.2.2" type="github" pages="9">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -995,8 +995,8 @@
         <mxCell id="VJQDs9jfK74fOtrl9yYR-21" value="&amp;nbsp;Concentra-se no teste das interfaces do sistema e de&lt;br&gt;outros sistemas e serviços externos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="257" width="120" height="73" as="geometry" />
         </mxCell>
-        <mxCell id="VJQDs9jfK74fOtrl9yYR-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="257" width="120" height="60" as="geometry" />
+        <mxCell id="VJQDs9jfK74fOtrl9yYR-23" value="Concentra-se na validação e na demonstração da disposição para a&lt;br&gt;implantação, o que significa que o sistema atende às necessidades (requisitos) de negócio do&lt;br&gt;usuário." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="257" width="120" height="163" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
