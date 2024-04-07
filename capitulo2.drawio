@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T15:40:11.203Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="gSHg4SOCOmFMZfMMDSLo" version="24.2.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-07T15:40:20.685Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jKYFVvlGoIXhYGdq95DU" version="24.2.2" type="github" pages="6">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -725,7 +725,7 @@
             <mxPoint x="-267" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N9PPUpp5xkBbxhUJWzxr-2" value="Essa é uma forma de shift-left, pois esses tipos de testes não funcionais tendem a&lt;br/&gt;ser realizados mais tarde no SDLC, quando um sistema completo e um ambiente de teste&lt;br/&gt;representativo estão disponíveis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="N9PPUpp5xkBbxhUJWzxr-2" value="Essa é uma forma de shift-left, pois esses tipos de testes não funcionais tendem a&lt;br&gt;ser realizados &lt;b&gt;mais tarde &lt;/b&gt;no SDLC, quando um sistema completo e um ambiente de teste&lt;br&gt;representativo estão disponíveis" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="674" y="573" width="302" height="73" as="geometry" />
         </mxCell>
       </root>
