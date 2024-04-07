@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T21:34:00.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TfQs-a30OspFbWKyHZeU" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:36:14.433Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jPmvYOmBT-SdjbKCGYu_" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1176,7 +1176,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-13" value="avalia atributos que não sejam características funcionais de um componente&lt;br&gt;ou sistema. O teste não funcional é o teste de &quot;&lt;b&gt;quão bem o sistema se comporta&quot;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="139" width="120" height="142" as="geometry" />
+          <mxGeometry x="-100" y="141" width="120" height="142" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-7" target="sjf2ogPqyEVSmELt5hDU-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1187,14 +1187,14 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-16" target="sjf2ogPqyEVSmELt5hDU-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="137" width="120" height="60" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-16" value="É baseado em &lt;b&gt;especificações &lt;/b&gt;e deriva testes da documentação&lt;br&gt;&lt;b&gt;externa &lt;/b&gt;ao objeto de teste." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="137" width="120" height="92" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-17" target="sjf2ogPqyEVSmELt5hDU-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="139" width="120" height="60" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-17" value="&amp;nbsp;É baseado na &lt;b&gt;estrutura&lt;/b&gt; e deriva testes da implementação ou&lt;br&gt;da estrutura &lt;b&gt;interna &lt;/b&gt;do sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="139" width="120" height="92" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-8" target="sjf2ogPqyEVSmELt5hDU-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1211,11 +1211,11 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-21" value="O principal objetivo&lt;br&gt;do teste não funcional é verificar as características não funcionais da qualidade do software" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="345" width="120" height="91" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="68" y="277" width="120" height="60" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-23" value="O principal objetivo do teste caixa-preta é verificar o comportamento do&lt;br&gt;sistema em relação às suas especificações" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="277" width="120" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="253" y="279" width="120" height="60" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-25" value="O&lt;br/&gt;principal objetivo do teste caixa-branca é cobrir a estrutura subjacente pelos testes até o nível&lt;br/&gt;aceitável.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="252" y="279" width="120" height="106" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-28" value="Caractererísticas não funcionais de qualidade:" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-100" y="492" width="120" height="60" as="geometry" />
@@ -1282,8 +1282,14 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-44" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="-83" y="347" width="108" height="642" as="geometry" />
         </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-46" target="sjf2ogPqyEVSmELt5hDU-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-46" value="As vezes é apropriado que os testes não funcionais comecem no início do ciclo de vida. Por exemplo:&amp;nbsp;como&lt;br/&gt;parte de revisões e testes de componentes ou testes de sistema" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-136.5" y="753" width="215" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-48" value="Muitos testes não funcionais derivam de testes funcionais." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="206" y="757.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
