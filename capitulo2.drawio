@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T19:16:41.760Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-lvlTDqcFrV60Z2uzSS3" version="24.2.2" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2024-04-07T19:18:56.914Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S2WLWlW4h8YuiPZiK0RD" version="24.2.2" type="github" pages="10">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1158,7 +1158,10 @@
         <mxCell id="sjf2ogPqyEVSmELt5hDU-8" value="&lt;b&gt;Teste Caixa-Branca&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="253" y="49" width="118" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-9" value="&amp;nbsp;Avalia as funções que um componente ou sistema deve executar. As funções são&lt;br&gt;&quot;o que&quot; o objeto de teste deve fazer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-9" target="sjf2ogPqyEVSmELt5hDU-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-9" value="&amp;nbsp;Avalia as funções que um componente ou sistema deve executar. As funções são&lt;br&gt;&quot;&lt;b&gt;o&lt;/b&gt; &lt;b&gt;que&lt;/b&gt;&quot; o objeto de teste deve fazer." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-283" y="139" width="120" height="111" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="sjf2ogPqyEVSmELt5hDU-13" source="sjf2ogPqyEVSmELt5hDU-6">
@@ -1166,8 +1169,14 @@
             <mxPoint x="-41" y="97" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sjf2ogPqyEVSmELt5hDU-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="139" width="120" height="60" as="geometry" />
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-13" target="sjf2ogPqyEVSmELt5hDU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-13" target="sjf2ogPqyEVSmELt5hDU-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-13" value="avalia atributos que não sejam características funcionais de um componente&lt;br&gt;ou sistema. O teste não funcional é o teste de &quot;&lt;b&gt;quão bem o sistema se comporta&quot;.&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="139" width="120" height="142" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-7" target="sjf2ogPqyEVSmELt5hDU-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1175,8 +1184,14 @@
             <mxPoint x="131" y="156" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-16" target="sjf2ogPqyEVSmELt5hDU-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="68" y="137" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sjf2ogPqyEVSmELt5hDU-17" target="sjf2ogPqyEVSmELt5hDU-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sjf2ogPqyEVSmELt5hDU-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="253" y="139" width="120" height="60" as="geometry" />
@@ -1186,6 +1201,18 @@
             <mxPoint x="300" y="95" as="sourcePoint" />
             <mxPoint x="300" y="143" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-19" value="O principal objetivo do teste funcional é verificar a integridade&lt;br/&gt;funcional, a correção funcional e a adequação funcional" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-295" y="297" width="144" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="345" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="277" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjf2ogPqyEVSmELt5hDU-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="279" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
