@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T21:42:11.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LJoBiguMlFGqXblTLqAi" version="24.2.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:46:26.255Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="9pfGs-DGZEJZ8Qgd6Dbu" version="24.2.2" type="github" pages="12">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1329,8 +1329,47 @@
         <mxCell id="-auVQXHlbQlJd0AuLOKk-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Teste de Regressão&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="94" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-auVQXHlbQlJd0AuLOKk-6" target="-auVQXHlbQlJd0AuLOKk-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-auVQXHlbQlJd0AuLOKk-6" value="&amp;nbsp;Confirma que um defeito original foi corrigido com sucesso" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-232" y="234" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-8" value="Dependendo&lt;br/&gt;do risco, é possível testar a versão corrigida do software de várias maneiras, inclusive" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-250.5" y="374" width="157" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-auVQXHlbQlJd0AuLOKk-8" target="-auVQXHlbQlJd0AuLOKk-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="425" as="sourcePoint" />
+            <mxPoint x="-260" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-auVQXHlbQlJd0AuLOKk-8" target="-auVQXHlbQlJd0AuLOKk-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-162" y="444" as="sourcePoint" />
+            <mxPoint x="-89" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-13" value="Executando todos os casos de teste que falharam anteriormente devido ao defeito" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-327" y="492" width="120" height="109" as="geometry" />
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-14" value="Adicionar novos testes para cobrir quaisquer alterações necessárias para corrigir o defeito" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="492" width="120" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.442;exitY=0.991;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-auVQXHlbQlJd0AuLOKk-13" target="-auVQXHlbQlJd0AuLOKk-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="625" as="sourcePoint" />
+            <mxPoint x="-190" y="676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-auVQXHlbQlJd0AuLOKk-14" target="-auVQXHlbQlJd0AuLOKk-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-274" y="600" as="sourcePoint" />
+            <mxPoint x="-190" y="676" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-17" value="Quando há pouco tempo ou dinheiro para corrigir defeitos, o teste de confirmação pode&lt;br&gt;se restringir a simplesmente executar as etapas que devem reproduzir a falha causada pelo defeito&lt;br&gt;e verificar se a falha não ocorre" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-276.5" y="672" width="183" height="136" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
