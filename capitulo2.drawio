@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T02:01:55.057Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6w_ev9jzqUXxY4Zx2f2Z" version="24.2.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-07T02:02:06.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AnF9-uDf60TVZYuP_uyr" version="24.2.1" type="github" pages="5">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1674" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -558,7 +558,7 @@
         <mxCell id="LXQwhtlEbtYTNcU_sZch-10" value="O pipeline de entrega de DevOps deve ser definido e estabelecido" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1126" y="-705" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LXQwhtlEbtYTNcU_sZch-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LXQwhtlEbtYTNcU_sZch-11" value="As ferramentas de CI/CD devem ser introduzidas e mantidas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1129" y="-629" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LXQwhtlEbtYTNcU_sZch-12" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
