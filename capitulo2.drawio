@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T21:37:46.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aiz12LycJWYhPnXAOito" version="24.2.2" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2024-04-07T21:39:34.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="QDhsOWIzdELUeNtWRlkC" version="24.2.2" type="github" pages="12">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1307,6 +1307,24 @@
         <mxCell id="1" parent="0" />
         <mxCell id="tirv1mAuzvD5X8TyoHqa-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Testes de Confirmação e Teste de Regressão &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-148" y="-176" width="432" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tirv1mAuzvD5X8TyoHqa-1" target="-auVQXHlbQlJd0AuLOKk-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="175" y="225" as="sourcePoint" />
+            <mxPoint x="-163" y="105" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tirv1mAuzvD5X8TyoHqa-1" target="-auVQXHlbQlJd0AuLOKk-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="78" y="-39" as="sourcePoint" />
+            <mxPoint x="252" y="117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Teste de Confirmação&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-232" y="94" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-auVQXHlbQlJd0AuLOKk-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Teste de Regressão&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="94" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
