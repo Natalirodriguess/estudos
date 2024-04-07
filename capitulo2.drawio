@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T18:27:41.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ME8VHOIt0dzIyZRNE_7a" version="24.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-07T18:41:02.220Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="E_9JYCb6xEZUSHTyr0Sk" version="24.2.2" type="github" pages="8">
   <diagram name="Subtopico2.1" id="lRviSgMVGL4Z4l4xJwu7">
     <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -858,6 +858,17 @@
         </mxCell>
         <mxCell id="1rJq2N5FBpYBd49mnFPM-29" value="&lt;div style=&quot;&quot;&gt;Melhor cooperação entre desenvolvimento e testes (por exemplo, como a colaboração é revisada e&lt;br&gt;otimizada regularmente)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="1283" y="332" width="159" height="107" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="E-D3yD2IIpr_bhS9Ba9n" name="Subtopico 2.2">
+    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HUtmfKgQk0VmY9IuBmQH-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt; Níveis de Teste e Tipos de Teste &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="81" y="45" width="432" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
