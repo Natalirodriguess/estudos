@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:19:47.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="M7mNUOcqSh0FdKNAJGuD" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:20:36.156Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hzxFUg46q0mpVzl2Jrs4" version="24.2.2" type="github" pages="2">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,6 +94,20 @@
         <mxCell id="jCk5EyyW_kqPzy4mMI1w-28" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Técnicas de&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;revisão podem ser aplicadas para garantir que as histórias de usuários sejam completas e&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;compreensíveis e incluam critérios de aceite testáveis&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="989" y="-41" width="233" height="89.5" as="geometry" />
         </mxCell>
+        <mxCell id="jCk5EyyW_kqPzy4mMI1w-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jCk5EyyW_kqPzy4mMI1w-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="125" as="sourcePoint" />
+            <mxPoint x="-346" y="163" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="p5CZa4ggJ346pm2XV22Z" name="Subtopico 3.1.1">
+    <mxGraphModel dx="1434" dy="738" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
