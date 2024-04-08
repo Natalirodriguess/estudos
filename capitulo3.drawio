@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:33:59.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qNpnhxruz0kyOjmUpWfr" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:35:57.746Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="i2O_M-YHZ0MMhk-0zGGm" version="24.2.2" type="github" pages="2">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -119,11 +119,14 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p5CZa4ggJ346pm2XV22Z" name="Subtopico 3.1.1">
-    <mxGraphModel dx="1434" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1834" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7OaTpgRboCCT96Uupngi-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OaTpgRboCCT96Uupngi-1" target="7OaTpgRboCCT96Uupngi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OaTpgRboCCT96Uupngi-1" target="7OaTpgRboCCT96Uupngi-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7OaTpgRboCCT96Uupngi-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Produtos de trabalho examináveis por testes estáticos &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
@@ -149,6 +152,15 @@
         </mxCell>
         <mxCell id="7OaTpgRboCCT96Uupngi-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mas para a análise estática&amp;nbsp;os produtos de trabalho precisam de uma estrutura em relação&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;à qual possam ser verificados. Exemplo:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;, modelos, código ou texto com uma sintaxe formal&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="838.88" y="380" width="189.25" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OaTpgRboCCT96Uupngi-11" target="7OaTpgRboCCT96Uupngi-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-11" value="Trabalhos que não são apropriados para testes estáticos" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-215.5" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-13" value="São&amp;nbsp; aqueles que são&lt;br/&gt;difíceis de serem interpretados por seres humanos e que não podem ser analisados nem por&lt;br/&gt;ferramentas (p. ex., código executável de terceiros por motivos legais" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-248.75" y="189" width="186.5" height="103" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
