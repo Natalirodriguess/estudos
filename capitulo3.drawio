@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:52:12.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jqEGLR32yc-OeZrPBWAt" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:52:55.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wKnb83LsLj2tt-_SO71P" version="24.2.2" type="github" pages="3">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="3V39Xp731ooWvP6oEWwI" name="Subtopico 3.1.2">
-    <mxGraphModel dx="1834" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,6 +196,9 @@
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-6" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&amp;nbsp;Permitem avaliar a qualidade e criar confiança nos produtos de trabalho&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="60" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MUvMPG7dBjhlV_mabIpJ-7" target="MUvMPG7dBjhlV_mabIpJ-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Pode detectar defeitos nas primeiras fases do SDLC,&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-207" y="123" width="120" height="60" as="geometry" />
@@ -229,6 +232,9 @@
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-15" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="263" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-17" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;possível criar um entendimento compartilhado entre os stakeholders envolvidos&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-422" y="123" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
