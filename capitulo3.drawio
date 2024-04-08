@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T02:02:14.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TFOp4F5xucXp3HEseAQ2" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-08T02:03:05.716Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Uo72yaonfbu-nKjNJ5e8" version="24.2.2" type="github" pages="4">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -232,6 +232,23 @@
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-21" value="Embora implementação das revisões possa ser dispendiosa, os custos gerais do projeto&lt;br/&gt;geralmente são muito menores do que quando não são realizadas revisões" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="517.5" y="-69" width="241.5" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="RC9I-x7g-euEtNWhDxXS" name="Subtopico 3.1.3">
+    <mxGraphModel dx="1834" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JcCDEMsZ95OgUhaeOU1i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="JcCDEMsZ95OgUhaeOU1i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JcCDEMsZ95OgUhaeOU1i-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Diferenças entre testes estáticos e testes dinâmicos  &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-67" y="-123" width="351" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="JcCDEMsZ95OgUhaeOU1i-2" value="Tais práticas se complementam" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="479.5" y="-65" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
