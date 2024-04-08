@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:59:53.630Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CdoL_WXVbqEIkYByYKgF" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-08T02:02:14.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TFOp4F5xucXp3HEseAQ2" version="24.2.2" type="github" pages="3">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -170,6 +170,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MUvMPG7dBjhlV_mabIpJ-1" target="MUvMPG7dBjhlV_mabIpJ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Valor do teste estático  &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-29" y="-127" width="351" height="176" as="geometry" />
         </mxCell>
@@ -221,20 +224,14 @@
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Os defeitos de código podem ser detectados&amp;nbsp;a de forma mais eficiente do&lt;br/&gt;que em testes dinâmicos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="188" y="123" width="171" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUvMPG7dBjhlV_mabIpJ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MUvMPG7dBjhlV_mabIpJ-14" source="MUvMPG7dBjhlV_mabIpJ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="277" y="49" as="sourcePoint" />
-            <mxPoint x="549" y="158" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MUvMPG7dBjhlV_mabIpJ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="430" y="123" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-17" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;possível criar um entendimento compartilhado entre os stakeholders envolvidos&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="-422" y="123" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-19" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Resultando em menos defeitos de código e em um menor&lt;br&gt;esforço geral de desenvolvimento&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="206.75" y="248" width="133.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-21" value="Embora implementação das revisões possa ser dispendiosa, os custos gerais do projeto&lt;br/&gt;geralmente são muito menores do que quando não são realizadas revisões" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="-69" width="241.5" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
