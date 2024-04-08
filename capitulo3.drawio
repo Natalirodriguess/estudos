@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:42:50.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="v0n0_D3SMRqU_bnRnDSw" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:46:04.314Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Tj6o0puS5rggIYSfVb8s" version="24.2.2" type="github" pages="3">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -194,11 +194,17 @@
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="128" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUvMPG7dBjhlV_mabIpJ-7" value="Pode detectar defeitos nas primeiras fases do SDLC,&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-192" y="134" width="120" height="60" as="geometry" />
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-7" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Pode detectar defeitos nas primeiras fases do SDLC,&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-207" y="123" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MUvMPG7dBjhlV_mabIpJ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="8" y="134" width="120" height="60" as="geometry" />
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MUvMPG7dBjhlV_mabIpJ-8" target="MUvMPG7dBjhlV_mabIpJ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-8" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-weight: normal; background-color: initial;&quot;&gt;&amp;nbsp;Pode identificar defeitos que não podem ser detectados por&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;testes dinâmicos&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-72" y="117" width="121" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-9" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;por exemplo: código inacessível, padrões de projeto não implementados conforme&lt;br/&gt;desejado, defeitos em produtos de trabalho não executáveis&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="-89.75" y="251" width="156.5" height="107" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
