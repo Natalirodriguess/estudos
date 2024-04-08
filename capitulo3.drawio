@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:52:55.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wKnb83LsLj2tt-_SO71P" version="24.2.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:53:51.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vXCehK7J0kmVdyuh_ueS" version="24.2.2" type="github" pages="3">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -218,8 +218,8 @@
             <mxPoint x="419" y="158" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MUvMPG7dBjhlV_mabIpJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="190" y="129" width="120" height="60" as="geometry" />
+        <mxCell id="MUvMPG7dBjhlV_mabIpJ-12" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Os defeitos de código podem ser detectados&amp;nbsp;a de forma mais eficiente do&lt;br/&gt;que em testes dinâmicos&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="188" y="123" width="171" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MUvMPG7dBjhlV_mabIpJ-14" source="MUvMPG7dBjhlV_mabIpJ-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="320" y="129" width="120" height="60" as="geometry" />
+          <mxGeometry x="430" y="123" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MUvMPG7dBjhlV_mabIpJ-15" value="" style="whiteSpace=wrap;html=1;rounded=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="263" width="120" height="60" as="geometry" />
