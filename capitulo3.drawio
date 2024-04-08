@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:22:09.442Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="1pYEmGzW1yHmtR2IdTCk" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:23:10.599Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7LZcfjN83et_QUERGFzl" version="24.2.2" type="github" pages="2">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,8 +106,14 @@
         <mxCell id="UwVCKpedwg6NZsTMVxFq-1" value="Um dos benefícios" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-425" y="162" width="117" height="22" as="geometry" />
         </mxCell>
+        <mxCell id="UwVCKpedwg6NZsTMVxFq-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UwVCKpedwg6NZsTMVxFq-3" target="UwVCKpedwg6NZsTMVxFq-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UwVCKpedwg6NZsTMVxFq-3" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;A análise estática pode identificar problemas antes dos testes dinâmicos e, muitas vezes, exige&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;menos esforço, já que não são necessários casos de teste e, normalmente, são usadas ferramentas&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-482" y="243" width="231" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="UwVCKpedwg6NZsTMVxFq-5" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Embora seja amplamente usada para detectar defeitos específicos no código, a &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;análise estática&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;também é usada para avaliar a &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;capacidade &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de &lt;/span&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;manutenção &lt;/b&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;e a &lt;b&gt;segurança&lt;/b&gt;. Verificadores ortográficos&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;e ferramentas de legibilidade são outros exemplos de ferramentas de análise estática.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-133" y="324" width="284" height="104" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
