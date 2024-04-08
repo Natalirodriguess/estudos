@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T01:26:01.631Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="caM6VbJWn-yYNjHJlZYd" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-08T01:33:59.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="qNpnhxruz0kyOjmUpWfr" version="24.2.2" type="github" pages="2">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,8 +135,20 @@
         <mxCell id="7OaTpgRboCCT96Uupngi-2" value="Quase todos os produtos de trabalho podem ser examinados por meio de testes estáticos. Exemplos&lt;span style=&quot;font-size: 10px;&quot;&gt;:&lt;/span&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="551" y="38.5" width="168" height="83" as="geometry" />
         </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OaTpgRboCCT96Uupngi-4" target="7OaTpgRboCCT96Uupngi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7OaTpgRboCCT96Uupngi-4" value="Documentos de especificação de requisitos, código-fonte, planos de teste, casos&lt;br&gt;de teste, itens da lista de pendências do produto, cartas de teste, documentação do projeto,&lt;br&gt;contratos e modelos" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="819" y="25" width="229" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7OaTpgRboCCT96Uupngi-6" target="7OaTpgRboCCT96Uupngi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-6" value="Em síntese, qualquer produto de trabalho que possa ser lido e compreendido pode ser objeto de uma revisão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="844.25" y="236" width="178.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7OaTpgRboCCT96Uupngi-8" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Mas para a análise estática&amp;nbsp;os produtos de trabalho precisam de uma estrutura em relação&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;à qual possam ser verificados. Exemplo:&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-align: center;&quot;&gt;, modelos, código ou texto com uma sintaxe formal&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="838.88" y="380" width="189.25" height="88" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
