@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T17:21:17.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6ND2KyxFDh5omsFsLoia" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-09T23:55:36.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="l79TIqja3odNdLrx91vH" version="24.2.3" type="github" pages="4">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RC9I-x7g-euEtNWhDxXS" name="Subtopico 3.1.3">
-    <mxGraphModel dx="1834" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,31 +250,49 @@
         <mxCell id="JcCDEMsZ95OgUhaeOU1i-2" value="Tais práticas se complementam" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="479.5" y="-65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="iY-EWvFe28gbte6yZgbC-2" source="JcCDEMsZ95OgUhaeOU1i-1">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292" y="16" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-2" value="Possuem objetivos semelhantes como apoiar a detecção de defeitos em produtos de trabalho&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-2" value="Possuem objetivos semelhantes como apoiar a detecção de defeitos em produtos de trabalho&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="483" y="5" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-6">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="241" y="192" as="sourcePoint" />
             <mxPoint x="-95" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-5">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="119" y="63" as="sourcePoint" />
             <mxPoint x="112" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="176" width="120" height="60" as="geometry" />
+        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="Os testes estáticos encontram defeitos diretamente, enquanto os testes dinâmicos causam&lt;br/&gt;falhas a partir das quais os defeitos associados são determinados por meio de análises&lt;br/&gt;subsequentes" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-244" y="117" width="235" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-6" value="Os testes estáticos e dinâmicos (com análise de falhas) podem levar à detecção de defeitos,&lt;br&gt;mas há alguns tipos de defeitos que só podem ser encontrados por meio de testes estáticos&lt;br&gt;ou dinâmicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="124" width="218" height="108" as="geometry" />
+        <mxCell id="iY-EWvFe28gbte6yZgbC-6" value="Os testes estáticos e dinâmicos (com análise de falhas) podem levar à detecção de defeitos,&lt;br&gt;mas há alguns tipos de defeitos que só podem ser encontrados por meio de testes estáticos&lt;br&gt;&lt;b&gt;ou &lt;/b&gt;dinâmicos" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-469" y="114" width="218" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-2" source="JcCDEMsZ95OgUhaeOU1i-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="69" as="sourcePoint" />
+            <mxPoint x="332" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-2" value="Os testes estáticos podem detectar com mais facilidade os defeitos que se encontram nos&lt;br/&gt;caminhos do código que raramente são executados ou que são difíceis de alcançar usando&lt;br/&gt;testes dinâmicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2" y="116" width="235" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-4" source="JcCDEMsZ95OgUhaeOU1i-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="54" as="sourcePoint" />
+            <mxPoint x="579" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-4" value="Os testes estáticos encontram defeitos diretamente, enquanto os testes dinâmicos causam&lt;br/&gt;falhas a partir das quais os defeitos associados são determinados por meio de análises&lt;br/&gt;subsequentes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="242" y="117" width="235" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
