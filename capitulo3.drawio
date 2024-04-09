@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T16:42:17.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KraXxuqphLdy56dSicXS" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-09T17:21:17.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6ND2KyxFDh5omsFsLoia" version="24.2.2" type="github" pages="4">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -257,6 +257,24 @@
         </mxCell>
         <mxCell id="iY-EWvFe28gbte6yZgbC-2" value="Possuem objetivos semelhantes como apoiar a detecção de defeitos em produtos de trabalho&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="483" y="5" width="164" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY-EWvFe28gbte6yZgbC-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="241" y="192" as="sourcePoint" />
+            <mxPoint x="-95" y="169" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iY-EWvFe28gbte6yZgbC-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="63" as="sourcePoint" />
+            <mxPoint x="112" y="206" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="176" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iY-EWvFe28gbte6yZgbC-6" value="Os testes estáticos e dinâmicos (com análise de falhas) podem levar à detecção de defeitos,&lt;br&gt;mas há alguns tipos de defeitos que só podem ser encontrados por meio de testes estáticos&lt;br&gt;ou dinâmicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-275" y="124" width="218" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
