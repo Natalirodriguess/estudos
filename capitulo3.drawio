@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:14:31.253Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Y1De9pSUa2S1PQr6VW1l" version="24.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:19:37.225Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="E7mUHB8LU9kl5Kq9FpVW" version="24.2.3" type="github" pages="9">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -714,7 +714,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_2dp_Zf4fd-IHcPR4TrA" name="Subtopico 3.2.5">
-    <mxGraphModel dx="1811" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -728,7 +728,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Go_1VQJj3eN0aiOWmD4f-2" value="Definir objetivos claros e critérios de saída mensuráveis. A avaliação dos participantes nunca&lt;br/&gt;deve ser um objetivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-307" y="105" width="145" height="108" as="geometry" />
+          <mxGeometry x="-591" y="105" width="145" height="108" as="geometry" />
         </mxCell>
         <mxCell id="Go_1VQJj3eN0aiOWmD4f-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-4" source="iHTVCQODBALBWuyiEici-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -736,8 +736,8 @@
             <mxPoint x="125" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Go_1VQJj3eN0aiOWmD4f-4" value="Definir objetivos claros e critérios de saída mensuráveis. A avaliação dos participantes nunca&lt;br/&gt;deve ser um objetivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-155" y="103" width="145" height="108" as="geometry" />
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-4" value="Escolher o tipo de revisão apropriado para atingir os objetivos determinados e se adequar ao&lt;br&gt;tipo de produto de trabalho, aos participantes da revisão, às necessidades e ao contexto do&lt;br&gt;projeto" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-439" y="103" width="145" height="165" as="geometry" />
         </mxCell>
         <mxCell id="Go_1VQJj3eN0aiOWmD4f-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-6" source="iHTVCQODBALBWuyiEici-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -745,8 +745,8 @@
             <mxPoint x="280" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Go_1VQJj3eN0aiOWmD4f-6" value="Definir objetivos claros e critérios de saída mensuráveis. A avaliação dos participantes nunca&lt;br/&gt;deve ser um objetivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2" y="101" width="145" height="108" as="geometry" />
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-6" value="Realizar revisões em pequenas partes, de modo que os revisores não percam a concentração&lt;br/&gt;durante uma revisão individual e/ou a reunião de revisão (quando realizada)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-282" y="101" width="145" height="132" as="geometry" />
         </mxCell>
         <mxCell id="Go_1VQJj3eN0aiOWmD4f-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-8" source="iHTVCQODBALBWuyiEici-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -754,8 +754,8 @@
             <mxPoint x="437" y="139" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Go_1VQJj3eN0aiOWmD4f-8" value="Definir objetivos claros e critérios de saída mensuráveis. A avaliação dos participantes nunca&lt;br/&gt;deve ser um objetivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="159" y="101" width="145" height="108" as="geometry" />
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-8" value="Fornecer feedback das revisões aos stakeholders e aos autores para que eles possam&lt;br/&gt;melhorar o produto e suas atividades" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-125" y="101" width="145" height="108" as="geometry" />
         </mxCell>
         <mxCell id="Go_1VQJj3eN0aiOWmD4f-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-10" source="iHTVCQODBALBWuyiEici-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -763,8 +763,8 @@
             <mxPoint x="599" y="137" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Go_1VQJj3eN0aiOWmD4f-10" value="Definir objetivos claros e critérios de saída mensuráveis. A avaliação dos participantes nunca&lt;br/&gt;deve ser um objetivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="321" y="99" width="145" height="108" as="geometry" />
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-10" value="Fornecer tempo suficiente para que os participantes se preparem para a revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="31" y="99" width="145" height="108" as="geometry" />
         </mxCell>
         <mxCell id="Go_1VQJj3eN0aiOWmD4f-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-12" source="iHTVCQODBALBWuyiEici-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -772,8 +772,35 @@
             <mxPoint x="785" y="155" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Go_1VQJj3eN0aiOWmD4f-12" value="Definir objetivos claros e critérios de saída mensuráveis. A avaliação dos participantes nunca&lt;br/&gt;deve ser um objetivo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="507" y="117" width="145" height="108" as="geometry" />
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-12" value="Apoio da gerência para o processo de revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="187" y="97" width="145" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-14" source="iHTVCQODBALBWuyiEici-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="274" y="53" as="sourcePoint" />
+            <mxPoint x="957" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-14" value="Tornar as revisões parte da cultura da organização, para promover o aprendizado e o&lt;br/&gt;aprimoramento dos processos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="99" width="145" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-16" source="iHTVCQODBALBWuyiEici-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="101" y="46" as="sourcePoint" />
+            <mxPoint x="1113" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-16" value="Fornecer treinamento adequado a todos os participantes para que eles saibam como&lt;br/&gt;desempenhar suas funções" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="499" y="99" width="145" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="Go_1VQJj3eN0aiOWmD4f-18" source="iHTVCQODBALBWuyiEici-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="259" y="51" as="sourcePoint" />
+            <mxPoint x="1270" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Go_1VQJj3eN0aiOWmD4f-18" value="Facilitação de reuniões" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="656" y="101" width="145" height="108" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
