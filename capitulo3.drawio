@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:11:00.352Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="22tHBy4HGp4cW2KKgi-p" version="24.2.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:11:24.484Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EOH1GJV690n7nosJ1eYz" version="24.2.3" type="github" pages="9">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -701,8 +701,8 @@
         <mxCell id="KahSgm0-i-PJvMd2847k-1" value="As revisões informais não seguem um processo definido e não exigem um&lt;br&gt;resultado formal documentado. O principal objetivo é detectar anomalias.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="625.5" width="120" height="122.5" as="geometry" />
         </mxCell>
-        <mxCell id="KahSgm0-i-PJvMd2847k-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="183" y="624.5" width="120" height="60" as="geometry" />
+        <mxCell id="KahSgm0-i-PJvMd2847k-3" value="Um passo a passo, conduzido pelo autor, pode servir a muitos objetivos, como&lt;br&gt;avaliar a qualidade e criar confiança no produto do trabalho, instruir os revisores, obter&lt;br&gt;consenso, gerar novas ideias, motivar e permitir que os autores melhorem e detectar&lt;br&gt;anomalias." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="183" y="624.5" width="120" height="228.5" as="geometry" />
         </mxCell>
         <mxCell id="KahSgm0-i-PJvMd2847k-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="315" y="624.5" width="120" height="60" as="geometry" />
