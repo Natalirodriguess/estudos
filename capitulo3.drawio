@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T00:06:43.872Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="YhqXiyKeyt2yc3dk-NJB" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T00:06:52.183Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-AN7Wk-SG5LIUzc9wOoo" version="24.2.3" type="github" pages="4">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -370,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yOmhH3DDkZkeIaBqMNxL-6" value="Lacunas ou imprecisões na cobertura da base de testes (p. ex., testes ausentes para um&lt;br/&gt;critério de aceite) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="341" y="423" width="185" height="60" as="geometry" />
+          <mxGeometry x="343" y="416" width="185" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
