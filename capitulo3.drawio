@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T17:21:17.978Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6ND2KyxFDh5omsFsLoia" version="24.2.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:52:24.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Zpt3j3oVrplmUPuVQqZS" version="24.2.3" type="github" pages="7">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
-    <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,7 +237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RC9I-x7g-euEtNWhDxXS" name="Subtopico 3.1.3">
-    <mxGraphModel dx="1834" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2611" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -250,31 +250,361 @@
         <mxCell id="JcCDEMsZ95OgUhaeOU1i-2" value="Tais práticas se complementam" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="479.5" y="-65" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="iY-EWvFe28gbte6yZgbC-2" source="JcCDEMsZ95OgUhaeOU1i-1">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="292" y="16" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-2" value="Possuem objetivos semelhantes como apoiar a detecção de defeitos em produtos de trabalho&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-2" value="Possuem objetivos semelhantes como apoiar a detecção de defeitos em produtos de trabalho&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="483" y="5" width="164" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-6">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-6" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="241" y="192" as="sourcePoint" />
             <mxPoint x="-95" y="169" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-5">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="JcCDEMsZ95OgUhaeOU1i-1" target="iY-EWvFe28gbte6yZgbC-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="119" y="63" as="sourcePoint" />
             <mxPoint x="112" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="52" y="176" width="120" height="60" as="geometry" />
+        <mxCell id="3RIouuorLETAMt99Ym2a-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iY-EWvFe28gbte6yZgbC-5" target="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-6" value="Os testes estáticos e dinâmicos (com análise de falhas) podem levar à detecção de defeitos,&lt;br&gt;mas há alguns tipos de defeitos que só podem ser encontrados por meio de testes estáticos&lt;br&gt;ou dinâmicos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-275" y="124" width="218" height="108" as="geometry" />
+        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="Os testes estáticos encontram &lt;b&gt;defeitos &lt;/b&gt;diretamente, enquanto os testes dinâmicos causam&lt;br&gt;falhas a partir das quais os defeitos associados são determinados por meio de análises&lt;br&gt;subsequentes." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-320" y="117" width="235" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="iY-EWvFe28gbte6yZgbC-6" value="Os testes estáticos e dinâmicos (com análise de falhas) podem levar à detecção de defeitos,&lt;br&gt;mas há alguns tipos de defeitos que só podem ser encontrados por meio de testes estáticos&lt;br&gt;&lt;b&gt;ou &lt;/b&gt;dinâmicos." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-545" y="114" width="218" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-2" source="JcCDEMsZ95OgUhaeOU1i-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="329" y="69" as="sourcePoint" />
+            <mxPoint x="332" y="222" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-2" value="Os testes estáticos podem detectar com mais facilidade os defeitos que se encontram nos&lt;br&gt;caminhos do código que raramente são executados ou que são difíceis de alcançar usando&lt;br&gt;testes dinâmicos." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-78" y="116" width="235" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-4" source="JcCDEMsZ95OgUhaeOU1i-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="356" y="54" as="sourcePoint" />
+            <mxPoint x="579" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-4" value="O teste estático pode ser aplicado a produtos de trabalho não executáveis, enquanto o teste&lt;br&gt;dinâmico só pode ser aplicado a produtos de trabalho executáveis." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="164" y="117" width="235" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-6" source="JcCDEMsZ95OgUhaeOU1i-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="53" as="sourcePoint" />
+            <mxPoint x="821" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-6" value="Os testes estáticos podem ser usados para medir as características de qualidade que não&lt;br/&gt;dependem da execução do código (p. ex., capacidade de manutenção), enquanto os testes&lt;br/&gt;dinâmicos podem ser usados para medir as características de qualidade que dependem da&lt;br/&gt;execução do código (p. ex., eficiência de performance" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="406" y="117" width="292" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Defeitos típicos mais fáceis/baratos de encontrar com testes estáticos&lt;/font&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-285.75" y="304" width="166.5" height="77" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-13" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-320" y="371" as="sourcePoint" />
+            <mxPoint x="-163.5" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-13" value="Defeitos nos requisitos (p. ex., inconsistências, ambiguidades, contradições, omissões,&lt;br/&gt;imprecisões, duplicações)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-801" y="423" width="191.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-15" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-5.75" y="381" as="sourcePoint" />
+            <mxPoint x="32.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-15" value="Defeitos de projeto (p. ex., estruturas de banco de dados ineficientes, modularização&lt;br/&gt;deficiente)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-603" y="423" width="174.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-16" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-17" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-206" y="379" as="sourcePoint" />
+            <mxPoint x="232.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-17" value="Certos tipos de defeitos de codificação (p. ex., variáveis com valores indefinidos, variáveis não&lt;br/&gt;declaradas, código inacessível ou duplicado, complexidade excessiva do código)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-423" y="423" width="264.75" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="3RIouuorLETAMt99Ym2a-19" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="71" y="381" as="sourcePoint" />
+            <mxPoint x="505.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3RIouuorLETAMt99Ym2a-19" value="Desvios dos padrões (p. ex., falta de adesão às convenções de nomenclatura nos padrões de&lt;br/&gt;codificação)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-153" y="423" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="yOmhH3DDkZkeIaBqMNxL-2" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-205" y="378" as="sourcePoint" />
+            <mxPoint x="786.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-2" value="Especificações incorretas da interface (p. ex., número, tipo ou ordem de parâmetros&lt;br/&gt;incompatíveis)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="44" y="423" width="163" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="yOmhH3DDkZkeIaBqMNxL-4" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2" y="381" as="sourcePoint" />
+            <mxPoint x="990.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-4" value="Tipos específicos de vulnerabilidades de segurança (p. ex., estouro de buffer)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="421" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="yOmhH3DDkZkeIaBqMNxL-6" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-64" y="381" as="sourcePoint" />
+            <mxPoint x="1128.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-6" value="Lacunas ou imprecisões na cobertura da base de testes (p. ex., testes ausentes para um&lt;br/&gt;critério de aceite) " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="343" y="416" width="185" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CPZ7A9CAnMHgOBfunI93" name="Subtopico 3.2.1">
+    <mxGraphModel dx="1811" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HSM48KXhbbWcMVYvAo3-1" target="0HSM48KXhbbWcMVYvAo3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HSM48KXhbbWcMVYvAo3-1" target="0HSM48KXhbbWcMVYvAo3-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Benefícios do feedback antecipado e frequente dos stakeholders  &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="149" y="-113" width="351" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0HSM48KXhbbWcMVYvAo3-2" target="0HSM48KXhbbWcMVYvAo3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-2" value="O feedback antecipado e frequente permite a comunicação precoce de possíveis problemas de&lt;br/&gt;qualidade" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="-76" width="160.5" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-5" value="Se houver pouco envolvimento dos stakeholders durante o SDLC o produto desenvolvido pode não&amp;nbsp;o atender à visão original ou atual dos stakeholders" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-181" y="-81" width="151.5" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-7" value="O feedback frequente evita&amp;nbsp;mal-entendidos sobre os&lt;br&gt;requisitos e garante que as alterações nos requisitos sejam compreendidas e implementadas mais&lt;br&gt;cedo" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="889" y="86" width="304" height="97" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ipbTx71A9cxEmOU6pP-M" name="Subtopico 3.2.2">
+    <mxGraphModel dx="2211" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-1" target="5OozUo9AmIwOH-JEb6SR-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-1" target="5OozUo9AmIwOH-JEb6SR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Atividades do processo de revisão  &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="-127" width="351" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-2" value="A norma ISO/IEC 20246 define um processo de revisão genérico que fornece um framework&lt;br/&gt;estruturado, porém flexível, a partir da qual um processo específico de revisão pode ser adaptado a&lt;br/&gt;uma situação particular" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-453" y="-92.5" width="208.5" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-6" value="Como o tamanho de muitos produtos de trabalho são grandes de mais para&amp;nbsp; serem cobertos por uma&lt;br/&gt;única revisão, utiliza-se um processo de revisão. Que incluem as atividades:" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-18.5" y="123" width="240" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-6" target="5OozUo9AmIwOH-JEb6SR-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-27" y="325" as="sourcePoint" />
+            <mxPoint x="-17" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-9" target="nCH1vqOeyu2CHnXSwSqb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-9" value="Planejamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-253" y="315" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5OozUo9AmIwOH-JEb6SR-11" source="5OozUo9AmIwOH-JEb6SR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="314" y="253" as="sourcePoint" />
+            <mxPoint x="195" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-11" target="nCH1vqOeyu2CHnXSwSqb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-11" value="Início da revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="316" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5OozUo9AmIwOH-JEb6SR-13" source="5OozUo9AmIwOH-JEb6SR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="231" y="249" as="sourcePoint" />
+            <mxPoint x="324" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-13" target="nCH1vqOeyu2CHnXSwSqb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-13" value="&lt;br&gt;&lt;div&gt;Revisão individual&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="315" width="120" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5OozUo9AmIwOH-JEb6SR-15" source="5OozUo9AmIwOH-JEb6SR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="224" y="250" as="sourcePoint" />
+            <mxPoint x="446" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-15" target="nCH1vqOeyu2CHnXSwSqb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-15" value="Comunicação e Análise de Problemas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="317.5" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="5OozUo9AmIwOH-JEb6SR-17" source="5OozUo9AmIwOH-JEb6SR-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229" y="249.5" as="sourcePoint" />
+            <mxPoint x="573" y="344.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-17" target="nCH1vqOeyu2CHnXSwSqb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-17" value="Correção e Relatório" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="320" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-1" value="Durante a fase de planejamento, deve ser definido o escopo da revisão, que&lt;br/&gt;inclui o objetivo, o produto de trabalho a ser revisado, as características de qualidade a serem&lt;br/&gt;avaliadas, as áreas a serem enfocadas, os critérios de saída, as informações de apoio, como&lt;br/&gt;padrões, o esforço e os prazos para a revisão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-253" y="431" width="120" height="256" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-3" value="Durante o início da revisão, o objetivo é garantir que todos os envolvidos&lt;br/&gt;estejam preparados para começar a revisão. Isso inclui garantir que todos os participantes&lt;br/&gt;tenham acesso ao produto de trabalho, entendam suas funções e responsabilidades e&lt;br/&gt;recebam tudo o que for necessário para realizar a análise.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="430.5" width="120" height="258.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-5" value="Cada revisor realiza uma revisão individual para avaliar a qualidade do&lt;br/&gt;produto de trabalho sob revisão e para identificar anomalias, recomendações e perguntas,aplicando uma ou mais técnicas de revisão (p. ex., revisão baseada em lista de verificação,&lt;br/&gt;revisão baseada em cenário)." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="427.25" width="120" height="262.75" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-7" value="Como as anomalias identificadas durante uma&lt;br/&gt;revisão não são necessariamente defeitos, todas essas anomalias precisam ser analisadas e&lt;br/&gt;discutidas. Para cada uma encontrada, deve ser tomada uma decisão sobre seu status,&lt;br/&gt;propriedade e ações necessárias.&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="426" width="120" height="266" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-9" value="Para cada defeito, deve ser criado um relatório de defeitos para que&lt;br/&gt;as ações corretivas possam ser acompanhadas. Quando os critérios de saída forem atingidos,&lt;br/&gt;o produto de trabalho poderá ser aceito. Os resultados da revisão são relatados." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="428.5" width="120" height="258.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="J_mh7w59gvAyJSQdgMBj" name="Subtopico 3.2.3">
+    <mxGraphModel dx="1811" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dIwsR2qXNKEwRxy69E89-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="lTxlRR3C4iFepcFxQFyG-1" target="dIwsR2qXNKEwRxy69E89-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lTxlRR3C4iFepcFxQFyG-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Funções e responsabilidades nas revisões   &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-74" y="-127" width="351" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="dIwsR2qXNKEwRxy69E89-1" value="As revisões envolvem vários stakeholders, que podem assumir diversas funções." style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="41.5" y="187" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="247" as="sourcePoint" />
+            <mxPoint x="-17" y="331" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dz9BQ5D-7ucQQ0n-IjF9-2" target="dz9BQ5D-7ucQQ0n-IjF9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-2" value="Gerente" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="315" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="247" as="sourcePoint" />
+            <mxPoint x="195" y="337" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dz9BQ5D-7ucQQ0n-IjF9-4" target="dz9BQ5D-7ucQQ0n-IjF9-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-4" value="Autor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="316" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="247" as="sourcePoint" />
+            <mxPoint x="324" y="339" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dz9BQ5D-7ucQQ0n-IjF9-6" target="dz9BQ5D-7ucQQ0n-IjF9-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-6" value="&lt;div&gt;Moderador&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="315" width="120" height="41.5" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="247" as="sourcePoint" />
+            <mxPoint x="446" y="342" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dz9BQ5D-7ucQQ0n-IjF9-8" target="dz9BQ5D-7ucQQ0n-IjF9-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-8" value="Relator" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="317.5" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="102" y="247" as="sourcePoint" />
+            <mxPoint x="573" y="344.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dz9BQ5D-7ucQQ0n-IjF9-10" target="dz9BQ5D-7ucQQ0n-IjF9-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-10" value="Revisor" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="320" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-13" source="dIwsR2qXNKEwRxy69E89-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="228" y="247" as="sourcePoint" />
+            <mxPoint x="699" y="344.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="dz9BQ5D-7ucQQ0n-IjF9-13" target="dz9BQ5D-7ucQQ0n-IjF9-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-13" value="Líder da revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="320" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-15" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="431" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-144" y="430.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-19" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-15" y="427.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="426" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="241" y="428.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-25" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="367" y="428.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
