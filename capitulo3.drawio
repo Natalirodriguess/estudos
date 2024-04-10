@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T00:10:28.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xkPrw8KxwuxN9qHb8-59" version="24.2.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-04-10T00:10:38.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sHuYocYx0rx8vZszfDwe" version="24.2.3" type="github" pages="5">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -398,7 +398,7 @@
         <mxCell id="0HSM48KXhbbWcMVYvAo3-5" value="Se houver pouco envolvimento dos stakeholders durante o SDLC o produto desenvolvido pode não&amp;nbsp;o atender à visão original ou atual dos stakeholders" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-181" y="-81" width="151.5" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="0HSM48KXhbbWcMVYvAo3-7" value="O feedback frequente evita&amp;nbsp;mal-entendidos sobre os&lt;br/&gt;requisitos e garantir que as alterações nos requisitos sejam compreendidas e implementadas mais&lt;br/&gt;cedo" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+        <mxCell id="0HSM48KXhbbWcMVYvAo3-7" value="O feedback frequente evita&amp;nbsp;mal-entendidos sobre os&lt;br&gt;requisitos e garante que as alterações nos requisitos sejam compreendidas e implementadas mais&lt;br&gt;cedo" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="889" y="86" width="304" height="97" as="geometry" />
         </mxCell>
       </root>
