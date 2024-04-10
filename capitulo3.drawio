@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T02:01:33.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VXXhb_DmJOWtJu4Q5_if" version="24.2.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-10T02:01:37.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5QE6VvnfutI823vo0SrX" version="24.2.3" type="github" pages="8">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -644,7 +644,7 @@
         <mxCell id="77EoqWBhT91nVsnhcSmD-6" value="A seleção do tipo de revisão se baseia nos objetivos, em fatores como as&lt;br&gt;necessidades do projeto, os recursos disponíveis, o tipo e os riscos do produto de trabalho, o&lt;br&gt;domínio do negócio e a cultura da empresa" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="322" y="82" width="163" height="148" as="geometry" />
         </mxCell>
-        <mxCell id="77EoqWBhT91nVsnhcSmD-10" value="Alguns tipos de revisão" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+        <mxCell id="77EoqWBhT91nVsnhcSmD-10" value="&lt;b&gt;Alguns tipos de revisão&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-283" y="201" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
