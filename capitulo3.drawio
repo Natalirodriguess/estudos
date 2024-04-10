@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:52:24.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Zpt3j3oVrplmUPuVQqZS" version="24.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:53:33.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="6PU-rb4jiTjo_EaWPNt4" version="24.2.3" type="github" pages="7">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -588,8 +588,8 @@
         <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-13" value="Líder da revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367" y="320" width="120" height="39" as="geometry" />
         </mxCell>
-        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-15" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="-271" y="431" width="120" height="60" as="geometry" />
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-15" value="&amp;nbsp;decide o que deve ser revisado e fornece recursos, como equipe e tempo para a&lt;br/&gt;revisão&amp;nbsp;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-271" y="431" width="120" height="93" as="geometry" />
         </mxCell>
         <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-17" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-144" y="430.5" width="120" height="60" as="geometry" />
