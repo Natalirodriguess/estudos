@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:40:27.444Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iMz-668ap5M50_Lpy9k6" version="24.2.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:42:12.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xjQtRw4TdEEuj-Qcu0gW" version="24.2.3" type="github" pages="6">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -412,11 +412,17 @@
         <mxCell id="5OozUo9AmIwOH-JEb6SR-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-1" target="5OozUo9AmIwOH-JEb6SR-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-1" target="5OozUo9AmIwOH-JEb6SR-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Atividades do processo de revisão  &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-74" y="-127" width="351" height="176" as="geometry" />
         </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-2" value="A norma ISO/IEC 20246 define um processo de revisão genérico que fornece um framework&lt;br/&gt;estruturado, porém flexível, a partir da qual um processo específico de revisão pode ser adaptado a&lt;br/&gt;uma situação particular" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-453" y="-92.5" width="208.5" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="5OozUo9AmIwOH-JEb6SR-6" value="Como o tamanho de muitos produtos de trabalho são grandes de mais para&amp;nbsp; serem cobertos por uma&lt;br/&gt;única revisão, utiliza-se um processo de revisão. Que incluem as atividades:" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-18.5" y="123" width="240" height="124" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
