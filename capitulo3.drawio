@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:46:24.495Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="EcnRmG99WISwY69z8xff" version="24.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:47:04.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="AbBKVhR3EuaQaJHmckUJ" version="24.2.3" type="github" pages="7">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -430,6 +430,9 @@
             <mxPoint x="-17" y="331" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-9" target="nCH1vqOeyu2CHnXSwSqb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-9" value="Planejamento" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-253" y="315" width="120" height="44" as="geometry" />
         </mxCell>
@@ -438,6 +441,9 @@
             <mxPoint x="314" y="253" as="sourcePoint" />
             <mxPoint x="195" y="337" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-11" target="nCH1vqOeyu2CHnXSwSqb-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-11" value="Início da revisão" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-126" y="316" width="120" height="43" as="geometry" />
@@ -448,6 +454,9 @@
             <mxPoint x="324" y="339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-13" target="nCH1vqOeyu2CHnXSwSqb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-13" value="&lt;br&gt;&lt;div&gt;Revisão individual&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3" y="315" width="120" height="41.5" as="geometry" />
         </mxCell>
@@ -456,6 +465,9 @@
             <mxPoint x="224" y="250" as="sourcePoint" />
             <mxPoint x="446" y="342" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-15" target="nCH1vqOeyu2CHnXSwSqb-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-15" value="Comunicação e Análise de Problemas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="132" y="317.5" width="120" height="39" as="geometry" />
@@ -466,8 +478,26 @@
             <mxPoint x="573" y="344.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5OozUo9AmIwOH-JEb6SR-17" target="nCH1vqOeyu2CHnXSwSqb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="5OozUo9AmIwOH-JEb6SR-17" value="Correção e Relatório" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="259" y="320" width="120" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-1" value="Durante a fase de planejamento, deve ser definido o escopo da revisão, que&lt;br/&gt;inclui o objetivo, o produto de trabalho a ser revisado, as características de qualidade a serem&lt;br/&gt;avaliadas, as áreas a serem enfocadas, os critérios de saída, as informações de apoio, como&lt;br/&gt;padrões, o esforço e os prazos para a revisão." style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-253" y="431" width="120" height="243" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-3" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-126" y="430.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-5" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="3" y="427.25" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-7" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="132" y="426" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nCH1vqOeyu2CHnXSwSqb-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="428.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
