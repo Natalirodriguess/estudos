@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:55:47.681Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="xhQwP3OG_aPHnch3ER1j" version="24.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:56:11.741Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="m8YC3XWZHm8Wl-Wd6_5z" version="24.2.3" type="github" pages="7">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -513,8 +513,8 @@
         <mxCell id="lTxlRR3C4iFepcFxQFyG-1" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;Funções e responsabilidades nas revisões   &lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-74" y="-127" width="351" height="176" as="geometry" />
         </mxCell>
-        <mxCell id="dIwsR2qXNKEwRxy69E89-1" value="As revisões envolvem vários stakeholders, que podem assumir diversas funções." style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="41.5" y="187" width="120" height="60" as="geometry" />
+        <mxCell id="dIwsR2qXNKEwRxy69E89-1" value="As revisões envolvem vários stakeholders, que podem assumir diversas funções. Algumas delas:" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6.25" y="189" width="190.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-1" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="dz9BQ5D-7ucQQ0n-IjF9-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
