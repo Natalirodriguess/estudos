@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T00:03:27.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hNKVLe2bXvbSjMtSuJ4Z" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T00:04:52.942Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-FZgHgiByTBikltENQV1" version="24.2.3" type="github" pages="4">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
-    <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -237,7 +237,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RC9I-x7g-euEtNWhDxXS" name="Subtopico 3.1.3">
-    <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2211" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -342,8 +342,17 @@
             <mxPoint x="505.75" y="512" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3RIouuorLETAMt99Ym2a-19" value="Certos tipos de defeitos de codificação (p. ex., variáveis com valores indefinidos, variáveis não&lt;br/&gt;declaradas, código inacessível ou duplicado, complexidade excessiva do código)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-47" y="423" width="264.75" height="60" as="geometry" />
+        <mxCell id="3RIouuorLETAMt99Ym2a-19" value="Desvios dos padrões (p. ex., falta de adesão às convenções de nomenclatura nos padrões de&lt;br/&gt;codificação)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-47" y="423" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="yOmhH3DDkZkeIaBqMNxL-2" source="3RIouuorLETAMt99Ym2a-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-205" y="378" as="sourcePoint" />
+            <mxPoint x="786.75" y="512" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOmhH3DDkZkeIaBqMNxL-2" value="Especificações incorretas da interface (p. ex., número, tipo ou ordem de parâmetros&lt;br/&gt;incompatíveis)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143" y="423" width="264.75" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
