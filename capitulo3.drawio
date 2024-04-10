@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T01:54:57.695Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uS5X_qNl_pERepMjlgHZ" version="24.2.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-04-10T01:55:21.088Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="_p0yicS6gLpeYC4JFPV0" version="24.2.3" type="github" pages="7">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2728" dy="1268" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -597,8 +597,8 @@
         <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-19" value="Garante o andamento eficaz das reuniões&lt;br&gt;de revisão, incluindo mediação, gerenciamento de tempo e um ambiente de revisão seguro&lt;br&gt;no qual todos possam falar livremente" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="-15" y="427.25" width="120" height="159.75" as="geometry" />
         </mxCell>
-        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-21" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="114" y="426" width="120" height="60" as="geometry" />
+        <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-21" value="reúne as anomalias dos revisores e registra&lt;br&gt;as informações da revisão, como decisões e novas anomalias encontradas durante a reunião&lt;br&gt;de revisão" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="114" y="426" width="120" height="163" as="geometry" />
         </mxCell>
         <mxCell id="dz9BQ5D-7ucQQ0n-IjF9-23" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="241" y="428.5" width="120" height="60" as="geometry" />
