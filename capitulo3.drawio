@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-09T23:58:38.759Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cAY6JKzsHA4W0oruwsCL" version="24.2.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-04-10T00:00:04.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="0Oy75cbN-vCJ-crzHR1N" version="24.2.3" type="github" pages="4">
   <diagram name="Subtopico 3.1" id="FHBbX2Ftzviat2LYpkoD">
     <mxGraphModel dx="2234" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -270,7 +270,7 @@
             <mxPoint x="112" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="Os testes estáticos encontram defeitos diretamente, enquanto os testes dinâmicos causam&lt;br&gt;falhas a partir das quais os defeitos associados são determinados por meio de análises&lt;br&gt;subsequentes." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="iY-EWvFe28gbte6yZgbC-5" value="Os testes estáticos encontram &lt;b&gt;defeitos &lt;/b&gt;diretamente, enquanto os testes dinâmicos causam&lt;br&gt;falhas a partir das quais os defeitos associados são determinados por meio de análises&lt;br&gt;subsequentes." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-320" y="117" width="235" height="106" as="geometry" />
         </mxCell>
         <mxCell id="iY-EWvFe28gbte6yZgbC-6" value="Os testes estáticos e dinâmicos (com análise de falhas) podem levar à detecção de defeitos,&lt;br&gt;mas há alguns tipos de defeitos que só podem ser encontrados por meio de testes estáticos&lt;br&gt;&lt;b&gt;ou &lt;/b&gt;dinâmicos." style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
