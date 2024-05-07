@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T16:10:40.207Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="PDeJOzZWhml_G4HWYu5L" version="24.3.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-07T16:12:09.835Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="rAg_7cfXqZs6OcS5pZ3V" version="24.3.1" type="github" pages="2">
   <diagram name="5.1" id="SFLUbGUqWWrvMVKBUZD-">
     <mxGraphModel dx="1834" dy="1138" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
         <mxCell id="V8X5RBsN4FztctGjWCXw-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8X5RBsN4FztctGjWCXw-11" target="V8X5RBsN4FztctGjWCXw-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V8X5RBsN4FztctGjWCXw-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Informações usadas para avaliar o progresso do teste&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V8X5RBsN4FztctGjWCXw-11" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Informações usadas para &lt;b&gt;avaliar &lt;/b&gt;o progresso do teste&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-8.5" y="306" width="203" height="64" as="geometry" />
         </mxCell>
         <mxCell id="V8X5RBsN4FztctGjWCXw-15" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;E para medir&amp;nbsp; se os critérios de saída do &lt;br&gt;teste foram atendidos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -101,10 +101,10 @@
         <mxCell id="V8X5RBsN4FztctGjWCXw-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="V8X5RBsN4FztctGjWCXw-21" target="V8X5RBsN4FztctGjWCXw-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="V8X5RBsN4FztctGjWCXw-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Informações usadas para avaliar o progresso do teste&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V8X5RBsN4FztctGjWCXw-21" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Para &lt;b&gt;fornecer&amp;nbsp;&lt;/b&gt;orientação e as ações corretivas&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="306" width="203" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="V8X5RBsN4FztctGjWCXw-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;E para medir&amp;nbsp; se os critérios de saída do &lt;br&gt;teste foram atendidos&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V8X5RBsN4FztctGjWCXw-22" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;Para obter testes mais eficazes e eficientes&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="371" y="410" width="203" height="63" as="geometry" />
         </mxCell>
       </root>
